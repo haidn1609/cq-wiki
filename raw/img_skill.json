@@ -1,0 +1,258 @@
+{
+"Apply Poison": {
+"img": "img/skill/applypoison.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Apply_Poison.png"
+},
+"BLBT-009 Support Turret": {
+"img": "img/skill/blbt009supportturret.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:BLBT-009_Support_Turret.png"
+},
+"Bullet Improvement!": {
+"img": "img/skill/bulletimprovement.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Bullet_Improvement!.png"
+},
+"CURV-603 Carpet Bomb": {
+"img": "img/skill/curv603carpetbomb.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:CURV-603_Carpet_Bomb.png"
+},
+"Consecutive Depth Bomb": {
+"img": "img/skill/consecutivedepthbomb.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Consecutive_Depth_Bomb.png"
+},
+"Dancing Blade": {
+"img": "img/skill/dancingblade.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Dancing_Blade.png"
+},
+"Energy of Goddess": {
+"img": "img/skill/energyofgoddess.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Energy_of_Goddess.png"
+},
+"Fire Rain": {
+"img": "img/skill/firerain.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Fire_Rain.png"
+},
+"Flames of Avarice": {
+"img": "img/skill/flamesofavarice.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Flame_of_Avarice.png"
+},
+"Float like a Butterfly, Sting like a Bee!": {
+"img": "img/skill/floatlikeabutterflystinglikeabee.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Float_like_a_Butterfly_Sting_like_a_Bee!.png"
+},
+"Heaven Slash": {
+"img": "img/skill/heavenslash.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Heaven_Slash.png"
+},
+"Light of Grace": {
+"img": "img/skill/lightofgrace.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Light_of_Grace.png"
+},
+"Lower the Anchor": {
+"img": "img/skill/lowertheanchor.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Lower_the_Anchor!.png"
+},
+"Mana Recycle": {
+"img": "img/skill/manarecycle.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Mana_Recycle.png"
+},
+"Mana Shield": {
+"img": "img/skill/manashield.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Mana_Shield.png"
+},
+"Mysterious Fog": {
+"img": "img/skill/mysteriousfog.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Mysterious_Fog.png"
+},
+"Overflowing Determination": {
+"img": "img/skill/overflowingdetermination.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Overflowing_Determination.png"
+},
+"Resurrection": {
+"img": "img/skill/resurrection.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Resurrection.png"
+},
+"Revolution Hammer": {
+"img": "img/skill/revolutionhammer.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Revolution_Hammer.png"
+},
+"Shield of Invincibility": {
+"img": "img/skill/shieldofinvincibility.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Shield_of_Invincibility.png"
+},
+"Spinning Storm": {
+"img": "img/skill/spinningstorm.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Spinning_Storm.png"
+},
+"Swift Attack": {
+"img": "img/skill/swiftattack.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Swift_Attack.png"
+},
+"Thorns of Vengeance": {
+"img": "img/skill/thornsofvengeance.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Thorns_of_Vengeance.png"
+},
+"Threat at the Back": {
+"img": "img/skill/threatattheback.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Threat_at_the_Back.png"
+},
+"Thunderbolt": {
+"img": "img/skill/thunderbolt.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Thunderbolt.png"
+},
+"Time for Blood Donation!": {
+"img": "img/skill/timeforblooddonation.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Time_for_Blood_Donation!.png"
+},
+"Voice of the Spirit": {
+"img": "img/skill/voiceofthespirit.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Voice_of_the_Spirit.png"
+},
+"Voice of the spirit": {
+"img": "img/skill/voiceofthespirit.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Voice_of_the_Spirit.png"
+},
+"Western Gunner": {
+"img": "img/skill/westerngunner.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Western_Gunner.png"
+},
+"Wrath of Goddess": {
+"img": "img/skill/wrathofgoddess.png",
+"src": "https://crusadersquest.fandom.com/wiki/File:Wrath_of_Goddess.png"
+},
+"Spirit of Vengeance": {
+"img": "img/skill/spiritofvengeance.png",
+"src": "https://wiki.biligame.com/cq/%E6%83%A9%E6%88%92%E4%B9%8B%E9%AD%82"
+},
+"Spirit of Protection": {
+"img": "img/skill/spiritofprotection.png",
+"src": "https://wiki.biligame.com/cq/%E5%AE%88%E6%8A%A4%E4%B9%8B%E9%AD%82"
+},
+"Spirit of Mana": {
+"img": "img/skill/spiritofmana.png",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E5%8A%9B%E4%B9%8B%E9%AD%82"
+},
+"Rapid Firing Soul": {
+"img": "img/skill/rapidfiringsoul.png",
+"src": "https://wiki.biligame.com/cq/%E9%80%9F%E5%B0%84%E4%B9%8B%E9%AD%82"
+},
+"Deadly Soul": {
+"img": "img/skill/deadlysoul.png",
+"src": "https://wiki.biligame.com/cq/%E5%BF%85%E6%9D%80%E4%B9%8B%E9%AD%82"
+},
+"Sanctuary of the Goddess": {
+"img": "img/skill/sanctuaryofthegoddess.png",
+"src": "https://wiki.biligame.com/cq/%E5%A5%B3%E7%A5%9E%E5%9C%A3%E5%9F%9F"
+},
+"Protection of the Goddess": {
+"img": "img/skill/protectionofthegoddess.png",
+"src": "https://wiki.biligame.com/cq/%E7%A5%9E%E5%9C%A3%E5%BA%87%E6%8A%A4"
+},
+"Smile of the Goddess": {
+"img": "img/skill/smileofthegoddess.png",
+"src": "https://wiki.biligame.com/cq/%E6%8B%AF%E6%95%91%E7%A5%9D%E7%A6%8F"
+},
+"MB-8 Grenade": {
+"img": "img/skill/mb8grenade.png",
+"src": "https://wiki.biligame.com/cq/%E6%89%8B%E6%A6%B4%E5%BC%B9"
+},
+"Shadow Mage": {
+"img": "img/skill/shadowmage.png",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E5%8A%9B%E4%B9%8B%E9%AD%82"
+},
+"Spirit of Benevolence": {
+"img": "img/skill/spiritofbenevolence.png",
+"src": "https://wiki.biligame.com/cq/%E4%BB%81%E7%88%B1%E4%B9%8B%E9%AD%82"
+},
+"Wind Slash": {
+"img": "img/skill/windslash.png",
+"src": "https://wiki.biligame.com/cq/%E7%96%BE%E9%A3%8E%E6%96%A9"
+},
+"Final Judgement": {
+"img": "img/skill/finaljudgement.png",
+"src": "https://wiki.biligame.com/cq/%E6%AD%A3%E4%B9%89%E5%AE%A1%E5%88%A4"
+},
+"Crescent Moon Rampage": {
+"img": "img/skill/crescentmoonrampage.png",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E7%89%99%E5%A4%A9%E5%86%B2"
+},
+"Shout of Courage": {
+"img": "img/skill/shoutofcourage.png",
+"src": "https://wiki.biligame.com/cq/%E8%83%9C%E5%88%A9%E6%80%92%E5%90%BC"
+},
+"Strength of Oppression": {
+"img": "img/skill/strengthofoppression.png",
+"src": "https://wiki.biligame.com/cq/%E9%9B%B7%E9%9C%86%E4%B9%8B%E5%87%BB"
+},
+"Holy Hammer": {
+"img": "img/skill/holyhammer.png",
+"src": "https://wiki.biligame.com/cq/%E7%A5%9E%E5%9C%A3%E6%B3%95%E6%A7%8C"
+},
+"Blade Storm": {
+"img": "img/skill/bladestorm.png",
+"src": "https://wiki.biligame.com/cq/%E5%9B%9E%E6%97%8B%E4%B9%8B%E5%88%83"
+},
+"Phoenix Feather": {
+"img": "img/skill/phoenixfeather.png",
+"src": "https://wiki.biligame.com/cq/%E7%81%AB%E5%87%A4%E7%87%8E%E5%8E%9F"
+},
+"Blitz": {
+"img": "img/skill/blitz.png",
+"src": "https://wiki.biligame.com/cq/%E9%A3%8E%E9%AD%94%E6%89%8B%E9%87%8C%E5%89%91"
+},
+"NS-17 Smoke Bomb": {
+"img": "img/skill/ns17smokebomb.png",
+"src": "https://wiki.biligame.com/cq/%E7%83%9F%E5%B9%95%E5%BC%B9"
+},
+"ILSU-425 Bombing": {
+"img": "img/skill/ilsu425bombing.png",
+"src": "https://wiki.biligame.com/cq/%E7%81%AB%E7%AE%AD%E8%BD%B0%E5%87%BB"
+},
+"Overdrive!": {
+"img": "img/skill/overdrive.png",
+"src": "https://wiki.biligame.com/cq/%E6%9E%AA%E6%9E%97%E5%BC%B9%E9%9B%A8"
+},
+"Call of Darkness": {
+"img": "img/skill/callofdarkness.png",
+"src": "https://wiki.biligame.com/cq/%E6%89%AD%E6%9B%B2%E7%A9%BA%E9%97%B4"
+},
+"Flame Spirit": {
+"img": "img/skill/flamespirit.png",
+"src": "https://wiki.biligame.com/cq/%E5%8F%AC%E5%94%A4%E7%81%AB%E7%B2%BE%E7%81%B5"
+},
+"Magic Storm": {
+"img": "img/skill/magicstorm.png",
+"src": "https://wiki.biligame.com/cq/%E6%B7%B7%E4%B9%B1%E9%A3%8E%E6%9A%B4"
+},
+"Consecutive Magic Beam": {
+"img": "img/skill/consecutivemagicbeam.png",
+"src": "https://wiki.biligame.com/cq/%E7%BB%88%E6%9E%81%E9%97%AA%E5%85%89"
+},
+"Electric Sphere": {
+"img": "img/skill/electricsphere.png",
+"src": "https://wiki.biligame.com/cq/%E7%AD%89%E7%A6%BB%E5%AD%90%E8%A3%82%E5%8F%98"
+},
+"Fierce Totem": {
+"img": "img/skill/fiercetotem.png",
+"src": "https://wiki.biligame.com/cq/%E5%9B%BE%E8%85%BE%E4%B9%8B%E5%8A%9B"
+},
+"Power Max": {
+"img": "img/74e0e8d177df.png",
+"src": "https://docs.google.com/spreadsheets/d/1iQj-tdjBtey3zPn8fiy53UWj0Pq-R7NljdNmqpg4YrU"
+},
+"Dancing Blades": {
+"img": "img/f9f69c8d9c1f.png",
+"src": "https://docs.google.com/spreadsheets/d/1iQj-tdjBtey3zPn8fiy53UWj0Pq-R7NljdNmqpg4YrU"
+},
+"Bullet Improvment!": {
+"img": "img/991fbda6915f.png",
+"src": "https://docs.google.com/spreadsheets/d/1iQj-tdjBtey3zPn8fiy53UWj0Pq-R7NljdNmqpg4YrU"
+},
+"Pheonix Feather": {
+"img": "img/fc3ac8f68e94.png",
+"src": "https://docs.google.com/spreadsheets/d/1iQj-tdjBtey3zPn8fiy53UWj0Pq-R7NljdNmqpg4YrU"
+},
+"Lapis & Lazuli": {
+"img": "img/787ff15cf4a3.png",
+"src": "https://docs.google.com/spreadsheets/d/1iQj-tdjBtey3zPn8fiy53UWj0Pq-R7NljdNmqpg4YrU"
+}
+}

@@ -1,0 +1,2039 @@
+[
+ {
+  "hero": "Abel",
+  "skins": [
+   {
+    "name": "Prince Abel",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "格兰鲁克雅 亚伯": [
+    "攻击力",
+    "命中率"
+   ],
+   "王子 亚伯": [
+    "体力",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "Achilles",
+  "skins": [
+   {
+    "name": "Gladiator Achilles",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "剑士阿基里斯": [
+    "攻击力",
+    "暴击率"
+   ],
+   "苏丹 阿基里斯": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Alexander",
+  "skins": [
+   {
+    "name": "Halloween Count Alexander",
+    "stat": "Eva++"
+   },
+   {
+    "name": "Summer Vacation Alexander",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "万圣节伯爵亚历山大": [
+    "体力",
+    "回避率"
+   ],
+   "东方游子亚历山大": [
+    "攻击力",
+    "体力"
+   ],
+   "夜之绅士亚历山大": [
+    "体力"
+   ],
+   "暑假亚历山大": [
+    "物理防御",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Alice",
+  "skins": [
+   {
+    "name": "Master Gambler Alice",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "喵喵 爱丽丝": [
+    "攻击力"
+   ],
+   "终结者爱丽丝": [
+    "暴击率",
+    "暴击伤害"
+   ]
+  }
+ },
+ {
+  "hero": "Archon",
+  "skins": [
+   {
+    "name": "Goddess of the Beach Archon",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "女教师雅甘": [
+    "攻击力"
+   ],
+   "海边女神 雅甘": [
+    "命中率",
+    "物理防御"
+   ]
+  }
+ },
+ {
+  "hero": "Arita",
+  "skins": [
+   {
+    "name": "Young Duchess Arita",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "贵族英爱 娅莉塔": [
+    "攻击力",
+    "命中率"
+   ],
+   "邪恶的魔女 娅莉塔": [
+    "攻击力"
+   ],
+   "邪恶的魔女娅莉塔": [
+    "攻击力"
+   ],
+   "魔法学校 娅莉塔": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Athena",
+  "skins": [
+   {
+    "name": "Awakened Goddess Athena",
+    "stat": "Acc+"
+   },
+   {
+    "name": "Madame Athena",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "女神降临 雅典娜": [
+    "攻击力",
+    "命中率"
+   ],
+   "贵夫人·雅典娜": [
+    "体力",
+    "物理防御"
+   ]
+  }
+ },
+ {
+  "hero": "Beatrice",
+  "skins": [
+   {
+    "name": "Beatrice of Hope",
+    "stat": "Eva+"
+   },
+   {
+    "name": "Magic Professor Beatrice",
+    "stat": ""
+   }
+  ],
+  "candidates_zh": {
+   "含羞待放 贝阿朵莉切": [
+    "攻击力",
+    "体力"
+   ],
+   "希望之光 贝阿朵莉切": [
+    "体力",
+    "回避率"
+   ],
+   "魔法教授 贝阿朵莉切": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Benjamin",
+  "skins": [
+   {
+    "name": "Chief Research Officer Benjamin",
+    "stat": "Eva++"
+   }
+  ],
+  "candidates_zh": {
+   "梦魔宾森恩": [
+    "攻击力"
+   ],
+   "研究局长 宾森恩": [
+    "攻击力",
+    "回避率"
+   ]
+  }
+ },
+ {
+  "hero": "Cain",
+  "skins": [
+   {
+    "name": "Tyrant Cain",
+    "stat": "Arm+"
+   },
+   {
+    "name": "Grand Fiecido Cain",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "暴君该隐": [
+    "攻击力",
+    "物理防御"
+   ],
+   "格兰皮耶西多 该隐": [
+    "物理防御",
+    "回避率"
+   ]
+  }
+ },
+ {
+  "hero": "Cano",
+  "skins": [
+   {
+    "name": "Superstar Cano",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "桑巴舞女 明日香": [
+    "攻击力",
+    "体力"
+   ],
+   "超级明星 明日香": [
+    "体力",
+    "暴击伤害"
+   ],
+   "魔法学校 明日香": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Captain",
+  "skins": [
+   {
+    "name": "Ancient Captain",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "最终兵器首领": [
+    "攻击力"
+   ],
+   "爱伦斯特 鲁格斯": [
+    "物理防御",
+    "回避率"
+   ]
+  }
+ },
+ {
+  "hero": "Crow",
+  "skins": [
+   {
+    "name": "Baby Chick Crow",
+    "stat": ""
+   },
+   {
+    "name": "Steampumk Crow",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "小鸡班 乌鸦": [
+    "攻击力"
+   ],
+   "蒸汽朋克 乌鸦": [
+    "体力",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "D'Artagnan",
+  "skins": [
+   {
+    "name": "Harvest Festival D'Artagnan",
+    "stat": "Acc++"
+   },
+   {
+    "name": "Captain D'Artagnan",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "收获季·达达尼昂": [
+    "命中率",
+    "暴击伤害"
+   ],
+   "枪手队长达达尼昂": [
+    "暴击率",
+    "暴击伤害"
+   ],
+   "秋收季·达达尼昂": [
+    "攻击力",
+    "暴击伤害"
+   ]
+  }
+ },
+ {
+  "hero": "Dara",
+  "skins": [
+   {
+    "name": "Dara of Gleaming Blossoms",
+    "stat": "Def+"
+   },
+   {
+    "name": "Dara of Lotus",
+    "stat": "Def+"
+   }
+  ],
+  "candidates_zh": {
+   "节日舞女达拉": [
+    "攻击力",
+    "体力"
+   ],
+   "花灯之火 达拉": [
+    "物理防御",
+    "魔法防御"
+   ],
+   "莲花达拉": [
+    "物理防御",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "Demeter",
+  "skins": [
+   {
+    "name": "Noble Lady Demeter",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "令夫人·德米特尔": [
+    "体力",
+    "暴击伤害"
+   ],
+   "农业学校 德米特尔": [
+    "攻击力"
+   ],
+   "暑假 德米特尔": [
+    "攻击力",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Demona",
+  "skins": [
+   {
+    "name": "Hell Princess Demona",
+    "stat": "CC+"
+   },
+   {
+    "name": "Camping Girl Demona",
+    "stat": ""
+   }
+  ],
+  "candidates_zh": {
+   "地狱公主·德姆娜": [
+    "暴击率",
+    "暴击伤害"
+   ],
+   "露营少女 德姆娜": [
+    "攻击力",
+    "命中率"
+   ],
+   "魔法学校 德姆娜": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Dorothy",
+  "skins": [
+   {
+    "name": "Dorothy the White Witch",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "白色魔女桃乐丝": [
+    "攻击力",
+    "暴击率"
+   ],
+   "魔法学校 桃乐丝": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Dox",
+  "skins": [
+   {
+    "name": "Puppy Dox",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校德斯": [
+    "攻击力"
+   ],
+   "小狗德斯": [
+    "攻击力",
+    "命中率"
+   ],
+   "花犬 德斯": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Drake",
+  "skins": [
+   {
+    "name": "Ghost Captain Drake",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "幽灵伯爵 德雷克": [
+    "体力"
+   ],
+   "幽灵伯爵德雷克": [
+    "体力"
+   ],
+   "幽灵船长德雷克": [
+    "体力",
+    "暴击伤害"
+   ],
+   "魔法教授 德雷克": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Faust",
+  "skins": [
+   {
+    "name": "Professor Faust",
+    "stat": "Eva++"
+   }
+  ],
+  "candidates_zh": {
+   "天才博士 福斯特": [
+    "回避率"
+   ],
+   "幽灵新郎福斯特": [
+    "体力",
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Giparang",
+  "skins": [
+   {
+    "name": "Fox Spirit Giparang",
+    "stat": "CC++"
+   },
+   {
+    "name": "Giparang of Moonlit Lanterns",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "月下花灯 奇波郎": [
+    "攻击力",
+    "命中率"
+   ],
+   "狐狸少年奇波郎": [
+    "暴击率",
+    "暴击伤害"
+   ]
+  }
+ },
+ {
+  "hero": "Gon",
+  "skins": [
+   {
+    "name": "Princess Gon",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校坤": [
+    "攻击力"
+   ],
+   "坤主人 坤": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "龙龙 坤": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Hanzo",
+  "skins": [
+   {
+    "name": "Fox Mask Hanzo",
+    "stat": "Acc+"
+   },
+   {
+    "name": "Lonely Bass Hanzo",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "假面狐狸 半藏": [
+    "攻击力",
+    "命中率"
+   ],
+   "孤独低音半藏": [
+    "攻击力",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "Hector",
+  "skins": [
+   {
+    "name": "Guest of Honor Hector",
+    "stat": "Acc+"
+   },
+   {
+    "name": "Police Captain Hector",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "主宾·赫克托尔": [
+    "物理防御",
+    "命中率"
+   ],
+   "宪兵队 赫克托尔": [
+    "物理防御",
+    "回避率"
+   ]
+  }
+ },
+ {
+  "hero": "Hikari",
+  "skins": [
+   {
+    "name": "Teddy Bear Hikari",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "3000日纪念小光": [
+    "攻击力"
+   ],
+   "梦幻的紫蝴蝶小光": [
+    "暴击伤害",
+    "暴击率"
+   ],
+   "泰迪熊 小光": [
+    "暴击伤害",
+    "暴击率"
+   ],
+   "私立弓道学园小光": [
+    "攻击力",
+    "暴击率"
+   ]
+  }
+ },
+ {
+  "hero": "Himiko",
+  "skins": [
+   {
+    "name": "Exorcist Himiko",
+    "stat": "Def+"
+   },
+   {
+    "name": "Razor Kitsune Himiko",
+    "stat": ""
+   }
+  ],
+  "candidates_zh": {
+   "狐狸 卑弥呼": [
+    "攻击力",
+    "体力"
+   ],
+   "红莲 卑弥呼": [
+    "全属性"
+   ],
+   "雪之巫女卑弥呼": [
+    "攻击力",
+    "体力"
+   ],
+   "驱魔少女卑弥呼": [
+    "物理防御",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "Isabel",
+  "skins": [
+   {
+    "name": "Consumed Isabel",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "完全侵蚀伊莎贝尔": [
+    "攻击力",
+    "暴伤"
+   ],
+   "暴走的灵魂 伊莎贝尔": [
+    "攻击力",
+    "回避"
+   ]
+  }
+ },
+ {
+  "hero": "Joan",
+  "skins": [
+   {
+    "name": "Joan, Knight of Roses",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "双板滑雪者 贞德": [
+    "攻击力",
+    "体力"
+   ],
+   "蔷薇骑士圣女贞德": [
+    "魔法防御",
+    "体力"
+   ],
+   "蔷薇骑士圣女贞德（新）": [
+    "魔法防御",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Kaori",
+  "skins": [
+   {
+    "name": "Sleep Fairy Kaori",
+    "stat": "Acc++"
+   },
+   {
+    "name": "Gangster Kaori",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "不良学生香织": [
+    "攻击力",
+    "暴击率"
+   ],
+   "农业学校香织": [
+    "攻击力"
+   ],
+   "睡觉的精灵 香织": [
+    "暴击伤害",
+    "命中率"
+   ]
+  }
+ },
+ {
+  "hero": "Korin",
+  "skins": [
+   {
+    "name": "Flower Korin",
+    "stat": ""
+   },
+   {
+    "name": "Winter Girl Korin",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "冬日少女 桂香": [
+    "体力",
+    "魔法防御"
+   ],
+   "花样桂香": [
+    "攻击力",
+    "体力"
+   ],
+   "魔法学校桂香": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Koxinga",
+  "skins": [
+   {
+    "name": "Victorious General Koxinga",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "凯旋将军 郑成功": [
+    "回避率",
+    "魔法防御"
+   ],
+   "鱼叉潜水员 郑成功": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Kriemhild",
+  "skins": [
+   {
+    "name": "Kriemhild of Dreams",
+    "stat": "CC+"
+   },
+   {
+    "name": "Kriemhild under the Summer Sun",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "亮丽的阳光 克里姆希尔特": [
+    "命中率",
+    "物理防御"
+   ],
+   "梦中的克里姆希尔特": [
+    "攻击力",
+    "暴击率"
+   ]
+  }
+ },
+ {
+  "hero": "Lee",
+  "skins": [
+   {
+    "name": "Flower of the Court Lee",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "华丽的表演 李": [
+    "攻击力",
+    "暴击率"
+   ],
+   "巴黎人 李": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Leon",
+  "skins": [
+   {
+    "name": "Magmax Leon",
+    "stat": "CC+"
+   },
+   {
+    "name": "Leon of Fate",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "命运之子里昂": [
+    "攻击力",
+    "物理防御"
+   ],
+   "水枪庆典 里昂": [
+    "攻击力",
+    "体力"
+   ],
+   "玛格纳斯里昂": [
+    "暴击率",
+    "体力"
+   ],
+   "纪念2000天 里昂": [
+    "攻击力"
+   ],
+   "魔法学校里昂": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Lilith",
+  "skins": [
+   {
+    "name": "Ice Queen Lilith",
+    "stat": "CC++"
+   },
+   {
+    "name": "Carnival Lilith",
+    "stat": "Def+"
+   }
+  ],
+  "candidates_zh": {
+   "冰雪女王·莉莉丝": [
+    "攻击力",
+    "暴击率"
+   ],
+   "嘉年华 莉莉丝": [
+    "物理防御",
+    "魔法防御"
+   ],
+   "魔法学校 莉莉丝": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Lorelei",
+  "skins": [
+   {
+    "name": "Plumber Lorelei",
+    "stat": ""
+   },
+   {
+    "name": "Treasure Hunter Lorelei",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "修理工 罗蕾莱": [
+    "攻击力",
+    "体力"
+   ],
+   "宝物猎人罗蕾莱": [
+    "体力",
+    "魔法防御"
+   ],
+   "工业学校罗蕾莱": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Lupeow",
+  "skins": [
+   {
+    "name": "Black Cat Lupeow",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校路尼昂": [
+    "攻击力"
+   ],
+   "赞助者 路尼昂": [
+    "攻击力"
+   ],
+   "黑色小猫 路尼昂": [
+    "物理防御",
+    "命中率"
+   ]
+  }
+ },
+ {
+  "hero": "Magnus",
+  "skins": [
+   {
+    "name": "Magnus of White Roses",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校 麦格尼斯": [
+    "攻击力"
+   ],
+   "射手团长麦格尼斯": [
+    "攻击力"
+   ],
+   "白玫瑰 麦格尼斯": [
+    "攻击力",
+    "暴击率"
+   ]
+  }
+ },
+ {
+  "hero": "Mamba",
+  "skins": [
+   {
+    "name": "Snake Magician Mamba",
+    "stat": "Acc++"
+   }
+  ],
+  "candidates_zh": {
+   "响尾蛇 曼巴": [
+    "攻击力"
+   ],
+   "国家代表 曼巴": [
+    "攻击力",
+    "体力"
+   ],
+   "训蛇师曼巴": [
+    "命中率",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "Mandy",
+  "skins": [
+   {
+    "name": "Clover Girl Mandy",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "三叶草少女 明蒂": [
+    "攻击力",
+    "暴击率"
+   ],
+   "棒棒糖明蒂": [
+    "暴击率",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Maria",
+  "skins": [
+   {
+    "name": "Summer Vacation Maria",
+    "stat": "Def+"
+   }
+  ],
+  "candidates_zh": {
+   "夏日大作战玛利亚": [
+    "物理防御",
+    "魔法防御"
+   ],
+   "爱情制造者 玛利亚": [
+    "魔法防御",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Maxi",
+  "skins": [
+   {
+    "name": "Vibrant Quartet Maxi",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校 梅西": [
+    "攻击力"
+   ],
+   "周转四重奏梅西": [
+    "暴击伤害"
+   ],
+   "松鼠 梅西": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Melissa",
+  "skins": [
+   {
+    "name": "Bunny Magician Melissa",
+    "stat": "CC++"
+   },
+   {
+    "name": "Girl Scout Melissa",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "兔耳朵梅丽莎": [
+    "攻击力",
+    "暴击率"
+   ],
+   "女童子军 梅丽莎": [
+    "体力",
+    "魔法防御"
+   ],
+   "魔法学校 梅丽莎": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Mew",
+  "skins": [
+   {
+    "name": "Ghost Cat Mew",
+    "stat": "Res+"
+   },
+   {
+    "name": "Halloween Witch Mew",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "万圣节魔女喵": [
+    "物理防御",
+    "体力"
+   ],
+   "农业学校 喵": [
+    "攻击力"
+   ],
+   "夏日大作战喵": [
+    "攻击力",
+    "体力"
+   ],
+   "平行宇宙喵": [
+    "攻击力"
+   ],
+   "鬼计猫娘 喵": [
+    "魔法防御",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Mondrian",
+  "skins": [
+   {
+    "name": "Golden Laureate Mondrian",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "微服私访李梦龙": [
+    "攻击力"
+   ],
+   "金樽美酒家 李梦龙": [
+    "暴击率",
+    "回避率"
+   ]
+  }
+ },
+ {
+  "hero": "Monte",
+  "skins": [
+   {
+    "name": "Full Armor Monte",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "工业学校蒙泰": [
+    "攻击力"
+   ],
+   "蒙泰98": [
+    "攻击力",
+    "体力"
+   ],
+   "重装铠甲 蒙泰": [
+    "攻击力",
+    "物理防御"
+   ]
+  }
+ },
+ {
+  "hero": "Mundeok",
+  "skins": [
+   {
+    "name": "Foreign Knight Mundeok",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "异国骑士·文德": [
+    "攻击力",
+    "物理防御"
+   ],
+   "风月主人 文德": [
+    "攻击力",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Nazrune",
+  "skins": [
+   {
+    "name": "Ancient Sorceror Nazrne",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "3000日纪念纳兹伦": [
+    "攻击力"
+   ],
+   "亡灵牧人纳兹伦": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "农业学校纳兹伦": [
+    "攻击力"
+   ],
+   "古代巫师·纳兹伦": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "圣人 纳兹伦": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Necron",
+  "skins": [
+   {
+    "name": "Necron of Cataclysm",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "深夜的内克伦": [
+    "攻击力"
+   ],
+   "落魄的内克伦": [
+    "体力",
+    "物理防御"
+   ],
+   "魔法教授 内克伦": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Nightingale",
+  "skins": [
+   {
+    "name": "Divine Choir Nightingale",
+    "stat": "Def+"
+   },
+   {
+    "name": "Nightingbunny",
+    "stat": ""
+   }
+  ],
+  "candidates_zh": {
+   "兔子 南丁格尔": [
+    "攻击力",
+    "体力"
+   ],
+   "合唱队·南丁格尔": [
+    "物理防御",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "Niven",
+  "skins": [
+   {
+    "name": "Assassin of the Cold Niven",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "酷寒暗杀者 妮芬": [
+    "物理防御",
+    "暴击率"
+   ],
+   "黑天鹅 妮芬": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "No. 9",
+  "skins": [
+   {
+    "name": "Winter Maiden No.09",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "3000日纪念九妹": [
+    "攻击力"
+   ],
+   "兔女郎九妹": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "迎新年 九妹": [
+    "攻击力",
+    "暴击伤害"
+   ]
+  }
+ },
+ {
+  "hero": "Nurspy",
+  "skins": [
+   {
+    "name": "Eastern Assassin Nurspy",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "东方间谍 诺斯帕伊": [
+    "攻击力",
+    "暴击率"
+   ],
+   "农业学校诺斯帕伊": [
+    "攻击力"
+   ],
+   "魅魔 诺斯帕伊": [
+    "攻击力",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "R",
+  "skins": [
+   {
+    "name": "Winter Mode R-0",
+    "stat": "CD+"
+   },
+   {
+    "name": "Spring Bride R-0",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "5月新娘阿尔-零号机": [
+    "攻击力",
+    "命中率"
+   ],
+   "冬日模式 阿尔-零号机": [
+    "攻击力",
+    "暴击伤害"
+   ]
+  }
+ },
+ {
+  "hero": "Rachel",
+  "skins": [
+   {
+    "name": "Rachel of Raining Blossoms",
+    "stat": "Acc++"
+   },
+   {
+    "name": "Vocal of the Void Rachel",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "空虚主唱瑞秋": [
+    "攻击力",
+    "暴击率"
+   ],
+   "花雨天瑞秋": [
+    "命中率",
+    "暴击伤害"
+   ],
+   "魔法学校 瑞秋": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Rahima",
+  "skins": [
+   {
+    "name": "Private Animal Club Rahima",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校 拉喜玛": [
+    "攻击力"
+   ],
+   "私立动物部 拉喜玛": [
+    "攻击力",
+    "命中率"
+   ],
+   "航海士 拉喜玛": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Robin",
+  "skins": [
+   {
+    "name": "Devastating Drummer Robin Hood",
+    "stat": "CC++"
+   },
+   {
+    "name": "Robin Hood of Dusk",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "朦胧的夜晚罗宾汉": [
+    "攻击力",
+    "暴击率"
+   ],
+   "热情的鼓手 罗宾汉": [
+    "暴击伤害",
+    "暴击率"
+   ],
+   "罪囚罗宾汉": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Rochefort",
+  "skins": [
+   {
+    "name": "Neth Commander Rochefort",
+    "stat": "CC+"
+   },
+   {
+    "name": "Moon Rabbit",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "月兔·罗什福尔": [
+    "魔法防御",
+    "暴击伤害"
+   ],
+   "涅斯司令官罗什福尔": [
+    "物理防御",
+    "暴击率"
+   ]
+  }
+ },
+ {
+  "hero": "Roland",
+  "skins": [
+   {
+    "name": "Dark Priest Roland",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "爱之告白 罗兰": [
+    "体力",
+    "物理防御"
+   ],
+   "金狮罗兰": [
+    "攻击力",
+    "体力"
+   ],
+   "黑祭司罗兰": [
+    "攻击力",
+    "物理防御"
+   ]
+  }
+ },
+ {
+  "hero": "Saiga",
+  "skins": [
+   {
+    "name": "Crimson Pirate Saiga",
+    "stat": "Def+"
+   }
+  ],
+  "candidates_zh": {
+   "炮兵军官 孙市": [
+    "攻击力"
+   ],
+   "红色海贼 孙市": [
+    "魔法防御",
+    "物理防御"
+   ]
+  }
+ },
+ {
+  "hero": "Sasquatch",
+  "skins": [
+   {
+    "name": "Sasquatch of the South",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "南国萨斯夸奇": [
+    "体力",
+    "暴击伤害"
+   ],
+   "浣熊 萨斯夸奇": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Sentinel",
+  "skins": [
+   {
+    "name": "Full Armor Sentinel",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "全副武装哨兵帝": [
+    "暴击率",
+    "暴击伤害"
+   ],
+   "科幻 哨兵": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Siegfried",
+  "skins": [
+   {
+    "name": "Siegfried of the Waves",
+    "stat": "CC+"
+   }
+  ],
+  "candidates_zh": {
+   "乘风破浪的 齐格弗里德": [
+    "爆击率",
+    "物理防御"
+   ],
+   "英勇猎人 齐格弗里德": [
+    "攻击力",
+    "物理防御"
+   ]
+  }
+ },
+ {
+  "hero": "Sien",
+  "skins": [
+   {
+    "name": "Franken Sien",
+    "stat": "Eva++"
+   }
+  ],
+  "candidates_zh": {
+   "幽灵新娘希恩": [
+    "攻击力"
+   ],
+   "弗兰肯 希恩": [
+    "回避率"
+   ]
+  }
+ },
+ {
+  "hero": "Sigruna",
+  "skins": [
+   {
+    "name": "Brave Wind Sigruna",
+    "stat": "CC++"
+   },
+   {
+    "name": "Fairy Sigruna",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校溪谷莉娜": [
+    "攻击力"
+   ],
+   "勇猛之风 溪谷莉娜": [
+    "暴击率",
+    "暴击伤害"
+   ],
+   "妖精溪谷莉娜": [
+    "攻击力",
+    "命中率"
+   ]
+  }
+ },
+ {
+  "hero": "Spiny",
+  "skins": [
+   {
+    "name": "Farmer Girl Spiny",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "农家姑娘·斯佩妮": [
+    "命中率",
+    "暴击伤害"
+   ],
+   "平行宇宙的斯佩妮": [
+    "攻击力"
+   ],
+   "海上救援 斯佩妮": [
+    "攻击力"
+   ],
+   "消防员 斯佩妮": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Spyro",
+  "skins": [
+   {
+    "name": "Firefighter Spyro",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "导航员 斯派洛": [
+    "攻击力",
+    "体力"
+   ],
+   "消防员斯派洛": [
+    "攻击力",
+    "暴击伤害"
+   ]
+  }
+ },
+ {
+  "hero": "Stanya",
+  "skins": [
+   {
+    "name": "Homerun King Stanya",
+    "stat": "Acc+"
+   },
+   {
+    "name": "Double Bass Stanya",
+    "stat": ""
+   }
+  ],
+  "candidates_zh": {
+   "双贝斯 斯黛拉": [
+    "攻击力",
+    "体力"
+   ],
+   "工业学校斯黛拉": [
+    "攻击力"
+   ],
+   "本垒打王斯黛拉": [
+    "魔法防御",
+    "命中率"
+   ]
+  }
+ },
+ {
+  "hero": "Stein",
+  "skins": [
+   {
+    "name": "Biker Stein",
+    "stat": ""
+   },
+   {
+    "name": "Mecha Baron Stein",
+    "stat": "Def+"
+   }
+  ],
+  "candidates_zh": {
+   "工业学校斯坦因": [
+    "攻击力"
+   ],
+   "摩托车手 斯坦因": [
+    "攻击力"
+   ],
+   "机械男爵 斯坦因": [
+    "物理防御",
+    "魔法防御"
+   ]
+  }
+ },
+ {
+  "hero": "Susanoo",
+  "skins": [
+   {
+    "name": "Sword Spirit Susanoo",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "刀魂·须佐能乎": [
+    "攻击力",
+    "暴击率"
+   ],
+   "啦啦队 须佐能乎": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Sworden",
+  "skins": [
+   {
+    "name": "Wandering Swordsman Sworden",
+    "stat": "Eva++"
+   }
+  ],
+  "candidates_zh": {
+   "流浪剑士 卞剑秀": [
+    "攻击力",
+    "回避率"
+   ],
+   "狮子妖怪卞剑秀": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Teresa",
+  "skins": [
+   {
+    "name": "Sailor Teresa",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "乖宝宝·麻美": [
+    "攻击力",
+    "暴击率"
+   ],
+   "圣诞·麻美": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "圣诞女孩·麻美": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "圣诞麋鹿·麻美": [
+    "攻击力",
+    "暴击率"
+   ],
+   "平安夜的小偷·麻美": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "平安夜的精灵·麻美": [
+    "攻击力",
+    "暴击率"
+   ],
+   "拐杖糖果·麻美": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "水手服麻美": [
+    "暴击率",
+    "暴击伤害"
+   ],
+   "温暖的冬日·麻美": [
+    "攻击力",
+    "暴击率"
+   ],
+   "满满的礼物·麻美": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "雪人·麻美": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "静夜·麻美": [
+    "攻击力",
+    "暴击率"
+   ],
+   "魔法学校 麻美": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Thor",
+  "skins": [
+   {
+    "name": "Prince Thor",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "工业学校索尔": [
+    "攻击力"
+   ],
+   "王子托尔": [
+    "体力",
+    "物理防御"
+   ],
+   "闪电班 索尔": [
+    "攻击力",
+    "体力"
+   ]
+  }
+ },
+ {
+  "hero": "Tia",
+  "skins": [
+   {
+    "name": "Undercover Tia",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "侍女官迪雅": [
+    "攻击力"
+   ],
+   "冬帽 迪雅": [
+    "攻击力"
+   ],
+   "潜入要员 迪雅": [
+    "攻击力",
+    "命中率"
+   ]
+  }
+ },
+ {
+  "hero": "Uriel",
+  "skins": [
+   {
+    "name": "Dandy Romantic Uriel",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "人生导师乌列": [
+    "攻击力"
+   ],
+   "恋爱老手 乌列": [
+    "攻击力",
+    "命中率"
+   ],
+   "疯狂粉丝 乌列": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Uzimant",
+  "skins": [
+   {
+    "name": "Drum Destroyer Uzimant",
+    "stat": "CD+"
+   },
+   {
+    "name": "Part-time doll clothing · Uzi Clement",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "兼职人偶服装·乌兹门特": [
+    "回避率"
+   ],
+   "铜鼓破坏者乌兹门特": [
+    "命中率",
+    "暴击伤害"
+   ]
+  }
+ },
+ {
+  "hero": "V",
+  "skins": [
+   {
+    "name": "Air Force Officer V",
+    "stat": "Acc+"
+   },
+   {
+    "name": "Snowboarder V",
+    "stat": ""
+   }
+  ],
+  "candidates_zh": {
+   "3000日纪念V": [
+    "攻击力"
+   ],
+   "单板滑雪者 威": [
+    "攻击力"
+   ],
+   "工业学校威": [
+    "攻击力"
+   ],
+   "平行宇宙的威": [
+    "攻击力"
+   ],
+   "空军上校 威": [
+    "暴击伤害",
+    "命中率"
+   ]
+  }
+ },
+ {
+  "hero": "Vane",
+  "skins": [
+   {
+    "name": "Terrifying Keyboard Vane",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "恐怖键盘贝恩": [
+    "体力",
+    "回避率"
+   ],
+   "曲棍球面具 贝恩": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Vesper",
+  "skins": [
+   {
+    "name": "Summer Vacantion Vesper",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "夏日大作战 贝斯派": [
+    "攻击力",
+    "命中率"
+   ],
+   "水之女神 贝斯派": [
+    "攻击力"
+   ],
+   "魔法学校 贝斯派": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Victoria",
+  "skins": [
+   {
+    "name": "Sugar & Spice Victoria",
+    "stat": "CC++"
+   }
+  ],
+  "candidates_zh": {
+   "拉拉队队长 维多利亚": [
+    "体力"
+   ],
+   "新皇维多利亚": [
+    "攻击力"
+   ],
+   "野蛮女友 维多利亚": [
+    "攻击力",
+    "暴击率"
+   ]
+  }
+ },
+ {
+  "hero": "Vincent",
+  "skins": [
+   {
+    "name": "Matador Vincent",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "十字架坟墓 文森特": [
+    "攻击力"
+   ],
+   "斗牛士 文森特": [
+    "攻击力",
+    "物理防御"
+   ]
+  }
+ },
+ {
+  "hero": "Viola",
+  "skins": [
+   {
+    "name": "Ghost Party Viola",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "幽灵咒术师 贝欧琳": [
+    "攻击力"
+   ],
+   "幽灵聚会 贝欧琳": [
+    "魔法防御",
+    "回避率"
+   ],
+   "魔法学校 贝欧琳": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Violet",
+  "skins": [
+   {
+    "name": "Wooden Puppeteer Violet",
+    "stat": ""
+   },
+   {
+    "name": "Nutcracker Violet",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "木偶师 贝萝特": [
+    "攻击力"
+   ],
+   "玩具兵·贝萝特": [
+    "攻击力",
+    "物理防御"
+   ],
+   "魔法学校 贝萝特": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Viper",
+  "skins": [
+   {
+    "name": "Guerilla Viper",
+    "stat": "CD+"
+   }
+  ],
+  "candidates_zh": {
+   "游击队·斯内克": [
+    "攻击力",
+    "暴击伤害"
+   ],
+   "黄金武器 斯内克": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Vivian",
+  "skins": [
+   {
+    "name": "Magic Academy Vivian",
+    "stat": ""
+   },
+   {
+    "name": "Hellmaid Vivian",
+    "stat": "Arm+"
+   }
+  ],
+  "candidates_zh": {
+   "恶魔薇薇安": [
+    "体力",
+    "魔法防御"
+   ],
+   "春的等待 薇薇安": [
+    "攻击力"
+   ],
+   "魔法学校 薇薇安": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Wolfgang",
+  "skins": [
+   {
+    "name": "Baker Wolfgang",
+    "stat": "Eva+"
+   }
+  ],
+  "candidates_zh": {
+   "野狼 沃尔夫冈": [
+    "攻击力",
+    "体力"
+   ],
+   "面点师 沃尔夫冈": [
+    "命中率",
+    "回避率"
+   ]
+  }
+ },
+ {
+  "hero": "Woopa",
+  "skins": [
+   {
+    "name": "Woopa of Holy Rituals",
+    "stat": ""
+   },
+   {
+    "name": "Howling Guitar Woopa",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "怒吼吉他乌帕": [
+    "体力",
+    "魔法防御"
+   ],
+   "神圣仪式 乌帕": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Yichui",
+  "skins": [
+   {
+    "name": "Yichui in Wonderland",
+    "stat": "Acc+"
+   }
+  ],
+  "candidates_zh": {
+   "农业学校伊吹": [
+    "攻击力"
+   ],
+   "奇异国度伊吹": [
+    "物理防御",
+    "命中率"
+   ],
+   "德鲁伊 伊吹": [
+    "攻击力"
+   ],
+   "舵手 伊吹": [
+    "攻击力"
+   ]
+  }
+ },
+ {
+  "hero": "Yuria",
+  "skins": [
+   {
+    "name": "Chief Operator Yuria",
+    "stat": "Res+"
+   }
+  ],
+  "candidates_zh": {
+   "花样滑冰女王 尤莉娅": [
+    "攻击力"
+   ],
+   "首席操作员 尤莉娅": [
+    "体力",
+    "魔法防御"
+   ]
+  }
+ }
+]

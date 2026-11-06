@@ -1,0 +1,97 @@
+===== SBW Options
+5 {'1': ('Leon', None), '4': ('Critical Damage', None), '5': ('Critical Chance', None), '6': ('-5%', None), '7': ('-45%', None), '8': ('-', None), '13': ('Warm Heart', None), '14': ('Warm Heart', None), '17': ('Human Play Mask', None), '18': ('Human Play Mask', None), '21': ('Atk / ☆☆☆☆☆', None), '22': ('Atk / ☆☆☆☆☆', None)}
+6 {'1': ('Rochefort', None), '4': ('Evasion', None), '5': ('Evasion', None), '6': ('6%', None), '7': ('-34%', None), '8': ('-', None), '13': ('Lion Relic', None), '14': ('Sharp Fang', None), '17': ('Sun Tablet Fragment', None), '18': ("Spirit's Bear Gallbladder", None), '21': ('HP / ☆☆☆☆☆', None), '22': ('Arm / ☆☆☆☆☆', None)}
+7 {'1': ('Joan', None), '4': ('Evasion', None), '5': ('Evasion', None), '6': ('26%', None), '7': ('-14%', None), '8': ('-', None), '13': ("Emperor's Seal", None), '14': ("Emperor's Seal", None), '17': ('Decadent Song', None), '18': ('Decadent Song', None), '21': ('HP / ☆☆☆☆☆', None), '22': ('HP / ☆☆☆☆☆', None)}
+8 {'1': ('Susanoo', None), '4': ('Attack Speed', None), '5': ('Attack Speed', None), '6': ('29%', None), '7': ('-11%', None), '8': ('-', None), '13': ('Warm Heart', None), '14': ('Atk / ☆☆☆☆☆☆', None), '17': ('Human Play Mask', None), '18': ('Atk / ☆☆☆☆☆', None), '21': ('Atk / ☆☆☆☆☆', None), '22': ('Atk / ☆☆☆☆☆', None)}
+9 {'1': ('(ALT.)', None), '4': ('Attack Speed', None), '5': ('Critical Chance', None), '6': ('29%', None), '7': ('-11%', None), '8': ('-', None), '13': ('Warm Heart', None), '14': ('Atk / ☆☆☆☆☆☆', None), '17': ('Human Play Mask', None), '18': ('Atk / ☆☆☆☆☆', None), '21': ('Atk / ☆☆☆☆☆', None), '22': ('Atk / ☆☆☆☆☆', None)}
+20 {'1': ('Sworden', None), '4': ('Critical Damage', None), '5': ('Critical Chance', None), '6': ('22%', None), '7': ('-18%', None), '8': ('-', None), '13': ('Lion Relic', None), '14': ('Sharp Fang', None), '17': ('Sun Tablet Fragment', None), '18': ("Spirit's Bear Gallbladder", None), '21': ('HP / ☆☆☆☆☆', None), '22': ('Arm / ☆☆☆☆☆', None)}
+21 {'1': ('(ALT.)', None), '4': ('Critical Chance', None), '5': ('Critical Chance', None), '8': ('-', None), '13': ('Sharp Fang', None), '14': ('Sharp Fang', None), '17': ("Spirit's Bear Gallbladder", None), '18': ("Spirit's Bear Gallbladder", None), '21': ('Arm / ☆☆☆☆', None), '22': ('Arm / ☆☆☆☆', None)}
+199 {'1': ('Archer', None), '8': ('', ['site/img/177d6819b680.png']), '10': ('', ['site/img/177d6819b680.png'])}
+===== Skills
+0 {'1': ('Hero', None)}
+1 {'1': ('Warrior', None)}
+2 {'1': ('Leon', None), '5': ('Spirit of Vengeance', None), '7': ('Overflowing Determination', None)}
+3 {'1': ('Rochefort', None), '5': ('Overflowing Determination', None), '7': ('Spirit of Vengeance', None)}
+4 {'1': ('Joan', None), '5': ('Overflowing Determination', None), '7': ('Spinning Storm', None)}
+284 {'1': ('Maria', None), '5': ('Protection of the Goddess', None), '7': ('Smile of the Goddess', None)}
+285 {'1': ('Melissa', None), '5': ('Energy of Goddess', None), '7': ('Wrath of Goddess', None)}
+===== Legacy Skin
+0 {'5': ("Unless you're into optimization, pick skins for aesthetics, not stats", None)}
+1 {'1': ('Hero', None), '4': ('Option 1', None), '6': ('Note', None), '7': ('Option 2', None)}
+2 {'1': ('Warrior', None)}
+3 {'1': ('Leon', None), '5': ('Magmax Leon', None), '6': ('CC+', None), '8': ('Leon of Fate', None)}
+4 {'1': ('Rochefort', None), '5': ('Neth Commander Rochefort', None), '6': ('CC+', None), '8': ('Moon Rabbit', None)}
+===== DPS
+0 {'1': ('Hero', None), '3': ('Class', None), '9': ('DPS / Block Gen', None), '13': ('Block / Min', None), '14': ('Special Condition', None), '16': ('DPS Scale', None)}
+1 {'7': ('Regular', None), '8': ('Hit', None), '9': ('Champion', None), '10': ('Hit', None), '11': ('Infinite', None), '12': ('Hit', None), '16': ('Nebula', None)}
+2 {'1': ('Leonia', None), '3': ('Warrior', None), '4': ('', ['site/img/9b5532422df2.png']), '7': ('76,736,211', None), '8': ('4.8', None), '9': ('163,151,930', None), '10': ('9.3', None), '11': ('163,151,930', None), '12': ('9.3', None), '13': ('49', None), '15': ('130%', None), '16': ('276%', None)}
+3 {'1': ('Briseis', None), '3': ('Warrior', None), '4': ('-', None), '7': ('66,831,202', None), '8': ('14.2', None), '9': ('82,312,587', None), '10': ('17.2', None), '11': ('82,312,587', None), '12': ('17.2', None), '13': ('60', None), '14': ('90,234,000', None), '15': ('113%', None), '16': ('139%', None)}
+4 {'1': ('Heim', None), '3': ('Paladin', None), '4': ('', ['site/img/29acf9b1344c.png']), '7': ('26,924,596', None), '8': ('11.5', None), '9': ('80,773,787', None), '10': ('34.4', None), '11': ('86,331,369', None), '12': ('36.7', None), '13': ('Lead 80', None), '14': ('-', None), '15': ('46%', None), '16': ('137%', None)}
+5 {'1': ('Faust-GG', None), '3': ('Paladin', None), '4': ('-', None), '7': ('52,268,705', None), '8': ('6.3', None), '9': ('52,268,705', None), '10': ('6.3', None), '11': ('52,268,705', None), '12': ('6.3', None), '13': ('22', None), '14': ('Average', None), '15': ('88%', None), '16': ('88%', None)}
+312 {'1': ('Drake', None), '3': ('Paladin', None), '4': ('-', None), '7': ('619,346', None), '8': ('0.6', None), '9': ('12,153', None), '10': ('0.6', None), '11': ('4,113', None), '12': ('0.6', None), '13': ('30', None), '14': ('-', None), '15': ('1%', None), '16': ('0%', None)}
+===== CL Archive
+0 {'0': ('Date', None), '1': ('Patch No.', None), '3': ('Hero', None), '4': ('Note', None)}
+1 {'0': ('3/8/2023', None), '1': ('2023.3.3', None), '3': ('Guts', None), '4': ('Colo DPS', None)}
+2 {'0': ('3/8/2023', None), '1': ('2023.3.3', None), '3': ('Griffith', None), '4': ('Bulky Arena DPS', None)}
+3 {'0': ('3/8/2023', None), '1': ('2023.3.3', None), '3': ('Skull Knight', None), '4': ('Extreme SP Reliant\nDPS', None)}
+33 {'0': ('9/10/2022', None), '1': ('2022.9.1', None), '3': ('Uzume', None), '4': ('', ['site/img/968144faac07.png'])}
+606 {'0': ('1/7/2020', None), '1': ('2020.1.2', None), '3': ('Maré', None), '4': ('Hero Balance', None)}
+===== Challenge Stat
+0 {'1': ('Sum:Boss eHP', None), '4': ('Boss', None), '5': ('HP', None), '6': ('A/RPen', None), '7': ('Arm/Res', None), '8': ('DR', None), '9': ('Eva', None), '10': ('CR', None), '12': ('Boss', None), '13': ('HP', None), '14': ('A/RPen', None), '15': ('Arm/Res', None), '16': ('DR', None), '17': ('Eva', None), '18': ('CR', None), '20': ('Boss', None), '21': ('HP', None), '22': ('A/RPen', None), '23': ('Arm/Res', None), '24': ('DR', None), '25': ('Eva', None), '26': ('CR', None), '28': ('Boss', None), '29': ('HP', None), '30': ('A/RPen', None), '31': ('Arm/Res', None), '32': ('DR', None), '33': ('Eva', None)}
+1 {'0': ('C1', None), '1': ('13,779,570', None), '4': ('#REF!', None), '5': ('2,647,200', None), '6': ('500', None), '7': ('280/350', None), '8': ('7%', None), '9': ('45%', None), '10': ('10%', None), '12': ('#REF!', None), '13': ('2,647,200', None), '14': ('500', None), '15': ('350/280', None), '16': ('7%', None), '17': ('31%', None), '18': ('10%', None), '20': ('#REF!', None), '21': ('3,969,000', None), '22': ('350', None), '23': ('500', None), '24': ('10%', None), '25': ('31%', None), '26': ('10%', None), '28': ('', ['site/img/161e3146b764.png']), '29': ('3,309,000', None), '30': ('500', None), '31': ('500', None), '32': ('10%', None), '33': ('45%', None)}
+2 {'0': ('C2H', None), '1': ('29,533,895', None), '4': ('#REF!', None), '5': ('4,321,800', None), '6': ('455', None), '7': ('364/455', None), '8': ('11%', None), '9': ('50%', None), '10': ('15%', None), '12': ('#REF!', None), '13': ('4,939,200', None), '14': ('455', None), '15': ('650', None), '16': ('15%', None), '17': ('35%', None), '18': ('15%', None), '20': ('#REF!', None), '21': ('4,321,800', None), '22': ('650', None), '23': ('455/364', None), '24': ('10%', None), '25': ('35%', None), '26': ('15%', None), '28': ('#REF!', None), '29': ('12,096,000', None), '30': ('1300', None), '31': ('1200', None), '32': ('14%', None), '33': ('72%', None)}
+3 {'0': ('C3H', None), '1': ('53,236,465', None), '4': ('#REF!', None), '5': ('7,425,600', None), '6': ('825', None), '7': ('1238', None), '8': ('14%', None), '9': ('55%', None), '10': ('20%', None), '12': ('#REF!', None), '13': ('8,890,560', None), '14': ('825', None), '15': ('578', None), '16': ('14%', None), '17': ('55%', None), '18': ('20%', None), '20': ('#REF!', None), '21': ('4,939,200', None), '22': ('578', None), '23': ('825', None), '24': ('14%', None), '25': ('38%', None), '26': ('20%', None), '28': ('#REF!', None), '29': ('9,676,800', None), '30': ('1200', None), '31': ('1200', None), '32': ('14%', None), '33': ('72%', None)}
+11 {'0': ('C11H', None), '1': ('152,912,676', None), '4': ('', ['site/img/d94d758c30e5.png']), '5': ('11,825,433', None), '6': ('690', None), '7': ('690', None), '8': ('50%', None), '9': ('41%', None), '10': ('50%', None), '13': ('12,519,360', None), '14': ('2760', None), '15': ('2760', None), '16': ('50%', None), '17': ('48%', None), '18': ('50%', None), '20': ('', ['site/img/a697444ff267.png']), '21': ('10,432,800', None), '22': ('2760', None), '23': ('2760', None), '24': ('50%', None), '25': ('48%', None), '26': ('50%', None), '28': ('', ['site/img/6a81308ba508.png']), '29': ('18,027,879', None), '30': ('3975', None), '31': ('3975', None), '32': ('50%', None), '33': ('55%', None)}
+15 {'0': ('C15H', None), '1': ('199,057,824', None), '4': ('#REF!', None), '5': ('18,779,040', None), '6': ('2004', None), '7': ('2004', None), '8': ('50%', None), '9': ('50%', None), '10': ('50%', None), '12': ('#REF!', None), '13': ('23,473,800', None), '14': ('3795', None), '15': ('3795', None), '16': ('50%', None), '17': ('50%', None), '18': ('50%', None), '20': ('#REF!', None), '21': ('23,473,800', None), '22': ('3795', None), '23': ('3795', None), '24': ('50%', None), '25': ('50%', None), '26': ('50%+', None), '28': ('#REF!', None), '29': ('33,802,272', None), '30': ('5464', None), '31': ('5464', None), '32': ('50%', None), '33': ('50%', None)}
+16 {'0': ('C16H', None), '1': ('233,986,838', None), '4': ('#REF!', None), '5': ('28,168,560', None), '6': ('4554', None), '7': ('4554', None), '8': ('50%', None), '9': ('50%', None), '10': ('50%', None), '12': ('#REF!', None), '13': ('28,168,560', None), '14': ('4554', None), '15': ('4554', None), '16': ('50%', None), '17': ('50%', None), '18': ('50%', None), '20': ('#REF!', None), '21': ('23,473,800', None), '22': ('4554', None), '23': ('4554', None), '24': ('50%', None), '25': ('50%', None), '26': ('50%', None), '28': ('#REF!', None), '29': ('37,182,499', None), '30': ('5464', None), '31': ('5464', None), '32': ('50%', None), '33': ('50%', None)}
+17 {'0': ('FoRS', None), '4': ('', ['site/img/5df594430df4.png']), '5': ('7,500,000', None), '6': ('2000', None), '7': ('3500', None), '8': ('40%', None), '9': ('40%', None), '10': ('40%', None), '12': ('', ['site/img/5df594430df4.png']), '13': ('8,000,000', None), '14': ('3000', None), '15': ('4000', None), '16': ('40%', None), '17': ('120%', None), '18': ('40%', None), '20': ('', ['site/img/5df594430df4.png']), '21': ('10,000,000', None), '22': ('4000+', None), '23': ('4000+', None), '24': ('40%', None), '25': ('50%', None), '26': ('60%', None)}
+22 {'0': ('Raid5', None), '5': ('200,000,000', None), '6': ('10000', None), '7': ('5000', None), '8': ('60%', None), '9': ('32%', None), '10': ('0%', None), '13': ('220,000,000', None), '14': ('20000', None), '15': ('5000', None), '16': ('60%', None), '17': ('35%', None), '18': ('0%', None), '21': ('240,000,000', None), '22': ('22000', None), '23': ('8000', None), '24': ('70%', None), '25': ('55%', None), '26': ('0%', None), '29': ('280,000,000', None), '30': ('25000', None), '31': ('8000', None), '32': ('60%', None), '33': ('70%', None)}
+===== Glossary
+0 {'0': ('Common Terms', None), '1': ('Definition', None)}
+1 {'0': ('A / D / F', None), '1': ('Indicates the different weapon upgrade options, A -> Attack, D -> Defense, F -> ', None)}
+2 {'0': ('AA Crit Resistance Factor (CRF)', None), '1': ('HIGHER IS WORSE!\nLOWER IS GOOD!\n\nThis is the CC buff they need to make CD CD wor', None)}
+===== Credits
+0 {'0': ('(╯°□°)╯︵ ┻━┻', None)}
+1 {'0': ('Announcement', None)}
+2 {}
+3 {}
+4 {}
+5 {'0': ('Grade', None), '1': ('Name', None)}
+6 {'0': ('OP', None), '1': ('0%', None), '2': ('Overpowered', None)}
+7 {'0': ('S', None), '1': ('3%', None), '2': ('Very Useful', None)}
+8 {'0': ('A', None), '1': ('8%', None), '2': ('Pretty Useful', None)}
+9 {'0': ('B', None), '1': ('19%', None), '2': ('Useful', None)}
+10 {'0': ('C', None), '1': ('20%', None), '2': ('Usable', None)}
+11 {'0': ('F', None), '1': ('69%', None), '2': ('Decent/Useless', None)}
+12 {}
+13 {'1': ('Contributors', None)}
+14 {'0': ('THANKS', None), '1': ('Kamakiller', None)}
+15 {'1': ('Fizz', None)}
+16 {'1': ('Foehn', None)}
+17 {'1': ('Navii', None)}
+18 {'1': ('Worth18th', None)}
+19 {'1': ('Sueshidragon', None)}
+20 {'1': ('Duskwatcher', None)}
+21 {'1': ('Vyrlokar', None)}
+22 {'1': ('Nanoian', None)}
+23 {'1': ('Leewhat', None)}
+24 {'1': ('xMasterSNESx', None)}
+25 {'1': ('Viewers', None)}
+===== Change Log
+0 {'0': ('Date', None), '1': ('Update #', None), '4': ('Info', None)}
+1 {'0': ('7/25/2023', None), '1': ('2023.7.1', None)}
+2 {}
+3 {'4': ('Announcement', None)}
+4 {'4': ('Simplfied CQ Tierlist', None), '6': ('Note', None), '7': ('Click here to visit the word only Simplified CQ Tierlist.\nSince, well, even we h', None)}
+5 {'4': ('Potential Future', None), '6': ('Announcement', None), '7': ('Hi, this is Foehn.\nAs you have heard, CQ will stop updating in 10/5. This means ', None)}
+6 {}
+7 {'4': ('New Hero', None), '7': ("Note: Just because they are probably gonna be useless doesn't mean you shouldn't", None)}
+8 {}
+9 {'4': ('Hero Balance', None), '7': ("Don't worry about it. Nothing is happening to Heim.", None)}
+10 {}
+11 {'4': ('DPS Change', None), '8': ('What is balance, really.', None)}
+12 {}
+===== SP
+0 {'0': ('SP Name', None)}
+1 {}
+2 {'0': ('#REF!', None)}

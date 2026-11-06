@@ -1,0 +1,5 @@
+bash.exe.stackdump
+__pycache__/
+*.pyc
+# file tạm của phiên dịch
+raw*/tr/*_part*.json

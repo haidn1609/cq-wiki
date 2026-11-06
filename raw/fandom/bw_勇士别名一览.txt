@@ -1,0 +1,57 @@
+为了便于日常交流，团长们不约而同地为每位勇士创造出形象的别名或便捷的简称，下面是所有勇士的别名或简称一览：
+
+
+{{备注|提示：
+1、若需要查看除勇士以外的BOSS、副本等简称什么的，可到[[CQ玩家用语集]]页面查看；
+
+2、若发现表内简称缺少或显示不正常，请点击对应勇士进入勇士页面后，点击''编辑攻略''进行编辑；
+
+3、若更新了新勇士，会自动加入表格内，无需手动添加，如需为新勇士编辑别名，请参考第2点。
+}}
+<table class="btable">
+<tr><th>职业</th><td><div class="ft_group">
+<div class="ft_tag ft_on">所有</div>
+<div class="ft_tag" id="c1">剑士</div>
+<div class="ft_tag" id="c2">骑士</div>
+<div class="ft_tag" id="c3">弓手</div>
+<div class="ft_tag" id="c4">猎人</div>
+<div class="ft_tag" id="c5">法师</div>
+<div class="ft_tag" id="c6">祭司</div>
+</div></td></tr>
+<tr><th>契约类型</th><td><div class="ft_group">
+<div class="ft_tag ft_on">所有</div>
+<div class="ft_tag" id="t1">传说勇士</div>
+<div class="ft_tag" id="t2">契约专用勇士</div>
+<div class="ft_tag" id="t3">隐藏的勇士</div>
+<div class="ft_tag" id="t4">进化勇士</div>
+<div class="ft_tag" id="t5">异世界勇士</div>
+</div></td></tr>
+</table>
+{{#ask: [[分类:6星勇士]]
+|?名字#
+|?别名#
+|?编号#
+|?职业编号#
+|?契约编号#
+|named args=yes
+|sort=编号
+|order=desc
+|format=template
+|offset=0
+|limit=500
+|template=别名表格行
+|intro=<bstyle>
+.other-name-tag{
+background-color: #dadada;
+color: #484848;
+border-radius: 2px;
+display: inline-block;
+padding: 3px 10px;
+margin: 3px;
+font-size: 9px;
+}
+</bstyle><table class="btable sortable"><tr>
+<th style="width:200px">勇士</th>
+<th>别名</th>
+|outro=</table>
+}}

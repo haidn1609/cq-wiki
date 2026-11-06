@@ -1,0 +1,113 @@
+'''Special Skills''' are skills that appear in the block queue when a hero's SP bar fills up. They are only available to heroes rank 3 and above.
+
+See also: [[:Category: Special Skills]]
+
+Note: this page is created using [http://en.wikipedia.org/wiki/Wikipedia:Transclusion transclusion]. If you want to edit anything here then you need to modify the individual pages.
+
+==Warrior Skills==
+
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<br />
+
+<div class="mw-collapsible-content">
+{{:Wind Slash}}
+{{:Overflowing Determination}}
+{{:Spinning Storm}}
+{{:Final Judgment}}
+{{:Crescent Moon Rampage}}
+{{:Dancing Blade}}
+{{:Heaven Slash}}
+{{:Avatar of Punishment}}
+{{:Flame of Avarice}}
+</div>
+</div>
+
+==Paladin Skills==
+
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<br />
+
+<div class="mw-collapsible-content">
+{{:Shout of Courage}}
+{{:Consecutive Depth Bomb}}
+{{:Oppression Power}}
+{{:Light of Grace}}
+{{:Revolution Hammer}}
+{{:Lower the Anchor!}}
+{{:Thorns of Vengeance}}
+{{:Holy Hammer}}
+{{:Shield of Invincibility}}
+{{:Avatar of Protection}}
+</div>
+</div>
+
+==Archer Skills==
+
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<br />
+
+<div class="mw-collapsible-content">
+{{:Fire Rain}}
+{{:Apply Poison}}
+{{:Blade Storm}}
+{{:Float like a Butterfly Sting like a Bee!}}
+{{:Threat at the Back}}
+{{:Blitz}}
+{{:Phoenix Feather}}
+{{:Voice of the Spirit}}
+</div>
+</div>
+
+==Hunter Skills==
+
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<br />
+
+<div class="mw-collapsible-content">
+{{:Western Gunner}}
+{{:NB-8 Grenade}}
+{{:Swift Attack}}
+{{:ILSU-425 Bombing}}
+{{:Overdrive!}}
+{{:Bullet Improvement!}}
+{{:NS-17 Smoke Bomb}}
+{{:Lapis & Lazuli}}
+{{:CURV-603 Carpet Bomb}}
+{{:BLBT-009 Support Turret}}
+</div>
+</div>
+
+==Wizard<br />==
+
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+{{:Mana Recycle}}
+<div class="mw-collapsible-content">
+{{:Electric Sphere}}
+{{:Mana Shield}}
+{{:Call of Darkness}}
+{{:Flame Spirit}}
+{{:Mysterious Fog}}
+{{:Shadow Mage}}
+{{:Consecutive Magic Beam}}
+{{:Magic Storm}}
+{{:Thunderbolt}}
+</div>
+</div>
+
+==Priest Skills==
+
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<br />
+
+<div class="mw-collapsible-content">
+{{:Protection of Goddess}}
+{{:Sanctuary of Goddess}}
+{{:Fierce Totem}}
+{{:Time for Blood Donation!}}
+{{:Wrath of Goddess}}
+{{:Smile of Goddess}}
+{{:Energy of Goddess}}
+{{:Resurrection}}
+{{:Incarnation of Benevolence}}
+</div>
+</div>

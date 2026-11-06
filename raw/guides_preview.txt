@@ -1,0 +1,290 @@
+===== Total War Guide
+0 0:Boss Damage Cap: 20,000,000
+1 0:Total War: Yellow Emperor
+2 0:
+3 0:Stat | 2:Boss HP | 3:Shield HP | 4:Base Atk | 5:Base CC | 6:Base CD | 7:Apen | 8:Rpen | 9:Arm | 10:Res | 11:Eva | 12:Acc | 13:Base DR | 14:CR
+4 0:Hard | 2:200,000,000 | 3:0 | 4:1 | 5:30% | 6:50% | 7:7,000 | 8:7,000 | 9:1 | 10:1 | 11:0% | 12:200% | 13:51% | 14:30% ~ 100%
+5 0:Nightmare | 2:150,000,000 | 3:150,000,000
+6 0:Inferno | 2:1 | 3:399,999,999
+7 0:Total War Basic Mechanics
+8 0:Passive | 2:You only have 20 seconds to kill each phase. If you cannot kill within 20 seconds, you lose.
+9 2:For this battle, all hero will be forced into auto delegation, and their champion bond bonus will be removed.
+10 2:For this battle, buff can not be shared between teams. On the other hand, debuff will benefit all four teams.
+11 2:Yellow Emperor has 8 phases. After each death, boss will revive and receive stackable buffs and apply stackable debuffs onto your heroes based on difficulty.
+12 2:Champion bond bonuses are not applicable in this mode.
+13 0:Mechanics upon Revive
+14 0:All Difficulty | 2:Upon revive, immediately force cleanse all debuffs and marks from self, and remove all buffs from your heroes.
+Force cleanse debuffs and marks can remove effects that are otherwise unremovable.
+Additionally, Yellow Emperor will immediately terminate all ongoing skills and reset attack pattern.
+15 0:Hard | 2:Boss Buffs: 10% Damage Done / 10% Apen / 10% Rpen / 10% DR / 10% CR.
+Team Debuffs: Reduce ally heal received by 12% / Drain 100 SP / Shred 20% Apen & Rpen.
+16 0:Nightmare | 2:Boss Buffs: 15% Damage Done / 10% Apen / 10% Rpen / 10% DR / 10% CR.
+Team Debuffs: Reduce ally heal received by 12% / Drain 100 SP / Shred 80% Apen & Rpen.
+17 0:Inferno | 2:Boss Buffs: 20% Damage Done / 10% Apen / 10% Rpen / 10% DR / 10% CR / 20% CC / 40% CD.
+Team Debuffs: Reduce ally heal received by 12% / Drain 100 SP / Shred 95% Apen & Rpen.
+18 0:Support
+19 0:Support Hero | 2:You can select up to 16 hero from the 3 listed factions as support. 
+The total max HP of the heroes determines the support effectiveness.
+Factionless hero, namely collab hero, can also be selected. However, their total HP will be cut in half.
+20 2:The support gauge is charged by dealing damage to the boss. The amount of dealt damage required to fully charge the gauge depends on the selected difficulty.
+The requirement is: 200,000,000 [Hard] / 400,000,000 [Nightmare] / 600,000,000 [Inferno].
+21 2:The formula for support damage is given as:
+Damage = Sum of Support HP * Champion Count * (0.75 + 0.25 * Number of Unlocked Bond Skills + 0.05 * Total Bond Levels) + 1,000,000. 
+This damage will always deal a fixed amount, ignoring enemy DR or Damage Taken increase debuff.
+22 1:Regular Attacks
+23 0:Basic Attacks | 2:Yellow Emperor will randomly use one of the following regular attacks [Palm Sweep] / [Palm Barrage].
+24 0:Palm Sweep | 2:The boss does a palm sweep from right to left, dealing [5250] neutral damage and significantly knocking right side hero towards boss, and left side hero away from boss.
+25 0:Palm Barrage | 2:The boss unleashes a series of palm strikes, dealing [1050 * 10] neutral damage to all heroes.
+26 0:Special Attacks | 2:Against Left Side Hero | 8:Against Right Side Hero
+27 2:After every regular attack, Yellow Emperor will randomly use one of the following special attacks [Ying Yang Barrage / Tides of the Far Shore].
+All Special Attacks ignores tanking.
+28 0:Ying Yang Barrage | 2:Yellow Emperor unleashes a barrage of black energy orbs, dealing [3200 * 12] physical damage, stun hit heroes for 1 second and knocking them away from the boss.
+In Nightmare / Inferno, also reduce Arm by 5000 [Nightmare] / 10000 [Inferno] for 5s. | 8:Yellow Emperor unleashes a barrage of white energy orbs, dealing [3200 * 12] magical damage, dispels hit heroes and knocking 
+29 0:Tides of the Far Shore | 2:Yellow Emperor unleashes a Tide of Darkness, dealing [1750 * 30] physical damage, stun hit heroes for 1 second and knocking them towards the boss.
+In Nightmare / Inferno, heroes cannot be healed for 5 seconds. | 8:Yellow Emperor unleashes a Tide of Light, dealing [1750 * 30] magical damage, dispel all hit heroes and knocking them towards the boss.
+In Nightmare / Infern
+30 0:Palm Laser | 2:After 2 sets of basic attack and special attack, Yellow Emperor shoots lasers from both hands, sweeping across the battlefield dealing [5250] neutral damage.
+When cast, this attack reduces hero Apen & Rpen by 30% for 3s [Hard] / 70% for 4s [Nightmare] / 99% for 10s [Inferno].
+Yellow Emperor also will immediately use this attack at the beginning of an Inferno run.
+31 0:Hellfire | 2:Whenever Yellow Emperor revives, unleash Hellfire, dealing [3000] neutral damage every second. This attack ignores tanking.
+In Inferno, all heroes additionally lose 1 SP every 0.1 seconds for the duration of the skill.
+32 0:Dispel & Cleanse | 2:When the timer reaches 14 and 6, Yellow Emperor will dispel all heroes and apply buff block for 1s. Simultaneously, cleanse itself and gain debuff immunity for 1s.
+33 2:Hard | 5:Nightmare | 8:Inferno
+34 0:DPS | 2:9,500 ~ 18,514 | 5:9,500 ~ 25,271 | 8:9,500 ~ 173,510 | 11:Hit Per Sec | 12:4.0
+35 0:Risk | 2:Difficulty | 3: | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14:
+36 0:Danger | 2:Hard | 3: | 7: | 9: | 11: | 13:
+37 2:Nightmare | 3: | 5: | 7: | 9: | 11: | 12: | 13:
+38 2:Inferno | 3: | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14:
+40 0:Beware of Where You Put Your Hero | 2:The boss has different form of disruption depending on what side your hero is on. Organize your hero to minimize it.
+41 0:Block Generation | 2:You don't have access to champion nor goddess here. So you need all the blocks you can get.
+42 0:Damage Taken Debuff | 2:While buff isn't shared, debuff is. So make sure to bring some hero that has a debuff that increase damage taken.
+43 0:Use Jack for Early Game | 2:Jack is a very powerful hero to use here, but she only works for Hard and Nightmare, and become completely useless in Inferno.
+44 0:Atk Debuff is Useless | 2:Boss doesn't use his attack to deal damage. So don't expect to be saved from inferno by debuffing the boss's atk.
+45 0:Attack Speed Debuff | 2:With some attack debuff, boss attack pattern can be changed from Auto => SP => Auto => SP => Laser into Auto => SP => Laser.  Which means Boss DPS can be heavily reduced by applying attack speed debuff. Which means you should bring Himiko, or Basquiat if you don't have her. Note that Himiko will reduce Inferno Boss DPS by up to 75%. Tho he will still hit almost twice as h
+46 0:You Need Accessories
+So Spend More Money | 2:You just need accessories. Without the drop from Total War, you just won't be able to make it far in this content. Accessories also cost a lot of money. On average, 4 star accessory costs 6.5m, 5 star 15m, 6 star 52m gold to fully upgrade on average. Not to mention all the limited hero you will need for this.
+47 0:List of Useful Heroes
+48 0:Notable Damage Amplifiers
+49 0:Hero | 2:Role | 3:Notes | 5:Hero | 7:Role | 8:Notes | 10:Hero | 12:Role | 13:Notes
+50 0:Francesca | 2:80% Dmg Amp + 50% CR debuff | 3:Has very strict block requirements, so either pair with Frederick or Linne. | 5:Schild | 7:66% Dmg Amp + 66% CR debuff | 8:No downsides whatsoever apart from lower base HP. | 10:Ashley | 12:60% Dmg Amp + 50% CR debuff | 13:Does need a good amount of blocks.
+51 0:Nene | 2:50% Dmg Amp + 30% CR Debuff | 3:Same as Schild, albeit a little worse in terms of consistency and debuff capability | 5:Lei Ling | 7:69% Dmg Amp | 8:The condition to trigger it is rather strict, inconsistent without a lot of blocks. | 10:Skadi | 12:61% Dmg Amp | 13:No SP accessory = useless.
+Has SP accessory = useful.
+End game speed clear = unoptimal.
+52 0:Leonia | 2:60% Dmg Amp + DPS | 3:Very consistent dmg amp on top of good damage. Does have range issues so you need to clear fast. | 5:Seo | 7:50% Dmg Amp | 8:Although 50% dmg amp seems promising, it is very inconsistent. | 10:Laertes | 12:50% Dmg Amp | 13:Despite his short duration, due to the presence of Hellfire he becomes extremely consistent.
+53 0:Umrat | 2:50% Dmg Amp | 3:3 second duration with 3 second cooldown.
+Need Block Gen Acc. | 5:Sahad | 7:50% Dmg Amp | 8:5 second duration with a 5 second cooldown, also needs chase 3. | 10:Uzume | 12:50% Dmg Amp | 13:20 second duration on a single chase 3, and cannot be cleansed.
+54 0:Jet | 2:50% Dmg Amp | 3:Dmg amp is reapplied with every block. | 5:Mammon | 7:50% Dmg Amp | 8:One of the most consistent dmg amp in game. However, buffing boss AS can be dangerous. | 10:Zeus | 12:50% Dmg Amp | 13:Needs Hera to function. Albeit, Hera can be on a different team and is also a capable defensive option.
+55 0:Cyrus | 2:40% Dmg Amp | 3:2 blocks for 3 seconds of debuff. Very block hungry. | 5:Shub | 7:40% Dmg Amp | 8:Cannot be cleansed, and comes with utilities such as DR buff to lowest HP. | 10:Lizardman Priest | 12:40% Dmg Amp | 13:Needs frequent chase 3, but debuff is consistent.
+56 0:Bellerophan | 2:30% Dmg Amp | 3:Needs 3 chains, and low values.
+Bad.
+Need Block Gen Acc. | 5:- | 7:- | 8:- | 10:- | 12:- | 13:-
+57 0:Notable Physical / Magical Damage Amplifiers (use at caution)
+58 0:Hero | 2:Role | 3:Notes | 5:Hero | 7:Role | 8:Notes | 10:Hero | 12:Role | 13:Notes
+59 0:Pumpking | 2:50% Physical Dmg Amp | 3:Needs a lot of blocks to function due to boss knockbacks. Still, he is far more suitable on the DPS team. | 5:Luci | 7:50% Magical Dmg Amp | 8:5 second duration on a 5 second cooldown, but cannot be cleansed. Tanking could be a downside. | 10:Bera | 12:30% Magical Dmg Amp | 13:Debuffs are not strong but is at least consistent. Reapplies with every block.
+60 0:Notable CR Debuffers (replacement for Schild / Francesca / Ashley)
+61 0:Hero | 2:Role | 3:Notes | 5:Hero | 7:Role | 8:Notes | 10:Hero | 12:Role | 13:Notes
+62 0:Shasha | 2:50% CR Debuff | 3:Melee and needs a good amount of blocks to get close enough to apply debuff. | 5:Thalia | 7:50% CR Debuff | 8:Needs SP to trigger. | 10:Luca | 12:45% CR Debuff | 13:Good consistency and that's about it.
+63 0:Medea | 2:40% CR Debuff | 3:Very consistent on top of decent damage to sustain herself. | 5:Macaria | 7:40% CR Debuff | 8:Tied to self crit, which is problematic since her base CC is ridiculously low. | 10:Spyro | 12:40% CR Debuff | 13:Viable promo option but needs 3 chains.
+64 0:Notable Defensive Support
+65 0:Hero | 2:Role | 3:Notes | 5:Hero | 7:Role | 8:Notes | 10:Hero | 12:Role | 13:Notes
+66 0:Ferris | 2:50% DR + Shield | 3:Essential for slower clears. Can put in team 1 / 2 to ensure survivability. | 5:Gueronica | 7:50% DR + Shield | 8:Same as Ferris. | 10:Himiko | 12:Debuffs | 13:Debuffs can throttle the boss' damage capability. Although, boss will still hit hard.
+67 0:Basquiat | 2:Debuffs | 3:Worse himi with range issues. | 5:Nurspy | 7:Debuffs | 8:Can buff and debuff simulaneously. Does need a lot of blocks and is a bit RNG. | 10:Noel | 12:30% DR + Shield + Tank | 13:A decent replacement for Ferris.
+68 0:Linné | 2:40% DR + Block Gen + Heal Amp | 3:Heal amp is very useful in later stages, and block gen is always nice. Must be in team 1 / 2. | 5:Hera | 7:Heal Amp | 8:Undispellable heal amp is useful on left side. Only consider if you plan to use Zeus as dmg amp. | 10:- | 12:-
+69 0:Notable DPSes
+70 0:Hero | 2:Role | 3:Notes | 5:Hero | 7:Role | 8:Notes | 10:Hero | 12:Role | 13:Notes
+71 0:Jack | 2:Hard / Nightmare DPS | 3:Enemy HP scaling makes Jack a low-investment DPS for hard / nightmare. Does not work in inferno. | 5:Niven | 7:Hard / Nightmare DPS | 8:Mostly the same reason as Jack. Note that Niven can use hits dealt from other teams to deal damage. | 10:Nebula | 12:Hard DPS | 13:Still decently viable in Hard as her Rpen is debuffed to nonexistent levels in difficulties above
+72 0:Nazrune | 2:General DPS | 3:The current best DPS. Will only function given SP accessories on the 3 chainer and Nazrune. | 5:Faust-GG | 7:General DPS | 8:An effective choice when you do not have many accessories. Best used with Kaede. | 10:Leonia | 12:General DPS + DT Support | 13:Incredible DPS plus consistent dmg amp. Does have range issues so you do need to kill fast.
+73 5:Briseis | 7:Carry | 8:Enemy HP scaling lets Briseis solo carry hard / nightmare. Does not work in inferno.
+74 0:Recommended Teams
+75 0:Check the Total War section of Team Composition Guide for team recommendations
+76 0:Also Check
+77 0:CN Biligame Wiki's Total War guide. Designed to be translator friendly.
+===== EP6 Challenge Guide
+0 0:Note: [ XXX / YYY] XXX is the damage when it didn't crit, YYY is the damage when it crits.
+1 0:Boss Damage Cap: 25% max HP
+2 0:EP6 Challenge 1
+3 0:Stage Mechanic | 4:Every 5s, reduce party Accuracy by 15%, stack up to 3 times. Can only be dispelled by using any goddess.
+4 0:-
+5 0:C17-1 | 1:Laporte | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+6 1: | 2:Stat | 4:71,496,000 | 5:51,919 | 6:50% | 7:50% | 8:1,138 | 9:1,138 | 10:6,359 | 11:6,359 | 12:80% | 13:10000% | 14:50% | 15:50%
+7 2:DPS | 3:Low End | 6:Notes
+8 3:High End
+9 2:Summary
+10 2:Attacks | 3:Odd SP
+11 3:Even SP
+12 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+13 2:Danger | 3:Auto Attack
+14 2:Note
+15 0:-
+16 0:C17-2 | 1:Prydwen's Masterpiece | 4:HP
+17 1: | 2:Stat | 4:Dies after taking 50 Hits
+18 2:Summary | 4:Apply instant death to the whole party in 7 seconds if you don't destroy the bomb before that.
+19 2:Note
+20 0:-
+21 0:C17-3 | 1:Castle Gate | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+22 1: | 2:Stat | 4:39,195,000 | 5:- | 6:- | 7:- | 8:- | 9:- | 10:6,261 | 11:6,261 | 12:50% | 13:- | 14:50% | 15:-
+23 2:Note | 4:You kill the Castle Gate to advance through the stage. So if you have tank ignore then you don't need to worry about Caeneus.
+24 1:Caeneus | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+25 1: | 2:Stat | 4:82,917,000 | 5:36,652 | 6:50% | 7:50% | 8:4,554 | 9:4,554 | 10:8,172 | 11:8,172 | 12:50% | 13:10000% | 14:50% | 15:150%
+26 2:DPS | 3:Low End | 6:Notes
+27 3:High End
+28 2:Summary
+29 2:Attacks | 3:Odd SP
+30 3:Even SP
+31 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+32 2:Danger | 3:Auto Attack
+33 2:Note
+34 0:-
+36 0:C17-4 | 1:Roland | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+37 1: | 2:Stat | 4:108,945,000 | 5:45,343 | 6:50% | 7:50% | 8:6,558 | 9:6,558 | 10:8,855 | 11:8,855 | 12:50% | 13:10000% | 14:50% | 15:50%
+38 2:DPS | 3:Low End | 6:Notes
+39 3:High End
+40 2:Summary | 4:Tanks for the enemy party
+41 2:Attacks | 3:Auto Attack
+42 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+43 2:Danger | 3:Auto Attack | 4: | 5:
+44 2:Note
+45 1:Maria | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+46 1: | 2:Stat | 4:44,091,000 | 5:48,272 | 6:50% | 7:50% | 8:4,554 | 9:4,554 | 10:5,624 | 11:5,624 | 12:50% | 13:10000% | 14:50% | 15:50%
+47 2:DPS | 3:Low End | 6:Notes
+48 3:High End
+49 2:Summary
+50 2:Attacks | 3:Auto Attack
+51 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+52 2:Danger | 3:Auto Attack | 4: | 5:
+53 2:Note
+54 0:-
+55 0:EP6 Challenge 2
+56 0:Stage Mechanic | 4:Every 5s, deal 80% of ally maxHP as neutral damage. Can be parried with Goddess on a 3s window.
+57 0:-
+58 0:C18-1 | 1:Tectus | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+59 1: | 2:Stat | 4:81,972,000 | 5:36,148 | 6:50% | 7:50% | 8:3,006 | 9:3,006 | 10:8,953 | 11:8,953 | 12:50% | 13:10000% | 14:50% | 15:50%
+60 2:DPS | 3:Low End | 6:Notes
+61 3:High End
+62 2:Summary
+63 2:Attacks | 3:Odd SP
+64 3:Even SP
+65 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+66 2:Danger | 3:Auto Attack
+67 2:Note
+68 0:-
+69 0:C18-2 | 1:Gwen | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+70 1: | 2:Stat | 4:67,005,000 | 5:36,148 | 6:50% | 7:50% | 8:5,692 | 9:5,692 | 10:7,702 | 11:7,702 | 12:50% | 13:10000% | 14:50% | 15:50%
+71 2:DPS | 3:Low End | 6:Notes
+72 3:High End
+73 2:Summary
+74 2:Attacks | 3:Odd SP
+75 3:Even SP
+76 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+77 2:Danger | 3:Auto Attack
+78 2:Note
+79 0:-
+80 0:C18-3 | 1:Joan | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+81 1: | 2:Stat | 4:88,560,000 | 5:40,583 | 6:50% | 7:50% | 8:5,692 | 9:5,692 | 10:8,111 | 11:8,111 | 12:50% | 13:10000% | 14:50% | 15:50%
+82 2:DPS | 3:Low End | 6:Notes
+83 3:High End
+84 2:Summary
+85 2:Attacks | 3:Odd SP
+86 3:Even SP
+87 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+88 2:Danger | 3:Auto Attack
+89 2:Note
+90 0:-
+92 0:C18-4 | 1:Leon | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+93 1: | 2:Stat | 4:95,517,000 | 5:41,633 | 6:50% | 7:50% | 8:8,196 | 9:8,196 | 10:8,666 | 11:8,666 | 12:50% | 13:10000% | 14:50% | 15:50%
+94 2:DPS | 3:Low End | 6:Notes
+95 3:High End
+96 2:Summary
+97 2:Attacks | 3:Auto Attack
+98 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+99 2:Danger | 3:Auto Attack | 4: | 5:
+100 2:Note
+101 1:Sigruna | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+102 1: | 2:Stat | 4:78,300,000 | 5:47,649 | 6:50% | 7:50% | 8:8,196 | 9:8,196 | 10:7,065 | 11:7,065 | 12:50% | 13:10000% | 14:50% | 15:50%
+103 2:DPS | 3:Low End | 6:Notes
+104 3:High End
+105 2:Summary
+106 2:Attacks | 3:Auto Attack
+107 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+108 2:Danger | 3:Auto Attack | 4: | 5:
+109 2:Note
+110 0:-
+111 0:EP6 Challenge 3
+112 0:Stage Mechanic | 4:Every 10s, a QTE start that on a successful goddess parry, increase scale by 1. On fail, reduce scale by 1. Starts at 0. Scale ranges from 2 ~ -4.
+While scale is higher than 0, increase party damage by 5%, for each scale counter.
+While scale is less than 0, increase the damage done to party by 5% for each scale counter.
+113 0:-
+114 0:C19-1 | 1:Robin | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+115 1: | 2:Stat | 4:72,576,000 | 5:47,415 | 6:50% | 7:50% | 8:6,831 | 9:6,831 | 10:6,627 | 11:6,627 | 12:50% | 13:10000% | 14:50% | 15:50%
+116 2:DPS | 3:Low End | 6:Notes
+117 3:High End
+118 2:Summary
+119 2:Attacks | 3:Odd SP
+120 3:Even SP
+121 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+122 2:Danger | 3:Auto Attack
+123 2:Note
+124 0:-
+125 0:C19-2 | 1:Victoria | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+126 1: | 2:Stat | 4:90,801,000 | 5:41,027 | 6:50% | 7:50% | 8:6,831 | 9:6,831 | 10:8,036 | 11:8,036 | 12:50% | 13:10000% | 14:50% | 15:50%
+127 2:DPS | 3:Low End | 6:Notes
+128 3:High End
+129 2:Summary
+130 2:Attacks | 3:Odd SP
+131 3:Even SP
+132 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+133 2:Danger | 3:Auto Attack
+134 2:Note
+135 0:-
+136 0:C19-3 | 1:Alexander | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+137 1: | 2:Stat | 4:90,234,000 | 5:39,106 | 6:50% | 7:50% | 8:6,813 | 9:6,813 | 10:8,270 | 11:8,270 | 12:50% | 13:10000% | 14:50% | 15:50%
+138 2:DPS | 3:Low End | 6:Notes
+139 3:High End
+140 2:Summary
+141 2:Attacks | 3:Odd SP
+142 3:Even SP
+143 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+144 2:Danger | 3:Auto Attack
+145 2:Note
+146 0:-
+147 0:C19-4 | 1:Arart | 4:HP | 5:Atk | 6:CD | 7:CC | 8:Apen | 9:Rpen | 10:Arm | 11:Res | 12:Eva | 13:Acc | 14:DR | 15:CR
+148 1: | 2:Stat | 4:90,234,000 | 5:39,106 | 6:50% | 7:50% | 8:6,813 | 9:6,813 | 10:8,270 | 11:8,270 | 12:50% | 13:10000% | 14:50% | 15:50%
+149 2:DPS | 3:Low End | 6:Notes
+150 3:High End
+151 2:Summary
+152 2:Attacks | 3:Auto Attack
+153 2:Risky | 4: | 5: | 6: | 7: | 8: | 9: | 10: | 11: | 12: | 13: | 14: | 15:
+154 2:Danger | 3:Auto Attack | 4: | 5:
+155 2:Note
+156 0:-
+===== Tier List
+0 3:CQ General Tierlist
+1 0:Unlock
+2 3:Vivian | 4:Vane | 5:Gon | 6:Arona | 7:Tia | 8:Lilith
+3 0:S
+4 3:Briseis | 4:Roland | 5:Aramis | 6:Schild | 7:Nazrune | 8:Livea | 9:Yeowoodong | 10:Halla | 11:Ashley | 12:Kaede | 13:Haruki
+5 0:S
+7 0:A
+8 3:Joan | 4:Monte | 5:Jack | 6:Leonia | 7:Guts | 8:Griffith | 9:Lei Ling | 10:Heim | 11:Lion Mask | 12:Ozma | 13:Nico | 14:Pumpking | 15:Sword Maiden | 16:Alfyn | 17:Hikari | 18:Djura | 19:Scarlet | 20:Jeomrye
+9 0:A
+10 3:Lupeow | 4:Nebula | 5:Nurspy | 6:Woopa | 7:Aria | 8:Dara | 9:Noel | 10:Sfera | 11:Shub | 12:Ranee | 13:Francesca
+11 0:A
+13 0:B
+14 3:Randgrid | 4:Sworden | 5:Victoria | 6:Shasha | 7:Echidna | 8:Laertes | 9:Hrolf | 10:Dempsey | 11:Seo | 12:Charlotte | 13:Rael | 14:Pius | 15:Weiss Schnee | 16:Blake Belladona | 17:Raven Branwen | 18:Skull Knight | 19:Drake | 20:Stanya
+15 0:B
+16 3:Wolfgang | 4:Mengqi | 5:Caeneus | 6:Luci | 7:Otis | 8:Snorri | 9:Neulsolgil | 10:Uzume | 11:Nari | 12:Skadi | 13:Monk | 14:Demona | 15:Hanzo | 16:Kaguya | 17:Altair | 18:Primrose | 19:Spiny | 20:Momotaro
+17 0:B
+18 3:Jet | 4:Malsook | 5:Silver | 6:Tess | 7:Anima | 8:Rachel | 9:Wolfram | 10:Eungaram | 11:Winston | 12:Ana | 13:Fredrick | 14:Mammon | 15:Beako | 16:Schierke | 17:Maria | 18:Himiko | 19:Chai | 20:Beatrice
+19 0:B
+20 3:Ricky | 4:Gueronica | 5:Linné | 6:Zeus | 7:Hera | 8:Rie | 9:Chocolat | 10:Lacrimoso | 11:Ferris | 12:Cream | 13:Nyorori | 14:Ophilia | 15:Echo
+23 0:C
+24 3:Rochefort | 4:Koxinga | 5:Sien | 6:Isis | 7:Ares | 8:Twillie | 9:Maré | 10:Iori | 11:Olberic | 12:Alexander | 13:Achilles | 14:Athena | 15:Mundeok | 16:Siegfried | 17:Fenrir | 18:Schula | 19:Yuna | 20:Odin
+25 0:C
+26 3:Kumori | 4:Umrat | 5:May | 6:Faust-GG | 7:Pyrrha Nikos | 8:Sahad | 9:Rem | 10:Naofumi Iwatani | 11:Hols | 12:Urii | 13:Niven | 14:Hansung | 15:Aurea | 16:Iris | 17:Thehyss | 18:Cinder Fall | 19:Isidro | 20:D'Artagnan
+27 0:C
+28 3:Sentinel | 4:Bellerophan | 5:Olga | 6:Leona | 7:Tressa | 8:Serpico | 9:Cano | 10:Korin | 11:Violet | 12:Necron | 13:Demeter | 14:Yichui | 15:Bihwa | 16:Shu Gwi | 17:Medea | 18:Thalia | 19:Anzu | 20:Jack-O'
+29 0:C
+30 3:Stein | 4:Seiren | 5:Vernil | 6:Basquiat | 7:Nightingale | 8:Orfeo | 9:Faust | 10:Cronette | 11:Meri | 12:Lazie | 13:Bahara | 14:Ellie | 15:Krampus | 16:I-no | 17:Asamiya | 18:Lizardman Priest | 19:Souffle
+31 0:C
+===== Credits
+0 

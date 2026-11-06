@@ -1,0 +1,617 @@
+{
+"Prince Abel": {
+"img": "img/skin/prince-abel.webp",
+"zh": "王子 亚伯",
+"src": "https://wiki.biligame.com/cq/%E7%8E%8B%E5%AD%90%20%E4%BA%9A%E4%BC%AF"
+},
+"Gladiator Achilles": {
+"img": "img/skin/gladiator-achilles.webp",
+"zh": "剑士阿基里斯",
+"src": "https://wiki.biligame.com/cq/%E5%89%91%E5%A3%AB%E9%98%BF%E5%9F%BA%E9%87%8C%E6%96%AF"
+},
+"Halloween Count Alexander": {
+"img": "img/skin/halloween-count-alexander.webp",
+"zh": "万圣节伯爵亚历山大",
+"src": "https://wiki.biligame.com/cq/%E4%B8%87%E5%9C%A3%E8%8A%82%E4%BC%AF%E7%88%B5%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7"
+},
+"Summer Vacation Alexander": {
+"img": "img/skin/summer-vacation-alexander.webp",
+"zh": "暑假亚历山大",
+"src": "https://wiki.biligame.com/cq/%E6%9A%91%E5%81%87%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7"
+},
+"Master Gambler Alice": {
+"img": "img/skin/master-gambler-alice.webp",
+"zh": "终结者爱丽丝",
+"src": "https://wiki.biligame.com/cq/%E7%BB%88%E7%BB%93%E8%80%85%E7%88%B1%E4%B8%BD%E4%B8%9D"
+},
+"Goddess of the Beach Archon": {
+"img": "img/skin/goddess-of-the-beach-archon.webp",
+"zh": "海边女神 雅甘",
+"src": "https://wiki.biligame.com/cq/%E6%B5%B7%E8%BE%B9%E5%A5%B3%E7%A5%9E%20%E9%9B%85%E7%94%98"
+},
+"Young Duchess Arita": {
+"img": "img/skin/young-duchess-arita.webp",
+"zh": "贵族英爱 娅莉塔",
+"src": "https://wiki.biligame.com/cq/%E8%B4%B5%E6%97%8F%E8%8B%B1%E7%88%B1%20%E5%A8%85%E8%8E%89%E5%A1%94"
+},
+"Awakened Goddess Athena": {
+"img": "img/skin/awakened-goddess-athena.webp",
+"zh": "女神降临 雅典娜",
+"src": "https://wiki.biligame.com/cq/%E5%A5%B3%E7%A5%9E%E9%99%8D%E4%B8%B4%20%E9%9B%85%E5%85%B8%E5%A8%9C"
+},
+"Madame Athena": {
+"img": "img/skin/madame-athena.webp",
+"zh": "贵夫人·雅典娜",
+"src": "https://wiki.biligame.com/cq/%E8%B4%B5%E5%A4%AB%E4%BA%BA%C2%B7%E9%9B%85%E5%85%B8%E5%A8%9C"
+},
+"Beatrice of Hope": {
+"img": "img/skin/beatrice-of-hope.webp",
+"zh": "希望之光 贝阿朵莉切",
+"src": "https://wiki.biligame.com/cq/%E5%B8%8C%E6%9C%9B%E4%B9%8B%E5%85%89%20%E8%B4%9D%E9%98%BF%E6%9C%B5%E8%8E%89%E5%88%87"
+},
+"Magic Professor Beatrice": {
+"img": "img/skin/magic-professor-beatrice.webp",
+"zh": "魔法教授 贝阿朵莉切",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E6%B3%95%E6%95%99%E6%8E%88%20%E8%B4%9D%E9%98%BF%E6%9C%B5%E8%8E%89%E5%88%87"
+},
+"Chief Research Officer Benjamin": {
+"img": "img/skin/chief-research-officer-benjamin.webp",
+"zh": "研究局长 宾森恩",
+"src": "https://wiki.biligame.com/cq/%E7%A0%94%E7%A9%B6%E5%B1%80%E9%95%BF%20%E5%AE%BE%E6%A3%AE%E6%81%A9"
+},
+"Tyrant Cain": {
+"img": "img/skin/tyrant-cain.webp",
+"zh": "暴君该隐",
+"src": "https://wiki.biligame.com/cq/%E6%9A%B4%E5%90%9B%E8%AF%A5%E9%9A%90"
+},
+"Grand Fiecido Cain": {
+"img": "img/skin/grand-fiecido-cain.webp",
+"zh": "格兰皮耶西多 该隐",
+"src": "https://wiki.biligame.com/cq/%E6%A0%BC%E5%85%B0%E7%9A%AE%E8%80%B6%E8%A5%BF%E5%A4%9A%20%E8%AF%A5%E9%9A%90"
+},
+"Superstar Cano": {
+"img": "img/skin/superstar-cano.webp",
+"zh": "超级明星 明日香",
+"src": "https://wiki.biligame.com/cq/%E8%B6%85%E7%BA%A7%E6%98%8E%E6%98%9F%20%E6%98%8E%E6%97%A5%E9%A6%99"
+},
+"Ancient Captain": {
+"img": "img/skin/ancient-captain.webp",
+"zh": "爱伦斯特 鲁格斯",
+"src": "https://wiki.biligame.com/cq/%E7%88%B1%E4%BC%A6%E6%96%AF%E7%89%B9%20%E9%B2%81%E6%A0%BC%E6%96%AF"
+},
+"Baby Chick Crow": {
+"img": "img/skin/baby-chick-crow.webp",
+"zh": "小鸡班 乌鸦",
+"src": "https://wiki.biligame.com/cq/%E5%B0%8F%E9%B8%A1%E7%8F%AD%20%E4%B9%8C%E9%B8%A6"
+},
+"Steampumk Crow": {
+"img": "img/skin/steampumk-crow.webp",
+"zh": "蒸汽朋克 乌鸦",
+"src": "https://wiki.biligame.com/cq/%E8%92%B8%E6%B1%BD%E6%9C%8B%E5%85%8B%20%E4%B9%8C%E9%B8%A6"
+},
+"Harvest Festival D'Artagnan": {
+"img": "img/skin/harvest-festival-d-artagnan.webp",
+"zh": "收获季·达达尼昂",
+"src": "https://wiki.biligame.com/cq/%E6%94%B6%E8%8E%B7%E5%AD%A3%C2%B7%E8%BE%BE%E8%BE%BE%E5%B0%BC%E6%98%82"
+},
+"Captain D'Artagnan": {
+"img": "img/skin/captain-d-artagnan.webp",
+"zh": "枪手队长达达尼昂",
+"src": "https://wiki.biligame.com/cq/%E6%9E%AA%E6%89%8B%E9%98%9F%E9%95%BF%E8%BE%BE%E8%BE%BE%E5%B0%BC%E6%98%82"
+},
+"Dara of Gleaming Blossoms": {
+"img": "img/skin/dara-of-gleaming-blossoms.webp",
+"zh": "花灯之火 达拉",
+"src": "https://wiki.biligame.com/cq/%E8%8A%B1%E7%81%AF%E4%B9%8B%E7%81%AB%20%E8%BE%BE%E6%8B%89"
+},
+"Dara of Lotus": {
+"img": "img/skin/dara-of-lotus.webp",
+"zh": "莲花达拉",
+"src": "https://wiki.biligame.com/cq/%E8%8E%B2%E8%8A%B1%E8%BE%BE%E6%8B%89"
+},
+"Noble Lady Demeter": {
+"img": "img/skin/noble-lady-demeter.webp",
+"zh": "令夫人·德米特尔",
+"src": "https://wiki.biligame.com/cq/%E4%BB%A4%E5%A4%AB%E4%BA%BA%C2%B7%E5%BE%B7%E7%B1%B3%E7%89%B9%E5%B0%94"
+},
+"Hell Princess Demona": {
+"img": "img/skin/hell-princess-demona.webp",
+"zh": "地狱公主·德姆娜",
+"src": "https://wiki.biligame.com/cq/%E5%9C%B0%E7%8B%B1%E5%85%AC%E4%B8%BB%C2%B7%E5%BE%B7%E5%A7%86%E5%A8%9C"
+},
+"Camping Girl Demona": {
+"img": "img/skin/camping-girl-demona.webp",
+"zh": "露营少女 德姆娜",
+"src": "https://wiki.biligame.com/cq/%E9%9C%B2%E8%90%A5%E5%B0%91%E5%A5%B3%20%E5%BE%B7%E5%A7%86%E5%A8%9C"
+},
+"Dorothy the White Witch": {
+"img": "img/skin/dorothy-the-white-witch.webp",
+"zh": "白色魔女桃乐丝",
+"src": "https://wiki.biligame.com/cq/%E7%99%BD%E8%89%B2%E9%AD%94%E5%A5%B3%E6%A1%83%E4%B9%90%E4%B8%9D"
+},
+"Puppy Dox": {
+"img": "img/skin/puppy-dox.webp",
+"zh": "小狗德斯",
+"src": "https://wiki.biligame.com/cq/%E5%B0%8F%E7%8B%97%E5%BE%B7%E6%96%AF"
+},
+"Ghost Captain Drake": {
+"img": "img/skin/ghost-captain-drake.webp",
+"zh": "幽灵船长德雷克",
+"src": "https://wiki.biligame.com/cq/%E5%B9%BD%E7%81%B5%E8%88%B9%E9%95%BF%E5%BE%B7%E9%9B%B7%E5%85%8B"
+},
+"Professor Faust": {
+"img": "img/skin/professor-faust.webp",
+"zh": "天才博士 福斯特",
+"src": "https://wiki.biligame.com/cq/%E5%A4%A9%E6%89%8D%E5%8D%9A%E5%A3%AB%20%E7%A6%8F%E6%96%AF%E7%89%B9"
+},
+"Fox Spirit Giparang": {
+"img": "img/skin/fox-spirit-giparang.webp",
+"zh": "狐狸少年奇波郎",
+"src": "https://wiki.biligame.com/cq/%E7%8B%90%E7%8B%B8%E5%B0%91%E5%B9%B4%E5%A5%87%E6%B3%A2%E9%83%8E"
+},
+"Giparang of Moonlit Lanterns": {
+"img": "img/skin/giparang-of-moonlit-lanterns.webp",
+"zh": "月下花灯 奇波郎",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E4%B8%8B%E8%8A%B1%E7%81%AF%20%E5%A5%87%E6%B3%A2%E9%83%8E"
+},
+"Princess Gon": {
+"img": "img/skin/princess-gon.webp",
+"zh": "坤主人 坤",
+"src": "https://wiki.biligame.com/cq/%E5%9D%A4%E4%B8%BB%E4%BA%BA%20%E5%9D%A4"
+},
+"Fox Mask Hanzo": {
+"img": "img/skin/fox-mask-hanzo.webp",
+"zh": "假面狐狸 半藏",
+"src": "https://wiki.biligame.com/cq/%E5%81%87%E9%9D%A2%E7%8B%90%E7%8B%B8%20%E5%8D%8A%E8%97%8F"
+},
+"Lonely Bass Hanzo": {
+"img": "img/skin/lonely-bass-hanzo.webp",
+"zh": "孤独低音半藏",
+"src": "https://wiki.biligame.com/cq/%E5%AD%A4%E7%8B%AC%E4%BD%8E%E9%9F%B3%E5%8D%8A%E8%97%8F"
+},
+"Guest of Honor Hector": {
+"img": "img/skin/guest-of-honor-hector.webp",
+"zh": "主宾·赫克托尔",
+"src": "https://wiki.biligame.com/cq/%E4%B8%BB%E5%AE%BE%C2%B7%E8%B5%AB%E5%85%8B%E6%89%98%E5%B0%94"
+},
+"Police Captain Hector": {
+"img": "img/skin/police-captain-hector.webp",
+"zh": "宪兵队 赫克托尔",
+"src": "https://wiki.biligame.com/cq/%E5%AE%AA%E5%85%B5%E9%98%9F%20%E8%B5%AB%E5%85%8B%E6%89%98%E5%B0%94"
+},
+"Teddy Bear Hikari": {
+"img": "img/skin/teddy-bear-hikari.webp",
+"zh": "泰迪熊 小光",
+"src": "https://wiki.biligame.com/cq/%E6%B3%B0%E8%BF%AA%E7%86%8A%20%E5%B0%8F%E5%85%89"
+},
+"Exorcist Himiko": {
+"img": "img/skin/exorcist-himiko.webp",
+"zh": "驱魔少女卑弥呼",
+"src": "https://wiki.biligame.com/cq/%E9%A9%B1%E9%AD%94%E5%B0%91%E5%A5%B3%E5%8D%91%E5%BC%A5%E5%91%BC"
+},
+"Razor Kitsune Himiko": {
+"img": "img/skin/razor-kitsune-himiko.webp",
+"zh": "狐狸 卑弥呼",
+"src": "https://wiki.biligame.com/cq/%E7%8B%90%E7%8B%B8%20%E5%8D%91%E5%BC%A5%E5%91%BC"
+},
+"Consumed Isabel": {
+"img": "img/skin/consumed-isabel.webp",
+"zh": "完全侵蚀伊莎贝尔",
+"src": "https://wiki.biligame.com/cq/%E5%AE%8C%E5%85%A8%E4%BE%B5%E8%9A%80%E4%BC%8A%E8%8E%8E%E8%B4%9D%E5%B0%94"
+},
+"Joan, Knight of Roses": {
+"img": "img/skin/joan-knight-of-roses.webp",
+"zh": "蔷薇骑士圣女贞德",
+"src": "https://wiki.biligame.com/cq/%E8%94%B7%E8%96%87%E9%AA%91%E5%A3%AB%E5%9C%A3%E5%A5%B3%E8%B4%9E%E5%BE%B7"
+},
+"Sleep Fairy Kaori": {
+"img": "img/skin/sleep-fairy-kaori.webp",
+"zh": "睡觉的精灵 香织",
+"src": "https://wiki.biligame.com/cq/%E7%9D%A1%E8%A7%89%E7%9A%84%E7%B2%BE%E7%81%B5%20%E9%A6%99%E7%BB%87"
+},
+"Gangster Kaori": {
+"img": "img/skin/gangster-kaori.webp",
+"zh": "不良学生香织",
+"src": "https://wiki.biligame.com/cq/%E4%B8%8D%E8%89%AF%E5%AD%A6%E7%94%9F%E9%A6%99%E7%BB%87"
+},
+"Flower Korin": {
+"img": "img/skin/flower-korin.webp",
+"zh": "花样桂香",
+"src": "https://wiki.biligame.com/cq/%E8%8A%B1%E6%A0%B7%E6%A1%82%E9%A6%99"
+},
+"Winter Girl Korin": {
+"img": "img/skin/winter-girl-korin.webp",
+"zh": "冬日少女 桂香",
+"src": "https://wiki.biligame.com/cq/%E5%86%AC%E6%97%A5%E5%B0%91%E5%A5%B3%20%E6%A1%82%E9%A6%99"
+},
+"Victorious General Koxinga": {
+"img": "img/skin/victorious-general-koxinga.webp",
+"zh": "凯旋将军 郑成功",
+"src": "https://wiki.biligame.com/cq/%E5%87%AF%E6%97%8B%E5%B0%86%E5%86%9B%20%E9%83%91%E6%88%90%E5%8A%9F"
+},
+"Kriemhild of Dreams": {
+"img": "img/skin/kriemhild-of-dreams.webp",
+"zh": "梦中的克里姆希尔特",
+"src": "https://wiki.biligame.com/cq/%E6%A2%A6%E4%B8%AD%E7%9A%84%E5%85%8B%E9%87%8C%E5%A7%86%E5%B8%8C%E5%B0%94%E7%89%B9"
+},
+"Kriemhild under the Summer Sun": {
+"img": "img/skin/kriemhild-under-the-summer-sun.webp",
+"zh": "亮丽的阳光 克里姆希尔特",
+"src": "https://wiki.biligame.com/cq/%E4%BA%AE%E4%B8%BD%E7%9A%84%E9%98%B3%E5%85%89%20%E5%85%8B%E9%87%8C%E5%A7%86%E5%B8%8C%E5%B0%94%E7%89%B9"
+},
+"Flower of the Court Lee": {
+"img": "img/skin/flower-of-the-court-lee.webp",
+"zh": "华丽的表演 李",
+"src": "https://wiki.biligame.com/cq/%E5%8D%8E%E4%B8%BD%E7%9A%84%E8%A1%A8%E6%BC%94%20%E6%9D%8E"
+},
+"Magmax Leon": {
+"img": "img/skin/magmax-leon.webp",
+"zh": "玛格纳斯里昂",
+"src": "https://wiki.biligame.com/cq/%E7%8E%9B%E6%A0%BC%E7%BA%B3%E6%96%AF%E9%87%8C%E6%98%82"
+},
+"Leon of Fate": {
+"img": "img/skin/leon-of-fate.webp",
+"zh": "命运之子里昂",
+"src": "https://wiki.biligame.com/cq/%E5%91%BD%E8%BF%90%E4%B9%8B%E5%AD%90%E9%87%8C%E6%98%82"
+},
+"Ice Queen Lilith": {
+"img": "img/skin/ice-queen-lilith.webp",
+"zh": "冰雪女王·莉莉丝",
+"src": "https://wiki.biligame.com/cq/%E5%86%B0%E9%9B%AA%E5%A5%B3%E7%8E%8B%C2%B7%E8%8E%89%E8%8E%89%E4%B8%9D"
+},
+"Carnival Lilith": {
+"img": "img/skin/carnival-lilith.webp",
+"zh": "嘉年华 莉莉丝",
+"src": "https://wiki.biligame.com/cq/%E5%98%89%E5%B9%B4%E5%8D%8E%20%E8%8E%89%E8%8E%89%E4%B8%9D"
+},
+"Plumber Lorelei": {
+"img": "img/skin/plumber-lorelei.webp",
+"zh": "修理工 罗蕾莱",
+"src": "https://wiki.biligame.com/cq/%E4%BF%AE%E7%90%86%E5%B7%A5%20%E7%BD%97%E8%95%BE%E8%8E%B1"
+},
+"Treasure Hunter Lorelei": {
+"img": "img/skin/treasure-hunter-lorelei.webp",
+"zh": "宝物猎人罗蕾莱",
+"src": "https://wiki.biligame.com/cq/%E5%AE%9D%E7%89%A9%E7%8C%8E%E4%BA%BA%E7%BD%97%E8%95%BE%E8%8E%B1"
+},
+"Black Cat Lupeow": {
+"img": "img/skin/black-cat-lupeow.webp",
+"zh": "黑色小猫 路尼昂",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E8%89%B2%E5%B0%8F%E7%8C%AB%20%E8%B7%AF%E5%B0%BC%E6%98%82"
+},
+"Magnus of White Roses": {
+"img": "img/skin/magnus-of-white-roses.webp",
+"zh": "白玫瑰 麦格尼斯",
+"src": "https://wiki.biligame.com/cq/%E7%99%BD%E7%8E%AB%E7%91%B0%20%E9%BA%A6%E6%A0%BC%E5%B0%BC%E6%96%AF"
+},
+"Snake Magician Mamba": {
+"img": "img/skin/snake-magician-mamba.webp",
+"zh": "训蛇师曼巴",
+"src": "https://wiki.biligame.com/cq/%E8%AE%AD%E8%9B%87%E5%B8%88%E6%9B%BC%E5%B7%B4"
+},
+"Clover Girl Mandy": {
+"img": "img/skin/clover-girl-mandy.webp",
+"zh": "三叶草少女 明蒂",
+"src": "https://wiki.biligame.com/cq/%E4%B8%89%E5%8F%B6%E8%8D%89%E5%B0%91%E5%A5%B3%20%E6%98%8E%E8%92%82"
+},
+"Summer Vacation Maria": {
+"img": "img/skin/summer-vacation-maria.webp",
+"zh": "夏日大作战玛利亚",
+"src": "https://wiki.biligame.com/cq/%E5%A4%8F%E6%97%A5%E5%A4%A7%E4%BD%9C%E6%88%98%E7%8E%9B%E5%88%A9%E4%BA%9A"
+},
+"Vibrant Quartet Maxi": {
+"img": "img/skin/vibrant-quartet-maxi.webp",
+"zh": "周转四重奏梅西",
+"src": "https://wiki.biligame.com/cq/%E5%91%A8%E8%BD%AC%E5%9B%9B%E9%87%8D%E5%A5%8F%E6%A2%85%E8%A5%BF"
+},
+"Bunny Magician Melissa": {
+"img": "img/skin/bunny-magician-melissa.webp",
+"zh": "兔耳朵梅丽莎",
+"src": "https://wiki.biligame.com/cq/%E5%85%94%E8%80%B3%E6%9C%B5%E6%A2%85%E4%B8%BD%E8%8E%8E"
+},
+"Girl Scout Melissa": {
+"img": "img/skin/girl-scout-melissa.webp",
+"zh": "女童子军 梅丽莎",
+"src": "https://wiki.biligame.com/cq/%E5%A5%B3%E7%AB%A5%E5%AD%90%E5%86%9B%20%E6%A2%85%E4%B8%BD%E8%8E%8E"
+},
+"Ghost Cat Mew": {
+"img": "img/skin/ghost-cat-mew.webp",
+"zh": "鬼计猫娘 喵",
+"src": "https://wiki.biligame.com/cq/%E9%AC%BC%E8%AE%A1%E7%8C%AB%E5%A8%98%20%E5%96%B5"
+},
+"Halloween Witch Mew": {
+"img": "img/skin/halloween-witch-mew.webp",
+"zh": "万圣节魔女喵",
+"src": "https://wiki.biligame.com/cq/%E4%B8%87%E5%9C%A3%E8%8A%82%E9%AD%94%E5%A5%B3%E5%96%B5"
+},
+"Golden Laureate Mondrian": {
+"img": "img/skin/golden-laureate-mondrian.webp",
+"zh": "金樽美酒家 李梦龙",
+"src": "https://wiki.biligame.com/cq/%E9%87%91%E6%A8%BD%E7%BE%8E%E9%85%92%E5%AE%B6%20%E6%9D%8E%E6%A2%A6%E9%BE%99"
+},
+"Full Armor Monte": {
+"img": "img/skin/full-armor-monte.webp",
+"zh": "重装铠甲 蒙泰",
+"src": "https://wiki.biligame.com/cq/%E9%87%8D%E8%A3%85%E9%93%A0%E7%94%B2%20%E8%92%99%E6%B3%B0"
+},
+"Foreign Knight Mundeok": {
+"img": "img/skin/foreign-knight-mundeok.webp",
+"zh": "异国骑士·文德",
+"src": "https://wiki.biligame.com/cq/%E5%BC%82%E5%9B%BD%E9%AA%91%E5%A3%AB%C2%B7%E6%96%87%E5%BE%B7"
+},
+"Ancient Sorceror Nazrne": {
+"img": "img/skin/ancient-sorceror-nazrne.webp",
+"zh": "古代巫师·纳兹伦",
+"src": "https://wiki.biligame.com/cq/%E5%8F%A4%E4%BB%A3%E5%B7%AB%E5%B8%88%C2%B7%E7%BA%B3%E5%85%B9%E4%BC%A6"
+},
+"Necron of Cataclysm": {
+"img": "img/skin/necron-of-cataclysm.webp",
+"zh": "落魄的内克伦",
+"src": "https://wiki.biligame.com/cq/%E8%90%BD%E9%AD%84%E7%9A%84%E5%86%85%E5%85%8B%E4%BC%A6"
+},
+"Divine Choir Nightingale": {
+"img": "img/skin/divine-choir-nightingale.webp",
+"zh": "合唱队·南丁格尔",
+"src": "https://wiki.biligame.com/cq/%E5%90%88%E5%94%B1%E9%98%9F%C2%B7%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94"
+},
+"Nightingbunny": {
+"img": "img/skin/nightingbunny.webp",
+"zh": "兔子 南丁格尔",
+"src": "https://wiki.biligame.com/cq/%E5%85%94%E5%AD%90%20%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94"
+},
+"Assassin of the Cold Niven": {
+"img": "img/skin/assassin-of-the-cold-niven.webp",
+"zh": "酷寒暗杀者 妮芬",
+"src": "https://wiki.biligame.com/cq/%E9%85%B7%E5%AF%92%E6%9A%97%E6%9D%80%E8%80%85%20%E5%A6%AE%E8%8A%AC"
+},
+"Winter Maiden No.09": {
+"img": "img/skin/winter-maiden-no-09.webp",
+"zh": "迎新年 九妹",
+"src": "https://wiki.biligame.com/cq/%E8%BF%8E%E6%96%B0%E5%B9%B4%20%E4%B9%9D%E5%A6%B9"
+},
+"Eastern Assassin Nurspy": {
+"img": "img/skin/eastern-assassin-nurspy.webp",
+"zh": "东方间谍 诺斯帕伊",
+"src": "https://wiki.biligame.com/cq/%E4%B8%9C%E6%96%B9%E9%97%B4%E8%B0%8D%20%E8%AF%BA%E6%96%AF%E5%B8%95%E4%BC%8A"
+},
+"Winter Mode R-0": {
+"img": "img/skin/winter-mode-r-0.webp",
+"zh": "冬日模式 阿尔-零号机",
+"src": "https://wiki.biligame.com/cq/%E5%86%AC%E6%97%A5%E6%A8%A1%E5%BC%8F%20%E9%98%BF%E5%B0%94-%E9%9B%B6%E5%8F%B7%E6%9C%BA"
+},
+"Spring Bride R-0": {
+"img": "img/skin/spring-bride-r-0.webp",
+"zh": "5月新娘阿尔-零号机",
+"src": "https://wiki.biligame.com/cq/5%E6%9C%88%E6%96%B0%E5%A8%98%E9%98%BF%E5%B0%94-%E9%9B%B6%E5%8F%B7%E6%9C%BA"
+},
+"Rachel of Raining Blossoms": {
+"img": "img/skin/rachel-of-raining-blossoms.webp",
+"zh": "花雨天瑞秋",
+"src": "https://wiki.biligame.com/cq/%E8%8A%B1%E9%9B%A8%E5%A4%A9%E7%91%9E%E7%A7%8B"
+},
+"Vocal of the Void Rachel": {
+"img": "img/skin/vocal-of-the-void-rachel.webp",
+"zh": "空虚主唱瑞秋",
+"src": "https://wiki.biligame.com/cq/%E7%A9%BA%E8%99%9A%E4%B8%BB%E5%94%B1%E7%91%9E%E7%A7%8B"
+},
+"Private Animal Club Rahima": {
+"img": "img/skin/private-animal-club-rahima.webp",
+"zh": "私立动物部 拉喜玛",
+"src": "https://wiki.biligame.com/cq/%E7%A7%81%E7%AB%8B%E5%8A%A8%E7%89%A9%E9%83%A8%20%E6%8B%89%E5%96%9C%E7%8E%9B"
+},
+"Devastating Drummer Robin Hood": {
+"img": "img/skin/devastating-drummer-robin-hood.webp",
+"zh": "热情的鼓手 罗宾汉",
+"src": "https://wiki.biligame.com/cq/%E7%83%AD%E6%83%85%E7%9A%84%E9%BC%93%E6%89%8B%20%E7%BD%97%E5%AE%BE%E6%B1%89"
+},
+"Robin Hood of Dusk": {
+"img": "img/skin/robin-hood-of-dusk.webp",
+"zh": "朦胧的夜晚罗宾汉",
+"src": "https://wiki.biligame.com/cq/%E6%9C%A6%E8%83%A7%E7%9A%84%E5%A4%9C%E6%99%9A%E7%BD%97%E5%AE%BE%E6%B1%89"
+},
+"Neth Commander Rochefort": {
+"img": "img/skin/neth-commander-rochefort.webp",
+"zh": "涅斯司令官罗什福尔",
+"src": "https://wiki.biligame.com/cq/%E6%B6%85%E6%96%AF%E5%8F%B8%E4%BB%A4%E5%AE%98%E7%BD%97%E4%BB%80%E7%A6%8F%E5%B0%94"
+},
+"Moon Rabbit": {
+"img": "img/skin/moon-rabbit.webp",
+"zh": "月兔·罗什福尔",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E5%85%94%C2%B7%E7%BD%97%E4%BB%80%E7%A6%8F%E5%B0%94"
+},
+"Dark Priest Roland": {
+"img": "img/skin/dark-priest-roland.webp",
+"zh": "黑祭司罗兰",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E7%A5%AD%E5%8F%B8%E7%BD%97%E5%85%B0"
+},
+"Crimson Pirate Saiga": {
+"img": "img/skin/crimson-pirate-saiga.webp",
+"zh": "红色海贼 孙市",
+"src": "https://wiki.biligame.com/cq/%E7%BA%A2%E8%89%B2%E6%B5%B7%E8%B4%BC%20%E5%AD%99%E5%B8%82"
+},
+"Sasquatch of the South": {
+"img": "img/skin/sasquatch-of-the-south.webp",
+"zh": "南国萨斯夸奇",
+"src": "https://wiki.biligame.com/cq/%E5%8D%97%E5%9B%BD%E8%90%A8%E6%96%AF%E5%A4%B8%E5%A5%87"
+},
+"Full Armor Sentinel": {
+"img": "img/skin/full-armor-sentinel.webp",
+"zh": "全副武装哨兵帝",
+"src": "https://wiki.biligame.com/cq/%E5%85%A8%E5%89%AF%E6%AD%A6%E8%A3%85%E5%93%A8%E5%85%B5%E5%B8%9D"
+},
+"Siegfried of the Waves": {
+"img": "img/skin/siegfried-of-the-waves.webp",
+"zh": "乘风破浪的 齐格弗里德",
+"src": "https://wiki.biligame.com/cq/%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E7%9A%84%20%E9%BD%90%E6%A0%BC%E5%BC%97%E9%87%8C%E5%BE%B7"
+},
+"Franken Sien": {
+"img": "img/skin/franken-sien.webp",
+"zh": "弗兰肯 希恩",
+"src": "https://wiki.biligame.com/cq/%E5%BC%97%E5%85%B0%E8%82%AF%20%E5%B8%8C%E6%81%A9"
+},
+"Brave Wind Sigruna": {
+"img": "img/skin/brave-wind-sigruna.webp",
+"zh": "勇猛之风 溪谷莉娜",
+"src": "https://wiki.biligame.com/cq/%E5%8B%87%E7%8C%9B%E4%B9%8B%E9%A3%8E%20%E6%BA%AA%E8%B0%B7%E8%8E%89%E5%A8%9C"
+},
+"Fairy Sigruna": {
+"img": "img/skin/fairy-sigruna.webp",
+"zh": "妖精溪谷莉娜",
+"src": "https://wiki.biligame.com/cq/%E5%A6%96%E7%B2%BE%E6%BA%AA%E8%B0%B7%E8%8E%89%E5%A8%9C"
+},
+"Farmer Girl Spiny": {
+"img": "img/skin/farmer-girl-spiny.webp",
+"zh": "农家姑娘·斯佩妮",
+"src": "https://wiki.biligame.com/cq/%E5%86%9C%E5%AE%B6%E5%A7%91%E5%A8%98%C2%B7%E6%96%AF%E4%BD%A9%E5%A6%AE"
+},
+"Firefighter Spyro": {
+"img": "img/skin/firefighter-spyro.webp",
+"zh": "消防员斯派洛",
+"src": "https://wiki.biligame.com/cq/%E6%B6%88%E9%98%B2%E5%91%98%E6%96%AF%E6%B4%BE%E6%B4%9B"
+},
+"Homerun King Stanya": {
+"img": "img/skin/homerun-king-stanya.webp",
+"zh": "本垒打王斯黛拉",
+"src": "https://wiki.biligame.com/cq/%E6%9C%AC%E5%9E%92%E6%89%93%E7%8E%8B%E6%96%AF%E9%BB%9B%E6%8B%89"
+},
+"Double Bass Stanya": {
+"img": "img/skin/double-bass-stanya.webp",
+"zh": "双贝斯 斯黛拉",
+"src": "https://wiki.biligame.com/cq/%E5%8F%8C%E8%B4%9D%E6%96%AF%20%E6%96%AF%E9%BB%9B%E6%8B%89"
+},
+"Biker Stein": {
+"img": "img/skin/biker-stein.webp",
+"zh": "摩托车手 斯坦因",
+"src": "https://wiki.biligame.com/cq/%E6%91%A9%E6%89%98%E8%BD%A6%E6%89%8B%20%E6%96%AF%E5%9D%A6%E5%9B%A0"
+},
+"Mecha Baron Stein": {
+"img": "img/skin/mecha-baron-stein.webp",
+"zh": "机械男爵 斯坦因",
+"src": "https://wiki.biligame.com/cq/%E6%9C%BA%E6%A2%B0%E7%94%B7%E7%88%B5%20%E6%96%AF%E5%9D%A6%E5%9B%A0"
+},
+"Sword Spirit Susanoo": {
+"img": "img/skin/sword-spirit-susanoo.webp",
+"zh": "刀魂·须佐能乎",
+"src": "https://wiki.biligame.com/cq/%E5%88%80%E9%AD%82%C2%B7%E9%A1%BB%E4%BD%90%E8%83%BD%E4%B9%8E"
+},
+"Wandering Swordsman Sworden": {
+"img": "img/skin/wandering-swordsman-sworden.webp",
+"zh": "流浪剑士 卞剑秀",
+"src": "https://wiki.biligame.com/cq/%E6%B5%81%E6%B5%AA%E5%89%91%E5%A3%AB%20%E5%8D%9E%E5%89%91%E7%A7%80"
+},
+"Sailor Teresa": {
+"img": "img/skin/sailor-teresa.webp",
+"zh": "水手服麻美",
+"src": "https://wiki.biligame.com/cq/%E6%B0%B4%E6%89%8B%E6%9C%8D%E9%BA%BB%E7%BE%8E"
+},
+"Prince Thor": {
+"img": "img/skin/prince-thor.webp",
+"zh": "王子托尔",
+"src": "https://wiki.biligame.com/cq/%E7%8E%8B%E5%AD%90%E6%89%98%E5%B0%94"
+},
+"Undercover Tia": {
+"img": "img/skin/undercover-tia.webp",
+"zh": "潜入要员 迪雅",
+"src": "https://wiki.biligame.com/cq/%E6%BD%9C%E5%85%A5%E8%A6%81%E5%91%98%20%E8%BF%AA%E9%9B%85"
+},
+"Dandy Romantic Uriel": {
+"img": "img/skin/dandy-romantic-uriel.webp",
+"zh": "恋爱老手 乌列",
+"src": "https://wiki.biligame.com/cq/%E6%81%8B%E7%88%B1%E8%80%81%E6%89%8B%20%E4%B9%8C%E5%88%97"
+},
+"Drum Destroyer Uzimant": {
+"img": "img/skin/drum-destroyer-uzimant.webp",
+"zh": "铜鼓破坏者乌兹门特",
+"src": "https://wiki.biligame.com/cq/%E9%93%9C%E9%BC%93%E7%A0%B4%E5%9D%8F%E8%80%85%E4%B9%8C%E5%85%B9%E9%97%A8%E7%89%B9"
+},
+"Part-time doll clothing · Uzi Clement": {
+"img": "img/skin/part-time-doll-clothing-uzi-clement.webp",
+"zh": "兼职人偶服装·乌兹门特",
+"src": "https://wiki.biligame.com/cq/%E5%85%BC%E8%81%8C%E4%BA%BA%E5%81%B6%E6%9C%8D%E8%A3%85%C2%B7%E4%B9%8C%E5%85%B9%E9%97%A8%E7%89%B9"
+},
+"Air Force Officer V": {
+"img": "img/skin/air-force-officer-v.webp",
+"zh": "空军上校 威",
+"src": "https://wiki.biligame.com/cq/%E7%A9%BA%E5%86%9B%E4%B8%8A%E6%A0%A1%20%E5%A8%81"
+},
+"Snowboarder V": {
+"img": "img/skin/snowboarder-v.webp",
+"zh": "单板滑雪者 威",
+"src": "https://wiki.biligame.com/cq/%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E8%80%85%20%E5%A8%81"
+},
+"Terrifying Keyboard Vane": {
+"img": "img/skin/terrifying-keyboard-vane.webp",
+"zh": "恐怖键盘贝恩",
+"src": "https://wiki.biligame.com/cq/%E6%81%90%E6%80%96%E9%94%AE%E7%9B%98%E8%B4%9D%E6%81%A9"
+},
+"Summer Vacantion Vesper": {
+"img": "img/skin/summer-vacantion-vesper.webp",
+"zh": "夏日大作战 贝斯派",
+"src": "https://wiki.biligame.com/cq/%E5%A4%8F%E6%97%A5%E5%A4%A7%E4%BD%9C%E6%88%98%20%E8%B4%9D%E6%96%AF%E6%B4%BE"
+},
+"Sugar & Spice Victoria": {
+"img": "img/skin/sugar-spice-victoria.webp",
+"zh": "野蛮女友 维多利亚",
+"src": "https://wiki.biligame.com/cq/%E9%87%8E%E8%9B%AE%E5%A5%B3%E5%8F%8B%20%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A"
+},
+"Matador Vincent": {
+"img": "img/skin/matador-vincent.webp",
+"zh": "斗牛士 文森特",
+"src": "https://wiki.biligame.com/cq/%E6%96%97%E7%89%9B%E5%A3%AB%20%E6%96%87%E6%A3%AE%E7%89%B9"
+},
+"Ghost Party Viola": {
+"img": "img/skin/ghost-party-viola.webp",
+"zh": "幽灵聚会 贝欧琳",
+"src": "https://wiki.biligame.com/cq/%E5%B9%BD%E7%81%B5%E8%81%9A%E4%BC%9A%20%E8%B4%9D%E6%AC%A7%E7%90%B3"
+},
+"Wooden Puppeteer Violet": {
+"img": "img/skin/wooden-puppeteer-violet.webp",
+"zh": "木偶师 贝萝特",
+"src": "https://wiki.biligame.com/cq/%E6%9C%A8%E5%81%B6%E5%B8%88%20%E8%B4%9D%E8%90%9D%E7%89%B9"
+},
+"Nutcracker Violet": {
+"img": "img/skin/nutcracker-violet.webp",
+"zh": "玩具兵·贝萝特",
+"src": "https://wiki.biligame.com/cq/%E7%8E%A9%E5%85%B7%E5%85%B5%C2%B7%E8%B4%9D%E8%90%9D%E7%89%B9"
+},
+"Guerilla Viper": {
+"img": "img/skin/guerilla-viper.webp",
+"zh": "游击队·斯内克",
+"src": "https://wiki.biligame.com/cq/%E6%B8%B8%E5%87%BB%E9%98%9F%C2%B7%E6%96%AF%E5%86%85%E5%85%8B"
+},
+"Magic Academy Vivian": {
+"img": "img/skin/magic-academy-vivian.webp",
+"zh": "魔法学校 薇薇安",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E6%B3%95%E5%AD%A6%E6%A0%A1%20%E8%96%87%E8%96%87%E5%AE%89"
+},
+"Hellmaid Vivian": {
+"img": "img/skin/hellmaid-vivian.webp",
+"zh": "恶魔薇薇安",
+"src": "https://wiki.biligame.com/cq/%E6%81%B6%E9%AD%94%E8%96%87%E8%96%87%E5%AE%89"
+},
+"Baker Wolfgang": {
+"img": "img/skin/baker-wolfgang.webp",
+"zh": "面点师 沃尔夫冈",
+"src": "https://wiki.biligame.com/cq/%E9%9D%A2%E7%82%B9%E5%B8%88%20%E6%B2%83%E5%B0%94%E5%A4%AB%E5%86%88"
+},
+"Woopa of Holy Rituals": {
+"img": "img/skin/woopa-of-holy-rituals.webp",
+"zh": "神圣仪式 乌帕",
+"src": "https://wiki.biligame.com/cq/%E7%A5%9E%E5%9C%A3%E4%BB%AA%E5%BC%8F%20%E4%B9%8C%E5%B8%95"
+},
+"Howling Guitar Woopa": {
+"img": "img/skin/howling-guitar-woopa.webp",
+"zh": "怒吼吉他乌帕",
+"src": "https://wiki.biligame.com/cq/%E6%80%92%E5%90%BC%E5%90%89%E4%BB%96%E4%B9%8C%E5%B8%95"
+},
+"Yichui in Wonderland": {
+"img": "img/skin/yichui-in-wonderland.webp",
+"zh": "奇异国度伊吹",
+"src": "https://wiki.biligame.com/cq/%E5%A5%87%E5%BC%82%E5%9B%BD%E5%BA%A6%E4%BC%8A%E5%90%B9"
+},
+"Chief Operator Yuria": {
+"img": "img/skin/chief-operator-yuria.webp",
+"zh": "首席操作员 尤莉娅",
+"src": "https://wiki.biligame.com/cq/%E9%A6%96%E5%B8%AD%E6%93%8D%E4%BD%9C%E5%91%98%20%E5%B0%A4%E8%8E%89%E5%A8%85"
+}
+}

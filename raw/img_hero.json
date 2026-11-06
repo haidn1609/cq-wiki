@@ -1,0 +1,2242 @@
+{
+"AG01 - Neo": {
+"zh": "战姬01-妮欧",
+"src": "https://wiki.biligame.com/cq/%E6%88%98%E5%A7%AC01-%E5%A6%AE%E6%AC%A7",
+"icon": "img/hero/ag01-neo-icon.webp"
+},
+"AG02 - Layla": {
+"zh": "战姬02-蕾拉",
+"src": "https://wiki.biligame.com/cq/%E6%88%98%E5%A7%AC02-%E8%95%BE%E6%8B%89",
+"icon": "img/hero/ag02-layla-icon.webp"
+},
+"AG03 - Mel": {
+"zh": "战姬03-梅尔",
+"src": "https://wiki.biligame.com/cq/%E6%88%98%E5%A7%AC03-%E6%A2%85%E5%B0%94",
+"icon": "img/hero/ag03-mel-icon.webp"
+},
+"Abel": {
+"zh": "狩魔猎人亚伯",
+"src": "https://wiki.biligame.com/cq/%E7%8B%A9%E9%AD%94%E7%8C%8E%E4%BA%BA%E4%BA%9A%E4%BC%AF",
+"icon": "img/hero/abel-icon.webp",
+"art": "img/hero/abel-art.webp"
+},
+"Achilles": {
+"zh": "战神阿基里斯",
+"src": "https://wiki.biligame.com/cq/%E6%88%98%E7%A5%9E%E9%98%BF%E5%9F%BA%E9%87%8C%E6%96%AF",
+"icon": "img/hero/achilles-icon.webp",
+"art": "img/hero/achilles-art.webp"
+},
+"Adol": {
+"zh": "亚特鲁·克里斯汀",
+"src": "https://wiki.biligame.com/cq/%E4%BA%9A%E7%89%B9%E9%B2%81%C2%B7%E5%85%8B%E9%87%8C%E6%96%AF%E6%B1%80",
+"icon": "img/hero/adol-icon.webp",
+"art": "img/hero/adol-art.webp"
+},
+"Affogato": {
+"zh": "咖啡香气浓郁的阿波加托",
+"src": "https://wiki.biligame.com/cq/%E5%92%96%E5%95%A1%E9%A6%99%E6%B0%94%E6%B5%93%E9%83%81%E7%9A%84%E9%98%BF%E6%B3%A2%E5%8A%A0%E6%89%98",
+"icon": "img/hero/affogato-icon.webp",
+"art": "img/hero/affogato-art.webp"
+},
+"Alexander": {
+"zh": "皇帝亚历山大",
+"src": "https://wiki.biligame.com/cq/%E7%9A%87%E5%B8%9D%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7",
+"icon": "img/hero/alexander-icon.webp",
+"art": "img/hero/alexander-art.webp"
+},
+"Alfyn": {
+"zh": "亚芬·格林格拉斯",
+"src": "https://wiki.biligame.com/cq/%E4%BA%9A%E8%8A%AC%C2%B7%E6%A0%BC%E6%9E%97%E6%A0%BC%E6%8B%89%E6%96%AF",
+"icon": "img/hero/alfyn-icon.webp",
+"art": "img/hero/alfyn-art.webp"
+},
+"Alice": {
+"zh": "黑桃王后爱丽丝",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E6%A1%83%E7%8E%8B%E5%90%8E%E7%88%B1%E4%B8%BD%E4%B8%9D",
+"icon": "img/hero/alice-icon.webp",
+"art": "img/hero/alice-art.webp"
+},
+"Almael": {
+"zh": "妖精骑士 阿尔玛尔",
+"src": "https://wiki.biligame.com/cq/%E5%A6%96%E7%B2%BE%E9%AA%91%E5%A3%AB%20%E9%98%BF%E5%B0%94%E7%8E%9B%E5%B0%94",
+"icon": "img/hero/almael-icon.webp",
+"art": "img/hero/almael-art.webp"
+},
+"Altair": {
+"zh": "爱如潮涌的牛郎",
+"src": "https://wiki.biligame.com/cq/%E7%88%B1%E5%A6%82%E6%BD%AE%E6%B6%8C%E7%9A%84%E7%89%9B%E9%83%8E",
+"icon": "img/hero/altair-icon.webp",
+"art": "img/hero/altair-art.webp"
+},
+"Ana": {
+"zh": "黄金百合 安娜",
+"src": "https://wiki.biligame.com/cq/%E9%BB%84%E9%87%91%E7%99%BE%E5%90%88%20%E5%AE%89%E5%A8%9C",
+"icon": "img/hero/ana-icon.webp",
+"art": "img/hero/ana-art.webp"
+},
+"Anesidora": {
+"zh": "安妮斯朵拉",
+"src": "https://wiki.biligame.com/cq/%E5%AE%89%E5%A6%AE%E6%96%AF%E6%9C%B5%E6%8B%89",
+"icon": "img/hero/anesidora-icon.webp",
+"art": "img/hero/anesidora-art.webp"
+},
+"Anima": {
+"zh": "猫猫乐园的阿尼玛",
+"src": "https://wiki.biligame.com/cq/%E7%8C%AB%E7%8C%AB%E4%B9%90%E5%9B%AD%E7%9A%84%E9%98%BF%E5%B0%BC%E7%8E%9B",
+"icon": "img/hero/anima-icon.webp",
+"art": "img/hero/anima-art.webp"
+},
+"Anne": {
+"zh": "完美形态的 安妮",
+"src": "https://wiki.biligame.com/cq/%E5%AE%8C%E7%BE%8E%E5%BD%A2%E6%80%81%E7%9A%84%20%E5%AE%89%E5%A6%AE",
+"icon": "img/hero/anne-icon.webp",
+"art": "img/hero/anne-art.webp"
+},
+"Anton": {
+"zh": "另类美食家安东尼",
+"src": "https://wiki.biligame.com/cq/%E5%8F%A6%E7%B1%BB%E7%BE%8E%E9%A3%9F%E5%AE%B6%E5%AE%89%E4%B8%9C%E5%B0%BC",
+"icon": "img/hero/anton-icon.webp",
+"art": "img/hero/anton-art.webp"
+},
+"Anzu": {
+"zh": "旋风 杏",
+"src": "https://wiki.biligame.com/cq/%E6%97%8B%E9%A3%8E%20%E6%9D%8F",
+"icon": "img/hero/anzu-icon.webp",
+"art": "img/hero/anzu-art.webp"
+},
+"Arachne": {
+"zh": "蜘蛛女皇 阿拉克尼",
+"src": "https://wiki.biligame.com/cq/%E8%9C%98%E8%9B%9B%E5%A5%B3%E7%9A%87%20%E9%98%BF%E6%8B%89%E5%85%8B%E5%B0%BC",
+"icon": "img/hero/arachne-icon.webp",
+"art": "img/hero/arachne-art.webp"
+},
+"Aramis": {
+"zh": "追击者雅拉蜜丝",
+"src": "https://wiki.biligame.com/cq/%E8%BF%BD%E5%87%BB%E8%80%85%E9%9B%85%E6%8B%89%E8%9C%9C%E4%B8%9D",
+"icon": "img/hero/aramis-icon.webp",
+"art": "img/hero/aramis-art.webp"
+},
+"Archon": {
+"zh": "觉醒的雅甘",
+"src": "https://wiki.biligame.com/cq/%E8%A7%89%E9%86%92%E7%9A%84%E9%9B%85%E7%94%98",
+"icon": "img/hero/archon-icon.webp",
+"art": "img/hero/archon-art.webp"
+},
+"Ares": {
+"zh": "内心争斗的阿瑞斯",
+"src": "https://wiki.biligame.com/cq/%E5%86%85%E5%BF%83%E4%BA%89%E6%96%97%E7%9A%84%E9%98%BF%E7%91%9E%E6%96%AF",
+"icon": "img/hero/ares-icon.webp",
+"art": "img/hero/ares-art.webp"
+},
+"Aria": {
+"zh": "星光之娅莉娅",
+"src": "https://wiki.biligame.com/cq/%E6%98%9F%E5%85%89%E4%B9%8B%E5%A8%85%E8%8E%89%E5%A8%85",
+"icon": "img/hero/aria-icon.webp",
+"art": "img/hero/aria-art.webp"
+},
+"Arita": {
+"zh": "森林魔女娅莉塔",
+"src": "https://wiki.biligame.com/cq/%E6%A3%AE%E6%9E%97%E9%AD%94%E5%A5%B3%E5%A8%85%E8%8E%89%E5%A1%94",
+"icon": "img/hero/arita-icon.webp",
+"art": "img/hero/arita-art.webp"
+},
+"Arona": {
+"zh": "倾国倾城春香",
+"src": "https://wiki.biligame.com/cq/%E5%80%BE%E5%9B%BD%E5%80%BE%E5%9F%8E%E6%98%A5%E9%A6%99",
+"icon": "img/hero/arona-icon.webp",
+"art": "img/hero/arona-art.webp"
+},
+"Asamiya": {
+"zh": "麻宫雅典娜",
+"src": "https://wiki.biligame.com/cq/%E9%BA%BB%E5%AE%AB%E9%9B%85%E5%85%B8%E5%A8%9C",
+"icon": "img/hero/asamiya-icon.webp",
+"art": "img/hero/asamiya-art.webp"
+},
+"Ashley": {
+"zh": "千金品格阿什莉",
+"src": "https://wiki.biligame.com/cq/%E5%8D%83%E9%87%91%E5%93%81%E6%A0%BC%E9%98%BF%E4%BB%80%E8%8E%89",
+"icon": "img/hero/ashley-icon.webp",
+"art": "img/hero/ashley-art.webp"
+},
+"Asmodeus": {
+"zh": "魅惑的魔法少女阿斯摩太",
+"src": "https://wiki.biligame.com/cq/%E9%AD%85%E6%83%91%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E9%98%BF%E6%96%AF%E6%91%A9%E5%A4%AA",
+"icon": "img/hero/asmodeus-icon.webp",
+"art": "img/hero/asmodeus-art.webp"
+},
+"Atalante": {
+"zh": "月光追击者阿塔兰特",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E5%85%89%E8%BF%BD%E5%87%BB%E8%80%85%E9%98%BF%E5%A1%94%E5%85%B0%E7%89%B9",
+"icon": "img/hero/atalante-icon.webp",
+"art": "img/hero/atalante-art.webp"
+},
+"Athena": {
+"zh": "战场上的圣女雅典娜",
+"src": "https://wiki.biligame.com/cq/%E6%88%98%E5%9C%BA%E4%B8%8A%E7%9A%84%E5%9C%A3%E5%A5%B3%E9%9B%85%E5%85%B8%E5%A8%9C",
+"icon": "img/hero/athena-icon.webp",
+"art": "img/hero/athena-art.webp"
+},
+"Athos": {
+"zh": "美食家 阿索斯",
+"src": "https://wiki.biligame.com/cq/%E7%BE%8E%E9%A3%9F%E5%AE%B6%20%E9%98%BF%E7%B4%A2%E6%96%AF",
+"icon": "img/hero/athos-icon.webp",
+"art": "img/hero/athos-art.webp"
+},
+"Aurea": {
+"zh": "副团长 奥雷亚",
+"src": "https://wiki.biligame.com/cq/%E5%89%AF%E5%9B%A2%E9%95%BF%20%E5%A5%A5%E9%9B%B7%E4%BA%9A",
+"icon": "img/hero/aurea-icon.webp",
+"art": "img/hero/aurea-art.webp"
+},
+"Bahara": {
+"zh": "痛苦的传道者巴哈拉",
+"src": "https://wiki.biligame.com/cq/%E7%97%9B%E8%8B%A6%E7%9A%84%E4%BC%A0%E9%81%93%E8%80%85%E5%B7%B4%E5%93%88%E6%8B%89",
+"icon": "img/hero/bahara-icon.webp",
+"art": "img/hero/bahara-art.webp"
+},
+"Baiken": {
+"zh": "梅喧",
+"src": "https://wiki.biligame.com/cq/%E6%A2%85%E5%96%A7",
+"icon": "img/hero/baiken-icon.webp",
+"art": "img/hero/baiken-art.webp"
+},
+"Bakumaru": {
+"zh": "爆丸",
+"src": "https://wiki.biligame.com/cq/%E7%88%86%E4%B8%B8",
+"icon": "img/hero/bakumaru-icon.webp",
+"art": "img/hero/bakumaru-art.webp"
+},
+"Bari": {
+"zh": "白花瓦莉",
+"src": "https://wiki.biligame.com/cq/%E7%99%BD%E8%8A%B1%E7%93%A6%E8%8E%89",
+"icon": "img/hero/bari-icon.webp",
+"art": "img/hero/bari-art.webp"
+},
+"Basquiat": {
+"zh": "艺术家 巴斯奎特",
+"src": "https://wiki.biligame.com/cq/%E8%89%BA%E6%9C%AF%E5%AE%B6%20%E5%B7%B4%E6%96%AF%E5%A5%8E%E7%89%B9",
+"icon": "img/hero/basquiat-icon.webp",
+"art": "img/hero/basquiat-art.webp"
+},
+"Beako": {
+"zh": "碧翠丝",
+"src": "https://wiki.biligame.com/cq/%E7%A2%A7%E7%BF%A0%E4%B8%9D",
+"icon": "img/hero/beako-icon.webp",
+"art": "img/hero/beako-art.webp"
+},
+"Beatrice": {
+"zh": "无限的贝阿朵莉切",
+"src": "https://wiki.biligame.com/cq/%E6%97%A0%E9%99%90%E7%9A%84%E8%B4%9D%E9%98%BF%E6%9C%B5%E8%8E%89%E5%88%87",
+"icon": "img/hero/beatrice-icon.webp",
+"art": "img/hero/beatrice-art.webp"
+},
+"Bellerophan": {
+"zh": "龙猎人 柏勒洛丰",
+"src": "https://wiki.biligame.com/cq/%E9%BE%99%E7%8C%8E%E4%BA%BA%20%E6%9F%8F%E5%8B%92%E6%B4%9B%E4%B8%B0",
+"icon": "img/hero/bellerophan-icon.webp",
+"art": "img/hero/bellerophan-art.webp"
+},
+"Benjamin": {
+"zh": "创造者宾森恩",
+"src": "https://wiki.biligame.com/cq/%E5%88%9B%E9%80%A0%E8%80%85%E5%AE%BE%E6%A3%AE%E6%81%A9",
+"icon": "img/hero/benjamin-icon.webp",
+"art": "img/hero/benjamin-art.webp"
+},
+"Bera": {
+"zh": "三文鱼猎手蓓拉",
+"src": "https://wiki.biligame.com/cq/%E4%B8%89%E6%96%87%E9%B1%BC%E7%8C%8E%E6%89%8B%E8%93%93%E6%8B%89",
+"icon": "img/hero/bera-icon.webp",
+"art": "img/hero/bera-art.webp"
+},
+"Beron": {
+"zh": "电子熊贝伦",
+"src": "https://wiki.biligame.com/cq/%E7%94%B5%E5%AD%90%E7%86%8A%E8%B4%9D%E4%BC%A6",
+"icon": "img/hero/beron-icon.webp",
+"art": "img/hero/beron-art.webp"
+},
+"Bihwa": {
+"zh": "百王 裴花",
+"src": "https://wiki.biligame.com/cq/%E7%99%BE%E7%8E%8B%20%E8%A3%B4%E8%8A%B1",
+"icon": "img/hero/bihwa-icon.webp",
+"art": "img/hero/bihwa-art.webp"
+},
+"Bihyeongrang": {
+"zh": "鬼王钟奎",
+"src": "https://wiki.biligame.com/cq/%E9%AC%BC%E7%8E%8B%E9%92%9F%E5%A5%8E",
+"icon": "img/hero/bihyeongrang-icon.webp",
+"art": "img/hero/bihyeongrang-art.webp"
+},
+"Billy": {
+"zh": "比利·凯恩",
+"src": "https://wiki.biligame.com/cq/%E6%AF%94%E5%88%A9%C2%B7%E5%87%AF%E6%81%A9",
+"icon": "img/hero/billy-icon.webp",
+"art": "img/hero/billy-art.webp"
+},
+"Blake Belladona": {
+"zh": "布蕾克·贝拉多娜",
+"src": "https://wiki.biligame.com/cq/%E5%B8%83%E8%95%BE%E5%85%8B%C2%B7%E8%B4%9D%E6%8B%89%E5%A4%9A%E5%A8%9C",
+"icon": "img/hero/blake-belladona-icon.webp",
+"art": "img/hero/blake-belladona-art.webp"
+},
+"Borgos": {
+"zh": "冥帝·博格斯",
+"src": "https://wiki.biligame.com/cq/%E5%86%A5%E5%B8%9D%C2%B7%E5%8D%9A%E6%A0%BC%E6%96%AF",
+"icon": "img/hero/borgos-icon.webp",
+"art": "img/hero/borgos-art.webp"
+},
+"Briseis": {
+"zh": "优雅刺客布里塞斯",
+"src": "https://wiki.biligame.com/cq/%E4%BC%98%E9%9B%85%E5%88%BA%E5%AE%A2%E5%B8%83%E9%87%8C%E5%A1%9E%E6%96%AF",
+"icon": "img/hero/briseis-icon.webp",
+"art": "img/hero/briseis-art.webp"
+},
+"Caeneus": {
+"zh": "英勇的 凯涅厄斯",
+"src": "https://wiki.biligame.com/cq/%E8%8B%B1%E5%8B%87%E7%9A%84%20%E5%87%AF%E6%B6%85%E5%8E%84%E6%96%AF",
+"icon": "img/hero/caeneus-icon.webp",
+"art": "img/hero/caeneus-art.webp"
+},
+"Cain": {
+"zh": "圣魔该隐",
+"src": "https://wiki.biligame.com/cq/%E5%9C%A3%E9%AD%94%E8%AF%A5%E9%9A%90",
+"icon": "img/hero/cain-icon.webp",
+"art": "img/hero/cain-art.webp"
+},
+"Camilla": {
+"zh": "卡米尔拉·瓦奴芙",
+"src": "https://wiki.biligame.com/cq/%E5%8D%A1%E7%B1%B3%E5%B0%94%E6%8B%89%C2%B7%E7%93%A6%E5%A5%B4%E8%8A%99",
+"icon": "img/hero/camilla-icon.webp",
+"art": "img/hero/camilla-art.webp"
+},
+"Cano": {
+"zh": "魔法少女明日香",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%98%8E%E6%97%A5%E9%A6%99",
+"icon": "img/hero/cano-icon.webp",
+"art": "img/hero/cano-art.webp"
+},
+"Captain": {
+"zh": "扭蛋游击队·鲁格斯",
+"src": "https://wiki.biligame.com/cq/%E6%89%AD%E8%9B%8B%E6%B8%B8%E5%87%BB%E9%98%9F%C2%B7%E9%B2%81%E6%A0%BC%E6%96%AF",
+"icon": "img/hero/captain-icon.webp",
+"art": "img/hero/captain-art.webp"
+},
+"Carol": {
+"zh": "闪光 卡洛尔",
+"src": "https://wiki.biligame.com/cq/%E9%97%AA%E5%85%89%20%E5%8D%A1%E6%B4%9B%E5%B0%94",
+"icon": "img/hero/carol-icon.webp",
+"art": "img/hero/carol-art.webp"
+},
+"Caroline": {
+"zh": "异次元的侵略者卡罗琳",
+"src": "https://wiki.biligame.com/cq/%E5%BC%82%E6%AC%A1%E5%85%83%E7%9A%84%E4%BE%B5%E7%95%A5%E8%80%85%E5%8D%A1%E7%BD%97%E7%90%B3",
+"icon": "img/hero/caroline-icon.webp",
+"art": "img/hero/caroline-art.webp"
+},
+"Cassia": {
+"zh": "蚕食灵魂的颇尔垃加",
+"src": "https://wiki.biligame.com/cq/%E8%9A%95%E9%A3%9F%E7%81%B5%E9%AD%82%E7%9A%84%E9%A2%87%E5%B0%94%E5%9E%83%E5%8A%A0",
+"icon": "img/hero/cassia-icon.webp",
+"art": "img/hero/cassia-art.webp"
+},
+"Cecilia": {
+"zh": "异徒审判官塞西莉亚",
+"src": "https://wiki.biligame.com/cq/%E5%BC%82%E5%BE%92%E5%AE%A1%E5%88%A4%E5%AE%98%E5%A1%9E%E8%A5%BF%E8%8E%89%E4%BA%9A",
+"icon": "img/hero/cecilia-icon.webp",
+"art": "img/hero/cecilia-art.webp"
+},
+"Chai": {
+"zh": "美食猎人彩依",
+"src": "https://wiki.biligame.com/cq/%E7%BE%8E%E9%A3%9F%E7%8C%8E%E4%BA%BA%E5%BD%A9%E4%BE%9D",
+"icon": "img/hero/chai-icon.webp",
+"art": "img/hero/chai-art.webp"
+},
+"Charlotte": {
+"zh": "四天王夏洛特",
+"src": "https://wiki.biligame.com/cq/%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%A4%8F%E6%B4%9B%E7%89%B9",
+"icon": "img/hero/charlotte-icon.webp",
+"art": "img/hero/charlotte-art.webp"
+},
+"Chipp": {
+"zh": "奇普·萨那弗",
+"src": "https://wiki.biligame.com/cq/%E5%A5%87%E6%99%AE%C2%B7%E8%90%A8%E9%82%A3%E5%BC%97",
+"icon": "img/hero/chipp-icon.webp",
+"art": "img/hero/chipp-art.webp"
+},
+"Chiron": {
+"zh": "荣誉者凯伦",
+"src": "https://wiki.biligame.com/cq/%E8%8D%A3%E8%AA%89%E8%80%85%E5%87%AF%E4%BC%A6",
+"icon": "img/hero/chiron-icon.webp",
+"art": "img/hero/chiron-art.webp"
+},
+"Chizuru": {
+"zh": "神乐千鹤",
+"src": "https://wiki.biligame.com/cq/%E7%A5%9E%E4%B9%90%E5%8D%83%E9%B9%A4",
+"icon": "img/hero/chizuru-icon.webp",
+"art": "img/hero/chizuru-art.webp"
+},
+"Chocolat": {
+"zh": "巧克莉",
+"src": "https://wiki.biligame.com/cq/%E5%B7%A7%E5%85%8B%E8%8E%89",
+"icon": "img/hero/chocolat-icon.webp",
+"art": "img/hero/chocolat-art.webp"
+},
+"Chris": {
+"zh": "炎之宿命克里斯",
+"src": "https://wiki.biligame.com/cq/%E7%82%8E%E4%B9%8B%E5%AE%BF%E5%91%BD%E5%85%8B%E9%87%8C%E6%96%AF",
+"icon": "img/hero/chris-icon.webp",
+"art": "img/hero/chris-art.webp"
+},
+"Cinder Fall": {
+"zh": "馨德·芙",
+"src": "https://wiki.biligame.com/cq/%E9%A6%A8%E5%BE%B7%C2%B7%E8%8A%99",
+"icon": "img/hero/cinder-fall-icon.webp",
+"art": "img/hero/cinder-fall-art.webp"
+},
+"Cindy": {
+"zh": "优雅 辛迪",
+"src": "https://wiki.biligame.com/cq/%E4%BC%98%E9%9B%85%20%E8%BE%9B%E8%BF%AA",
+"icon": "img/hero/cindy-icon.webp",
+"art": "img/hero/cindy-art.webp"
+},
+"Cream": {
+"zh": "库莉姆",
+"src": "https://wiki.biligame.com/cq/%E5%BA%93%E8%8E%89%E5%A7%86",
+"icon": "img/hero/cream-icon.webp",
+"art": "img/hero/cream-art.webp"
+},
+"Cronette": {
+"zh": "次元行者 克洛内",
+"src": "https://wiki.biligame.com/cq/%E6%AC%A1%E5%85%83%E8%A1%8C%E8%80%85%20%E5%85%8B%E6%B4%9B%E5%86%85",
+"icon": "img/hero/cronette-icon.webp",
+"art": "img/hero/cronette-art.webp"
+},
+"Crow": {
+"zh": "恶灵乌鸦",
+"src": "https://wiki.biligame.com/cq/%E6%81%B6%E7%81%B5%E4%B9%8C%E9%B8%A6",
+"icon": "img/hero/crow-icon.webp",
+"art": "img/hero/crow-art.webp"
+},
+"Crusch": {
+"zh": "库珥修·卡尔斯腾",
+"src": "https://wiki.biligame.com/cq/%E5%BA%93%E7%8F%A5%E4%BF%AE%C2%B7%E5%8D%A1%E5%B0%94%E6%96%AF%E8%85%BE",
+"icon": "img/hero/crusch-icon.webp",
+"art": "img/hero/crusch-art.webp"
+},
+"Cyrus": {
+"zh": "赛拉斯·阿尔博莱特",
+"src": "https://wiki.biligame.com/cq/%E8%B5%9B%E6%8B%89%E6%96%AF%C2%B7%E9%98%BF%E5%B0%94%E5%8D%9A%E8%8E%B1%E7%89%B9",
+"icon": "img/hero/cyrus-icon.webp",
+"art": "img/hero/cyrus-art.webp"
+},
+"D'Artagnan": {
+"zh": "视死如归达达尼昂",
+"src": "https://wiki.biligame.com/cq/%E8%A7%86%E6%AD%BB%E5%A6%82%E5%BD%92%E8%BE%BE%E8%BE%BE%E5%B0%BC%E6%98%82",
+"icon": "img/hero/d-artagnan-icon.webp",
+"art": "img/hero/d-artagnan-art.webp"
+},
+"Dana": {
+"zh": "达娜·伊克露西亚",
+"src": "https://wiki.biligame.com/cq/%E8%BE%BE%E5%A8%9C%C2%B7%E4%BC%8A%E5%85%8B%E9%9C%B2%E8%A5%BF%E4%BA%9A",
+"icon": "img/hero/dana-icon.webp",
+"art": "img/hero/dana-art.webp"
+},
+"Dara": {
+"zh": "追求幸福的达拉",
+"src": "https://wiki.biligame.com/cq/%E8%BF%BD%E6%B1%82%E5%B9%B8%E7%A6%8F%E7%9A%84%E8%BE%BE%E6%8B%89",
+"icon": "img/hero/dara-icon.webp",
+"art": "img/hero/dara-art.webp"
+},
+"Delrien": {
+"zh": "仙女皇后 戴莉安",
+"src": "https://wiki.biligame.com/cq/%E4%BB%99%E5%A5%B3%E7%9A%87%E5%90%8E%20%E6%88%B4%E8%8E%89%E5%AE%89",
+"icon": "img/hero/delrien-icon.webp",
+"art": "img/hero/delrien-art.webp"
+},
+"Demeter": {
+"zh": "丰饶女神德米特尔",
+"src": "https://wiki.biligame.com/cq/%E4%B8%B0%E9%A5%B6%E5%A5%B3%E7%A5%9E%E5%BE%B7%E7%B1%B3%E7%89%B9%E5%B0%94",
+"icon": "img/hero/demeter-icon.webp",
+"art": "img/hero/demeter-art.webp"
+},
+"Demona": {
+"zh": "红莲之弓矢德姆娜",
+"src": "https://wiki.biligame.com/cq/%E7%BA%A2%E8%8E%B2%E4%B9%8B%E5%BC%93%E7%9F%A2%E5%BE%B7%E5%A7%86%E5%A8%9C",
+"icon": "img/hero/demona-icon.webp",
+"art": "img/hero/demona-art.webp"
+},
+"Dempsey": {
+"zh": "狂暴的机器人丹普西",
+"src": "https://wiki.biligame.com/cq/%E7%8B%82%E6%9A%B4%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%B9%E6%99%AE%E8%A5%BF",
+"icon": "img/hero/dempsey-icon.webp",
+"art": "img/hero/dempsey-art.webp"
+},
+"Deokpal Choi": {
+"zh": "四大天王崔德八",
+"src": "https://wiki.biligame.com/cq/%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%E5%B4%94%E5%BE%B7%E5%85%AB",
+"icon": "img/hero/deokpal-choi-icon.webp",
+"art": "img/hero/deokpal-choi-art.webp"
+},
+"Dizzy": {
+"zh": "迪兹",
+"src": "https://wiki.biligame.com/cq/%E8%BF%AA%E5%85%B9",
+"icon": "img/hero/dizzy-icon.webp",
+"art": "img/hero/dizzy-art.webp"
+},
+"Djura": {
+"zh": "遮阳者杜拉",
+"src": "https://wiki.biligame.com/cq/%E9%81%AE%E9%98%B3%E8%80%85%E6%9D%9C%E6%8B%89",
+"icon": "img/hero/djura-icon.webp",
+"art": "img/hero/djura-art.webp"
+},
+"Dorothy": {
+"zh": "黑袍魔女桃乐丝",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E8%A2%8D%E9%AD%94%E5%A5%B3%E6%A1%83%E4%B9%90%E4%B8%9D",
+"icon": "img/hero/dorothy-icon.webp",
+"art": "img/hero/dorothy-art.webp"
+},
+"Dox": {
+"zh": "名侦探夏洛克",
+"src": "https://wiki.biligame.com/cq/%E5%90%8D%E4%BE%A6%E6%8E%A2%E5%A4%8F%E6%B4%9B%E5%85%8B",
+"icon": "img/hero/dox-icon.webp",
+"art": "img/hero/dox-art.webp"
+},
+"Drago": {
+"zh": "多拉",
+"src": "https://wiki.biligame.com/cq/%E5%A4%9A%E6%8B%89",
+"icon": "img/hero/drago-icon.webp",
+"art": "img/hero/drago-art.webp"
+},
+"Drake": {
+"zh": "白胡子德雷克",
+"src": "https://wiki.biligame.com/cq/%E7%99%BD%E8%83%A1%E5%AD%90%E5%BE%B7%E9%9B%B7%E5%85%8B",
+"icon": "img/hero/drake-icon.webp",
+"art": "img/hero/drake-art.webp"
+},
+"Dullahan": {
+"zh": "末世杜尔拉汗",
+"src": "https://wiki.biligame.com/cq/%E6%9C%AB%E4%B8%96%E6%9D%9C%E5%B0%94%E6%8B%89%E6%B1%97",
+"icon": "img/hero/dullahan-icon.webp",
+"art": "img/hero/dullahan-art.webp"
+},
+"Dwarf Shaman": {
+"zh": "矿人道士",
+"src": "https://wiki.biligame.com/cq/%E7%9F%BF%E4%BA%BA%E9%81%93%E5%A3%AB",
+"icon": "img/hero/dwarf-shaman-icon.webp",
+"art": "img/hero/dwarf-shaman-art.webp"
+},
+"Echidna": {
+"zh": "蛇之女王 艾基德娜",
+"src": "https://wiki.biligame.com/cq/%E8%9B%87%E4%B9%8B%E5%A5%B3%E7%8E%8B%20%E8%89%BE%E5%9F%BA%E5%BE%B7%E5%A8%9C",
+"icon": "img/hero/echidna-icon.webp",
+"art": "img/hero/echidna-art.webp"
+},
+"Echo": {
+"zh": "艾可",
+"src": "https://wiki.biligame.com/cq/%E8%89%BE%E5%8F%AF",
+"icon": "img/hero/echo-icon.webp",
+"art": "img/hero/echo-art.webp"
+},
+"Ellie": {
+"zh": "艾丽",
+"src": "https://wiki.biligame.com/cq/%E8%89%BE%E4%B8%BD",
+"icon": "img/hero/ellie-icon.webp",
+"art": "img/hero/ellie-art.webp"
+},
+"Elphelt": {
+"zh": "艾尔菲尔特·瓦伦蒂",
+"src": "https://wiki.biligame.com/cq/%E8%89%BE%E5%B0%94%E8%8F%B2%E5%B0%94%E7%89%B9%C2%B7%E7%93%A6%E4%BC%A6%E8%92%82",
+"icon": "img/hero/elphelt-icon.webp",
+"art": "img/hero/elphelt-art.webp"
+},
+"Emilia": {
+"zh": "爱蜜莉雅",
+"src": "https://wiki.biligame.com/cq/%E7%88%B1%E8%9C%9C%E8%8E%89%E9%9B%85",
+"icon": "img/hero/emilia-icon.webp",
+"art": "img/hero/emilia-art.webp"
+},
+"Estelle": {
+"zh": "星之魔女艾斯黛儿",
+"src": "https://wiki.biligame.com/cq/%E6%98%9F%E4%B9%8B%E9%AD%94%E5%A5%B3%E8%89%BE%E6%96%AF%E9%BB%9B%E5%84%BF",
+"icon": "img/hero/estelle-icon.webp",
+"art": "img/hero/estelle-art.webp"
+},
+"Eungaram": {
+"zh": "江神殷珈蓝",
+"src": "https://wiki.biligame.com/cq/%E6%B1%9F%E7%A5%9E%E6%AE%B7%E7%8F%88%E8%93%9D",
+"icon": "img/hero/eungaram-icon.webp",
+"art": "img/hero/eungaram-art.webp"
+},
+"Evgenia": {
+"zh": "绿宝石叶夫根尼娅",
+"src": "https://wiki.biligame.com/cq/%E7%BB%BF%E5%AE%9D%E7%9F%B3%E5%8F%B6%E5%A4%AB%E6%A0%B9%E5%B0%BC%E5%A8%85",
+"icon": "img/hero/evgenia-icon.webp",
+"art": "img/hero/evgenia-art.webp"
+},
+"Farnese": {
+"zh": "法尔纳塞",
+"src": "https://wiki.biligame.com/cq/%E6%B3%95%E5%B0%94%E7%BA%B3%E5%A1%9E",
+"icon": "img/hero/farnese-icon.webp",
+"art": "img/hero/farnese-art.webp"
+},
+"Faust": {
+"zh": "虚无的福斯特",
+"src": "https://wiki.biligame.com/cq/%E8%99%9A%E6%97%A0%E7%9A%84%E7%A6%8F%E6%96%AF%E7%89%B9",
+"icon": "img/hero/faust-icon.webp",
+"art": "img/hero/faust-art.webp"
+},
+"Faust-GG": {
+"zh": "浮士德",
+"src": "https://wiki.biligame.com/cq/%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+"icon": "img/hero/faust-gg-icon.webp",
+"art": "img/hero/faust-gg-art.webp"
+},
+"Fenrir": {
+"zh": "节制的芬里尔",
+"src": "https://wiki.biligame.com/cq/%E8%8A%82%E5%88%B6%E7%9A%84%E8%8A%AC%E9%87%8C%E5%B0%94",
+"icon": "img/hero/fenrir-icon.webp",
+"art": "img/hero/fenrir-art.webp"
+},
+"Ferris": {
+"zh": "菲莉丝",
+"src": "https://wiki.biligame.com/cq/%E8%8F%B2%E8%8E%89%E4%B8%9D",
+"icon": "img/hero/ferris-icon.webp",
+"art": "img/hero/ferris-art.webp"
+},
+"Filo": {
+"zh": "菲洛",
+"src": "https://wiki.biligame.com/cq/%E8%8F%B2%E6%B4%9B",
+"icon": "img/hero/filo-icon.webp",
+"art": "img/hero/filo-art.webp"
+},
+"Fireaxe": {
+"zh": "焚烧者 派尔艾丝",
+"src": "https://wiki.biligame.com/cq/%E7%84%9A%E7%83%A7%E8%80%85%20%E6%B4%BE%E5%B0%94%E8%89%BE%E4%B8%9D",
+"icon": "img/hero/fireaxe-icon.webp",
+"art": "img/hero/fireaxe-art.webp"
+},
+"Fitoria": {
+"zh": "菲托莉亚",
+"src": "https://wiki.biligame.com/cq/%E8%8F%B2%E6%89%98%E8%8E%89%E4%BA%9A",
+"icon": "img/hero/fitoria-icon.webp",
+"art": "img/hero/fitoria-art.webp"
+},
+"Fleck": {
+"zh": "气球爆炸弗莱克",
+"src": "https://wiki.biligame.com/cq/%E6%B0%94%E7%90%83%E7%88%86%E7%82%B8%E5%BC%97%E8%8E%B1%E5%85%8B",
+"icon": "img/hero/fleck-icon.webp",
+"art": "img/hero/fleck-art.webp"
+},
+"Francesca": {
+"zh": "堕落的器皿弗朗西斯卡",
+"src": "https://wiki.biligame.com/cq/%E5%A0%95%E8%90%BD%E7%9A%84%E5%99%A8%E7%9A%BF%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E5%8D%A1",
+"icon": "img/hero/francesca-icon.webp",
+"art": "img/hero/francesca-art.webp"
+},
+"Fredrick": {
+"zh": "纯粹的器皿弗雷德里克",
+"src": "https://wiki.biligame.com/cq/%E7%BA%AF%E7%B2%B9%E7%9A%84%E5%99%A8%E7%9A%BF%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%87%8C%E5%85%8B",
+"icon": "img/hero/fredrick-icon.webp",
+"art": "img/hero/fredrick-art.webp"
+},
+"Gao": {
+"zh": "卡奥",
+"src": "https://wiki.biligame.com/cq/%E5%8D%A1%E5%A5%A5",
+"icon": "img/hero/gao-icon.webp",
+"art": "img/hero/gao-art.webp"
+},
+"Genevie": {
+"zh": "魔弓手 热纳维耶",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E5%BC%93%E6%89%8B%20%E7%83%AD%E7%BA%B3%E7%BB%B4%E8%80%B6",
+"icon": "img/hero/genevie-icon.webp",
+"art": "img/hero/genevie-art.webp"
+},
+"Giovanna": {
+"zh": "乔凡娜",
+"src": "https://wiki.biligame.com/cq/%E4%B9%94%E5%87%A1%E5%A8%9C",
+"icon": "img/hero/giovanna-icon.webp",
+"art": "img/hero/giovanna-art.webp"
+},
+"Giparang": {
+"zh": "月圆奇波郎",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E5%9C%86%E5%A5%87%E6%B3%A2%E9%83%8E",
+"icon": "img/hero/giparang-icon.webp",
+"art": "img/hero/giparang-art.webp"
+},
+"Glass": {
+"zh": "葛拉丝",
+"src": "https://wiki.biligame.com/cq/%E8%91%9B%E6%8B%89%E4%B8%9D",
+"icon": "img/hero/glass-icon.webp",
+"art": "img/hero/glass-art.webp"
+},
+"Goblin Slayer": {
+"zh": "哥布林杀手",
+"src": "https://wiki.biligame.com/cq/%E5%93%A5%E5%B8%83%E6%9E%97%E6%9D%80%E6%89%8B",
+"icon": "img/hero/goblin-slayer-icon.webp",
+"art": "img/hero/goblin-slayer-art.webp"
+},
+"Gon": {
+"zh": "驯龙高手·坤",
+"src": "https://wiki.biligame.com/cq/%E9%A9%AF%E9%BE%99%E9%AB%98%E6%89%8B%C2%B7%E5%9D%A4",
+"icon": "img/hero/gon-icon.webp",
+"art": "img/hero/gon-art.webp"
+},
+"Gordian": {
+"zh": "魔王再临高乐迪安",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E7%8E%8B%E5%86%8D%E4%B8%B4%E9%AB%98%E4%B9%90%E8%BF%AA%E5%AE%89",
+"icon": "img/hero/gordian-icon.webp",
+"art": "img/hero/gordian-art.webp"
+},
+"Griffith": {
+"zh": "格里菲斯",
+"src": "https://wiki.biligame.com/cq/%E6%A0%BC%E9%87%8C%E8%8F%B2%E6%96%AF",
+"icon": "img/hero/griffith-icon.webp",
+"art": "img/hero/griffith-art.webp"
+},
+"Grim Reaper": {
+"zh": "灵魂引导者 格里姆利佩",
+"src": "https://wiki.biligame.com/cq/%E7%81%B5%E9%AD%82%E5%BC%95%E5%AF%BC%E8%80%85%20%E6%A0%BC%E9%87%8C%E5%A7%86%E5%88%A9%E4%BD%A9",
+"icon": "img/hero/grim-reaper-icon.webp",
+"art": "img/hero/grim-reaper-art.webp"
+},
+"Gueronica": {
+"zh": "守卫者 伽罗尼卡",
+"src": "https://wiki.biligame.com/cq/%E5%AE%88%E5%8D%AB%E8%80%85%20%E4%BC%BD%E7%BD%97%E5%B0%BC%E5%8D%A1",
+"icon": "img/hero/gueronica-icon.webp",
+"art": "img/hero/gueronica-art.webp"
+},
+"Guts": {
+"zh": "格斯",
+"src": "https://wiki.biligame.com/cq/%E6%A0%BC%E6%96%AF",
+"icon": "img/hero/guts-icon.webp",
+"art": "img/hero/guts-art.webp"
+},
+"Gwen": {
+"zh": "狮子团团长 格温",
+"src": "https://wiki.biligame.com/cq/%E7%8B%AE%E5%AD%90%E5%9B%A2%E5%9B%A2%E9%95%BF%20%E6%A0%BC%E6%B8%A9",
+"icon": "img/hero/gwen-icon.webp",
+"art": "img/hero/gwen-art.webp"
+},
+"H'annit": {
+"zh": "海茵特",
+"src": "https://wiki.biligame.com/cq/%E6%B5%B7%E8%8C%B5%E7%89%B9",
+"icon": "img/hero/h-annit-icon.webp",
+"art": "img/hero/h-annit-art.webp"
+},
+"Haerang": {
+"zh": "水之神女 海琅",
+"src": "https://wiki.biligame.com/cq/%E6%B0%B4%E4%B9%8B%E7%A5%9E%E5%A5%B3%20%E6%B5%B7%E7%90%85",
+"icon": "img/hero/haerang-icon.webp",
+"art": "img/hero/haerang-art.webp"
+},
+"Halla": {
+"zh": "虎神韩罗",
+"src": "https://wiki.biligame.com/cq/%E8%99%8E%E7%A5%9E%E9%9F%A9%E7%BD%97",
+"icon": "img/hero/halla-icon.webp",
+"art": "img/hero/halla-art.webp"
+},
+"Han Xiangzi": {
+"zh": "巡礼者 韩湘子",
+"src": "https://wiki.biligame.com/cq/%E5%B7%A1%E7%A4%BC%E8%80%85%20%E9%9F%A9%E6%B9%98%E5%AD%90",
+"icon": "img/hero/han-xiangzi-icon.webp",
+"art": "img/hero/han-xiangzi-art.webp"
+},
+"Hansung": {
+"zh": "五虎大将军 汉升",
+"src": "https://wiki.biligame.com/cq/%E4%BA%94%E8%99%8E%E5%A4%A7%E5%B0%86%E5%86%9B%20%E6%B1%89%E5%8D%87",
+"icon": "img/hero/hansung-icon.webp",
+"art": "img/hero/hansung-art.webp"
+},
+"Hanzo": {
+"zh": "疾风半藏",
+"src": "https://wiki.biligame.com/cq/%E7%96%BE%E9%A3%8E%E5%8D%8A%E8%97%8F",
+"icon": "img/hero/hanzo-icon.webp",
+"art": "img/hero/hanzo-art.webp"
+},
+"Harpya": {
+"zh": "屠杀者 哈尔菲亚",
+"src": "https://wiki.biligame.com/cq/%E5%B1%A0%E6%9D%80%E8%80%85%20%E5%93%88%E5%B0%94%E8%8F%B2%E4%BA%9A",
+"icon": "img/hero/harpya-icon.webp",
+"art": "img/hero/harpya-art.webp"
+},
+"Haruki": {
+"zh": "异界漂流者春树",
+"src": "https://wiki.biligame.com/cq/%E5%BC%82%E7%95%8C%E6%BC%82%E6%B5%81%E8%80%85%E6%98%A5%E6%A0%91",
+"icon": "img/hero/haruki-icon.webp",
+"art": "img/hero/haruki-art.webp"
+},
+"Hector": {
+"zh": "意志坚定的赫克托尔",
+"src": "https://wiki.biligame.com/cq/%E6%84%8F%E5%BF%97%E5%9D%9A%E5%AE%9A%E7%9A%84%E8%B5%AB%E5%85%8B%E6%89%98%E5%B0%94",
+"icon": "img/hero/hector-icon.webp",
+"art": "img/hero/hector-art.webp"
+},
+"Heim": {
+"zh": "圣域守护者 海姆",
+"src": "https://wiki.biligame.com/cq/%E5%9C%A3%E5%9F%9F%E5%AE%88%E6%8A%A4%E8%80%85%20%E6%B5%B7%E5%A7%86",
+"icon": "img/hero/heim-icon.webp",
+"art": "img/hero/heim-art.webp"
+},
+"Hera": {
+"zh": "心愿继承人赫拉",
+"src": "https://wiki.biligame.com/cq/%E5%BF%83%E6%84%BF%E7%BB%A7%E6%89%BF%E4%BA%BA%E8%B5%AB%E6%8B%89",
+"icon": "img/hero/hera-icon.webp",
+"art": "img/hero/hera-art.webp"
+},
+"High Elf Archer": {
+"zh": "妖精弓手",
+"src": "https://wiki.biligame.com/cq/%E5%A6%96%E7%B2%BE%E5%BC%93%E6%89%8B",
+"icon": "img/hero/high-elf-archer-icon.webp",
+"art": "img/hero/high-elf-archer-art.webp"
+},
+"Hikari": {
+"zh": "百发百中小光",
+"src": "https://wiki.biligame.com/cq/%E7%99%BE%E5%8F%91%E7%99%BE%E4%B8%AD%E5%B0%8F%E5%85%89",
+"icon": "img/hero/hikari-icon.webp",
+"art": "img/hero/hikari-art.webp"
+},
+"Himiko": {
+"zh": "神女卑弥呼",
+"src": "https://wiki.biligame.com/cq/%E7%A5%9E%E5%A5%B3%E5%8D%91%E5%BC%A5%E5%91%BC",
+"icon": "img/hero/himiko-icon.webp",
+"art": "img/hero/himiko-art.webp"
+},
+"Hina": {
+"zh": "驱魔少女小雏",
+"src": "https://wiki.biligame.com/cq/%E9%A9%B1%E9%AD%94%E5%B0%91%E5%A5%B3%E5%B0%8F%E9%9B%8F",
+"icon": "img/hero/hina-icon.webp",
+"art": "img/hero/hina-art.webp"
+},
+"Hols": {
+"zh": "豪尔斯",
+"src": "https://wiki.biligame.com/cq/%E8%B1%AA%E5%B0%94%E6%96%AF",
+"icon": "img/hero/hols-icon.webp",
+"art": "img/hero/hols-art.webp"
+},
+"Hong-Ran": {
+"zh": "火焰之迎春",
+"src": "https://wiki.biligame.com/cq/%E7%81%AB%E7%84%B0%E4%B9%8B%E8%BF%8E%E6%98%A5",
+"icon": "img/hero/hong-ran-icon.webp",
+"art": "img/hero/hong-ran-art.webp"
+},
+"Hrolf": {
+"zh": "王室亲卫队长罗尔夫",
+"src": "https://wiki.biligame.com/cq/%E7%8E%8B%E5%AE%A4%E4%BA%B2%E5%8D%AB%E9%98%9F%E9%95%BF%E7%BD%97%E5%B0%94%E5%A4%AB",
+"icon": "img/hero/hrolf-icon.webp",
+"art": "img/hero/hrolf-art.webp"
+},
+"Hummel": {
+"zh": "修梅尔·托拉巴特",
+"src": "https://wiki.biligame.com/cq/%E4%BF%AE%E6%A2%85%E5%B0%94%C2%B7%E6%89%98%E6%8B%89%E5%B7%B4%E7%89%B9",
+"icon": "img/hero/hummel-icon.webp",
+"art": "img/hero/hummel-art.webp"
+},
+"I-no": {
+"zh": "伊诺",
+"src": "https://wiki.biligame.com/cq/%E4%BC%8A%E8%AF%BA",
+"icon": "img/hero/i-no-icon.webp",
+"art": "img/hero/i-no-art.webp"
+},
+"Iori": {
+"zh": "八神庵",
+"src": "https://wiki.biligame.com/cq/%E5%85%AB%E7%A5%9E%E5%BA%B5",
+"icon": "img/hero/iori-icon.webp",
+"art": "img/hero/iori-art.webp"
+},
+"Iris": {
+"zh": "紫色的传令 艾丽丝",
+"src": "https://wiki.biligame.com/cq/%E7%B4%AB%E8%89%B2%E7%9A%84%E4%BC%A0%E4%BB%A4%20%E8%89%BE%E4%B8%BD%E4%B8%9D",
+"icon": "img/hero/iris-icon.webp",
+"art": "img/hero/iris-art.webp"
+},
+"Isabel": {
+"zh": "异能者伊莎贝尔",
+"src": "https://wiki.biligame.com/cq/%E5%BC%82%E8%83%BD%E8%80%85%E4%BC%8A%E8%8E%8E%E8%B4%9D%E5%B0%94",
+"icon": "img/hero/isabel-icon.webp",
+"art": "img/hero/isabel-art.webp"
+},
+"Isidro": {
+"zh": "伊斯多洛",
+"src": "https://wiki.biligame.com/cq/%E4%BC%8A%E6%96%AF%E5%A4%9A%E6%B4%9B",
+"icon": "img/hero/isidro-icon.webp",
+"art": "img/hero/isidro-art.webp"
+},
+"Isis": {
+"zh": "引领者 伊西丝",
+"src": "https://wiki.biligame.com/cq/%E5%BC%95%E9%A2%86%E8%80%85%20%E4%BC%8A%E8%A5%BF%E4%B8%9D",
+"icon": "img/hero/isis-icon.webp",
+"art": "img/hero/isis-art.webp"
+},
+"Izuna": {
+"zh": "女侠客 泉奈",
+"src": "https://wiki.biligame.com/cq/%E5%A5%B3%E4%BE%A0%E5%AE%A2%20%E6%B3%89%E5%A5%88",
+"icon": "img/hero/izuna-icon.webp",
+"art": "img/hero/izuna-art.webp"
+},
+"Jack": {
+"zh": "四大天王杰克",
+"src": "https://wiki.biligame.com/cq/%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%E6%9D%B0%E5%85%8B",
+"icon": "img/hero/jack-icon.webp",
+"art": "img/hero/jack-art.webp"
+},
+"Jack-O'": {
+"zh": "婕克·欧",
+"src": "https://wiki.biligame.com/cq/%E5%A9%95%E5%85%8B%C2%B7%E6%AC%A7",
+"icon": "img/hero/jack-o-icon.webp",
+"art": "img/hero/jack-o-art.webp"
+},
+"Jeomrye": {
+"zh": "金属巴赫湛离",
+"src": "https://wiki.biligame.com/cq/%E9%87%91%E5%B1%9E%E5%B7%B4%E8%B5%AB%E6%B9%9B%E7%A6%BB",
+"icon": "img/hero/jeomrye-icon.webp",
+"art": "img/hero/jeomrye-art.webp"
+},
+"Jet": {
+"zh": "财迷 杰特",
+"src": "https://wiki.biligame.com/cq/%E8%B4%A2%E8%BF%B7%20%E6%9D%B0%E7%89%B9",
+"icon": "img/hero/jet-icon.webp",
+"art": "img/hero/jet-art.webp"
+},
+"Jin-Kyung": {
+"zh": "不败将军秦琼",
+"src": "https://wiki.biligame.com/cq/%E4%B8%8D%E8%B4%A5%E5%B0%86%E5%86%9B%E7%A7%A6%E7%90%BC",
+"icon": "img/hero/jin-kyung-icon.webp",
+"art": "img/hero/jin-kyung-art.webp"
+},
+"Joan": {
+"zh": "钢铁骑士圣女贞德",
+"src": "https://wiki.biligame.com/cq/%E9%92%A2%E9%93%81%E9%AA%91%E5%A3%AB%E5%9C%A3%E5%A5%B3%E8%B4%9E%E5%BE%B7",
+"icon": "img/hero/joan-icon.webp",
+"art": "img/hero/joan-art.webp"
+},
+"Johnny": {
+"zh": "乔尼",
+"src": "https://wiki.biligame.com/cq/%E4%B9%94%E5%B0%BC",
+"icon": "img/hero/johnny-icon.webp",
+"art": "img/hero/johnny-art.webp"
+},
+"Kaede": {
+"zh": "飘舞的红叶 枫",
+"src": "https://wiki.biligame.com/cq/%E9%A3%98%E8%88%9E%E7%9A%84%E7%BA%A2%E5%8F%B6%20%E6%9E%AB",
+"icon": "img/hero/kaede-icon.webp",
+"art": "img/hero/kaede-art.webp"
+},
+"Kaguya": {
+"zh": "月姬 辉夜姬",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E5%A7%AC%20%E8%BE%89%E5%A4%9C%E5%A7%AC",
+"icon": "img/hero/kaguya-icon.webp",
+"art": "img/hero/kaguya-art.webp"
+},
+"Kaori": {
+"zh": "二天一流香织",
+"src": "https://wiki.biligame.com/cq/%E4%BA%8C%E5%A4%A9%E4%B8%80%E6%B5%81%E9%A6%99%E7%BB%87",
+"icon": "img/hero/kaori-icon.webp",
+"art": "img/hero/kaori-art.webp"
+},
+"Kensou": {
+"zh": "椎拳崇",
+"src": "https://wiki.biligame.com/cq/%E6%A4%8E%E6%8B%B3%E5%B4%87",
+"icon": "img/hero/kensou-icon.webp",
+"art": "img/hero/kensou-art.webp"
+},
+"Kim": {
+"zh": "金",
+"src": "https://wiki.biligame.com/cq/%E9%87%91",
+"icon": "img/hero/kim-icon.webp",
+"art": "img/hero/kim-art.webp"
+},
+"Korin": {
+"zh": "阎罗使者桂香",
+"src": "https://wiki.biligame.com/cq/%E9%98%8E%E7%BD%97%E4%BD%BF%E8%80%85%E6%A1%82%E9%A6%99",
+"icon": "img/hero/korin-icon.webp",
+"art": "img/hero/korin-art.webp"
+},
+"Koxinga": {
+"zh": "民族英雄郑成功",
+"src": "https://wiki.biligame.com/cq/%E6%B0%91%E6%97%8F%E8%8B%B1%E9%9B%84%E9%83%91%E6%88%90%E5%8A%9F",
+"icon": "img/hero/koxinga-icon.webp",
+"art": "img/hero/koxinga-art.webp"
+},
+"Krampus": {
+"zh": "圣诞节的恶梦克朗普斯",
+"src": "https://wiki.biligame.com/cq/%E5%9C%A3%E8%AF%9E%E8%8A%82%E7%9A%84%E6%81%B6%E6%A2%A6%E5%85%8B%E6%9C%97%E6%99%AE%E6%96%AF",
+"icon": "img/hero/krampus-icon.webp",
+"art": "img/hero/krampus-art.webp"
+},
+"Kriemhild": {
+"zh": "约束者克里姆希尔特",
+"src": "https://wiki.biligame.com/cq/%E7%BA%A6%E6%9D%9F%E8%80%85%E5%85%8B%E9%87%8C%E5%A7%86%E5%B8%8C%E5%B0%94%E7%89%B9",
+"icon": "img/hero/kriemhild-icon.webp",
+"art": "img/hero/kriemhild-art.webp"
+},
+"Kumori": {
+"zh": "风和日丽的库莫里",
+"src": "https://wiki.biligame.com/cq/%E9%A3%8E%E5%92%8C%E6%97%A5%E4%B8%BD%E7%9A%84%E5%BA%93%E8%8E%AB%E9%87%8C",
+"icon": "img/hero/kumori-icon.webp",
+"art": "img/hero/kumori-art.webp"
+},
+"Ky Kiske": {
+"zh": "凯·奇斯库",
+"src": "https://wiki.biligame.com/cq/%E5%87%AF%C2%B7%E5%A5%87%E6%96%AF%E5%BA%93",
+"icon": "img/hero/ky-kiske-icon.webp",
+"art": "img/hero/ky-kiske-art.webp"
+},
+"Kyo": {
+"zh": "草薙京",
+"src": "https://wiki.biligame.com/cq/%E8%8D%89%E8%96%99%E4%BA%AC",
+"icon": "img/hero/kyo-icon.webp",
+"art": "img/hero/kyo-art.webp"
+},
+"Labelle": {
+"zh": "裁缝大师拉贝尔",
+"src": "https://wiki.biligame.com/cq/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%B8%88%E6%8B%89%E8%B4%9D%E5%B0%94",
+"icon": "img/hero/labelle-icon.webp",
+"art": "img/hero/labelle-art.webp"
+},
+"Lacrimoso": {
+"zh": "暗黑引领者兰卡斯特",
+"src": "https://wiki.biligame.com/cq/%E6%9A%97%E9%BB%91%E5%BC%95%E9%A2%86%E8%80%85%E5%85%B0%E5%8D%A1%E6%96%AF%E7%89%B9",
+"icon": "img/hero/lacrimoso-icon.webp",
+"art": "img/hero/lacrimoso-art.webp"
+},
+"Laertes": {
+"zh": "藩候雷迪斯",
+"src": "https://wiki.biligame.com/cq/%E8%97%A9%E5%80%99%E9%9B%B7%E8%BF%AA%E6%96%AF",
+"icon": "img/hero/laertes-icon.webp",
+"art": "img/hero/laertes-art.webp"
+},
+"Lakias": {
+"zh": "觉醒的冰结师 洛琪艾丝",
+"src": "https://wiki.biligame.com/cq/%E8%A7%89%E9%86%92%E7%9A%84%E5%86%B0%E7%BB%93%E5%B8%88%20%E6%B4%9B%E7%90%AA%E8%89%BE%E4%B8%9D",
+"icon": "img/hero/lakias-icon.webp",
+"art": "img/hero/lakias-art.webp"
+},
+"Lasirenne": {
+"zh": "深渊拉希蕾",
+"src": "https://wiki.biligame.com/cq/%E6%B7%B1%E6%B8%8A%E6%8B%89%E5%B8%8C%E8%95%BE",
+"icon": "img/hero/lasirenne-icon.webp",
+"art": "img/hero/lasirenne-art.webp"
+},
+"Laxia": {
+"zh": "拉克夏·冯·罗斯威尔",
+"src": "https://wiki.biligame.com/cq/%E6%8B%89%E5%85%8B%E5%A4%8F%C2%B7%E5%86%AF%C2%B7%E7%BD%97%E6%96%AF%E5%A8%81%E5%B0%94",
+"icon": "img/hero/laxia-icon.webp",
+"art": "img/hero/laxia-art.webp"
+},
+"Lazie": {
+"zh": "通缉犯蕾芝",
+"src": "https://wiki.biligame.com/cq/%E9%80%9A%E7%BC%89%E7%8A%AF%E8%95%BE%E8%8A%9D",
+"icon": "img/hero/lazie-icon.webp",
+"art": "img/hero/lazie-art.webp"
+},
+"Lednas": {
+"zh": "蕾德那斯",
+"src": "https://wiki.biligame.com/cq/%E8%95%BE%E5%BE%B7%E9%82%A3%E6%96%AF",
+"icon": "img/hero/lednas-icon.webp",
+"art": "img/hero/lednas-art.webp"
+},
+"Lee": {
+"zh": "首席舞蹈家 李",
+"src": "https://wiki.biligame.com/cq/%E9%A6%96%E5%B8%AD%E8%88%9E%E8%B9%88%E5%AE%B6%20%E6%9D%8E",
+"icon": "img/hero/lee-icon.webp",
+"art": "img/hero/lee-art.webp"
+},
+"Lei Ling": {
+"zh": "料理武术家 雷玲",
+"src": "https://wiki.biligame.com/cq/%E6%96%99%E7%90%86%E6%AD%A6%E6%9C%AF%E5%AE%B6%20%E9%9B%B7%E7%8E%B2",
+"icon": "img/hero/lei-ling-icon.webp",
+"art": "img/hero/lei-ling-art.webp"
+},
+"Leon": {
+"zh": "光明剑士里昂",
+"src": "https://wiki.biligame.com/cq/%E5%85%89%E6%98%8E%E5%89%91%E5%A3%AB%E9%87%8C%E6%98%82",
+"icon": "img/hero/leon-icon.webp",
+"art": "img/hero/leon-art.webp"
+},
+"Leona": {
+"zh": "莉安娜·哈迪兰",
+"src": "https://wiki.biligame.com/cq/%E8%8E%89%E5%AE%89%E5%A8%9C%C2%B7%E5%93%88%E8%BF%AA%E5%85%B0",
+"icon": "img/hero/leona-icon.webp",
+"art": "img/hero/leona-art.webp"
+},
+"Leonia": {
+"zh": "宣布开天辟地的利奥尼亚",
+"src": "https://wiki.biligame.com/cq/%E5%AE%A3%E5%B8%83%E5%BC%80%E5%A4%A9%E8%BE%9F%E5%9C%B0%E7%9A%84%E5%88%A9%E5%A5%A5%E5%B0%BC%E4%BA%9A",
+"icon": "img/hero/leonia-icon.webp",
+"art": "img/hero/leonia-art.webp"
+},
+"Lilith": {
+"zh": "月光女神莉莉丝",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E5%85%89%E5%A5%B3%E7%A5%9E%E8%8E%89%E8%8E%89%E4%B8%9D",
+"icon": "img/hero/lilith-icon.webp",
+"art": "img/hero/lilith-art.webp"
+},
+"Lime": {
+"zh": "美之化身柠柠",
+"src": "https://wiki.biligame.com/cq/%E7%BE%8E%E4%B9%8B%E5%8C%96%E8%BA%AB%E6%9F%A0%E6%9F%A0",
+"icon": "img/hero/lime-icon.webp",
+"art": "img/hero/lime-art.webp"
+},
+"Lindsey": {
+"zh": "独狼 琳赛",
+"src": "https://wiki.biligame.com/cq/%E7%8B%AC%E7%8B%BC%20%E7%90%B3%E8%B5%9B",
+"icon": "img/hero/lindsey-icon.webp",
+"art": "img/hero/lindsey-art.webp"
+},
+"Linné": {
+"zh": "神秘的植物学家林奈",
+"src": "https://wiki.biligame.com/cq/%E7%A5%9E%E7%A7%98%E7%9A%84%E6%A4%8D%E7%89%A9%E5%AD%A6%E5%AE%B6%E6%9E%97%E5%A5%88",
+"icon": "img/hero/linn-icon.webp",
+"art": "img/hero/linn-art.webp"
+},
+"Lion Mask": {
+"zh": "冠军 狮子假面",
+"src": "https://wiki.biligame.com/cq/%E5%86%A0%E5%86%9B%20%E7%8B%AE%E5%AD%90%E5%81%87%E9%9D%A2",
+"icon": "img/hero/lion-mask-icon.webp",
+"art": "img/hero/lion-mask-art.webp"
+},
+"Lionel": {
+"zh": "黑骑士莱昂内尔",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E9%AA%91%E5%A3%AB%E8%8E%B1%E6%98%82%E5%86%85%E5%B0%94",
+"icon": "img/hero/lionel-icon.webp",
+"art": "img/hero/lionel-art.webp"
+},
+"Little Girl": {
+"zh": "小女孩",
+"src": "https://wiki.biligame.com/cq/%E5%B0%8F%E5%A5%B3%E5%AD%A9",
+"icon": "img/hero/little-girl-icon.webp"
+},
+"Livea": {
+"zh": "命运颠覆者里韦亚",
+"src": "https://wiki.biligame.com/cq/%E5%91%BD%E8%BF%90%E9%A2%A0%E8%A6%86%E8%80%85%E9%87%8C%E9%9F%A6%E4%BA%9A",
+"icon": "img/hero/livea-icon.webp",
+"art": "img/hero/livea-art.webp"
+},
+"Lizardman Priest": {
+"zh": "蜥蜴僧侣",
+"src": "https://wiki.biligame.com/cq/%E8%9C%A5%E8%9C%B4%E5%83%A7%E4%BE%A3",
+"icon": "img/hero/lizardman-priest-icon.webp",
+"art": "img/hero/lizardman-priest-art.webp"
+},
+"Loki": {
+"zh": "恶作剧之神 洛基",
+"src": "https://wiki.biligame.com/cq/%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E7%A5%9E%20%E6%B4%9B%E5%9F%BA",
+"icon": "img/hero/loki-icon.webp",
+"art": "img/hero/loki-art.webp"
+},
+"Lorelei": {
+"zh": "探究者罗蕾莱",
+"src": "https://wiki.biligame.com/cq/%E6%8E%A2%E7%A9%B6%E8%80%85%E7%BD%97%E8%95%BE%E8%8E%B1",
+"icon": "img/hero/lorelei-icon.webp",
+"art": "img/hero/lorelei-art.webp"
+},
+"Loviatar": {
+"zh": "初代森林魔女 罗薇塔",
+"src": "https://wiki.biligame.com/cq/%E5%88%9D%E4%BB%A3%E6%A3%AE%E6%9E%97%E9%AD%94%E5%A5%B3%20%E7%BD%97%E8%96%87%E5%A1%94",
+"icon": "img/hero/loviatar-icon.webp",
+"art": "img/hero/loviatar-art.webp"
+},
+"Luca": {
+"zh": "火山的声音 卢卡",
+"src": "https://wiki.biligame.com/cq/%E7%81%AB%E5%B1%B1%E7%9A%84%E5%A3%B0%E9%9F%B3%20%E5%8D%A2%E5%8D%A1",
+"icon": "img/hero/luca-icon.webp",
+"art": "img/hero/luca-art.webp"
+},
+"Luci": {
+"zh": "魔界守护者露西",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E7%95%8C%E5%AE%88%E6%8A%A4%E8%80%85%E9%9C%B2%E8%A5%BF",
+"icon": "img/hero/luci-icon.webp",
+"art": "img/hero/luci-art.webp"
+},
+"Luicilla": {
+"zh": "双面人 鲁伊希尔拉",
+"src": "https://wiki.biligame.com/cq/%E5%8F%8C%E9%9D%A2%E4%BA%BA%20%E9%B2%81%E4%BC%8A%E5%B8%8C%E5%B0%94%E6%8B%89",
+"icon": "img/hero/luicilla-icon.webp",
+"art": "img/hero/luicilla-art.webp"
+},
+"Lupeow": {
+"zh": "稀世怪盗路尼昂",
+"src": "https://wiki.biligame.com/cq/%E7%A8%80%E4%B8%96%E6%80%AA%E7%9B%97%E8%B7%AF%E5%B0%BC%E6%98%82",
+"icon": "img/hero/lupeow-icon.webp",
+"art": "img/hero/lupeow-art.webp"
+},
+"Lyudmilla": {
+"zh": "白衣女 柳德米拉",
+"src": "https://wiki.biligame.com/cq/%E7%99%BD%E8%A1%A3%E5%A5%B3%20%E6%9F%B3%E5%BE%B7%E7%B1%B3%E6%8B%89",
+"icon": "img/hero/lyudmilla-icon.webp",
+"art": "img/hero/lyudmilla-art.webp"
+},
+"Macaria": {
+"zh": "冥府的追击者哈迪斯",
+"src": "https://wiki.biligame.com/cq/%E5%86%A5%E5%BA%9C%E7%9A%84%E8%BF%BD%E5%87%BB%E8%80%85%E5%93%88%E8%BF%AA%E6%96%AF",
+"icon": "img/hero/macaria-icon.webp",
+"art": "img/hero/macaria-art.webp"
+},
+"Magnus": {
+"zh": "浪漫的麦格尼斯",
+"src": "https://wiki.biligame.com/cq/%E6%B5%AA%E6%BC%AB%E7%9A%84%E9%BA%A6%E6%A0%BC%E5%B0%BC%E6%96%AF",
+"icon": "img/hero/magnus-icon.webp",
+"art": "img/hero/magnus-art.webp"
+},
+"Mai": {
+"zh": "不知火舞",
+"src": "https://wiki.biligame.com/cq/%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E",
+"icon": "img/hero/mai-icon.webp",
+"art": "img/hero/mai-art.webp"
+},
+"Malkah": {
+"zh": "复仇之牙 马尔卡",
+"src": "https://wiki.biligame.com/cq/%E5%A4%8D%E4%BB%87%E4%B9%8B%E7%89%99%20%E9%A9%AC%E5%B0%94%E5%8D%A1",
+"icon": "img/hero/malkah-icon.webp",
+"art": "img/hero/malkah-art.webp"
+},
+"Malsook": {
+"zh": "年糕娘 末淑",
+"src": "https://wiki.biligame.com/cq/%E5%B9%B4%E7%B3%95%E5%A8%98%20%E6%9C%AB%E6%B7%91",
+"icon": "img/hero/malsook-icon.webp",
+"art": "img/hero/malsook-art.webp"
+},
+"Mamba": {
+"zh": "黑曼巴",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E6%9B%BC%E5%B7%B4",
+"icon": "img/hero/mamba-icon.webp",
+"art": "img/hero/mamba-art.webp"
+},
+"Mammon": {
+"zh": "贪婪的形象 马蒙",
+"src": "https://wiki.biligame.com/cq/%E8%B4%AA%E5%A9%AA%E7%9A%84%E5%BD%A2%E8%B1%A1%20%E9%A9%AC%E8%92%99",
+"icon": "img/hero/mammon-icon.webp",
+"art": "img/hero/mammon-art.webp"
+},
+"Mandy": {
+"zh": "女英雄明蒂",
+"src": "https://wiki.biligame.com/cq/%E5%A5%B3%E8%8B%B1%E9%9B%84%E6%98%8E%E8%92%82",
+"icon": "img/hero/mandy-icon.webp",
+"art": "img/hero/mandy-art.webp"
+},
+"Maria": {
+"zh": "救世的圣母玛利亚",
+"src": "https://wiki.biligame.com/cq/%E6%95%91%E4%B8%96%E7%9A%84%E5%9C%A3%E6%AF%8D%E7%8E%9B%E5%88%A9%E4%BA%9A",
+"icon": "img/hero/maria-icon.webp",
+"art": "img/hero/maria-art.webp"
+},
+"Marpei": {
+"zh": "先知 墨菲斯",
+"src": "https://wiki.biligame.com/cq/%E5%85%88%E7%9F%A5%20%E5%A2%A8%E8%8F%B2%E6%96%AF",
+"icon": "img/hero/marpei-icon.webp",
+"art": "img/hero/marpei-art.webp"
+},
+"Maré": {
+"zh": "海之骄子玛蕾",
+"src": "https://wiki.biligame.com/cq/%E6%B5%B7%E4%B9%8B%E9%AA%84%E5%AD%90%E7%8E%9B%E8%95%BE",
+"icon": "img/hero/mar-icon.webp",
+"art": "img/hero/mar-art.webp"
+},
+"Maxi": {
+"zh": "牛仔梅西",
+"src": "https://wiki.biligame.com/cq/%E7%89%9B%E4%BB%94%E6%A2%85%E8%A5%BF",
+"icon": "img/hero/maxi-icon.webp",
+"art": "img/hero/maxi-art.webp"
+},
+"May": {
+"zh": "梅伊",
+"src": "https://wiki.biligame.com/cq/%E6%A2%85%E4%BC%8A",
+"icon": "img/hero/may-icon.webp",
+"art": "img/hero/may-art.webp"
+},
+"Medea": {
+"zh": "破碎的愿望 美狄亚",
+"src": "https://wiki.biligame.com/cq/%E7%A0%B4%E7%A2%8E%E7%9A%84%E6%84%BF%E6%9C%9B%20%E7%BE%8E%E7%8B%84%E4%BA%9A",
+"icon": "img/hero/medea-icon.webp",
+"art": "img/hero/medea-art.webp"
+},
+"Meleager": {
+"zh": "熊熊烈火麦莱亚戈",
+"src": "https://wiki.biligame.com/cq/%E7%86%8A%E7%86%8A%E7%83%88%E7%81%AB%E9%BA%A6%E8%8E%B1%E4%BA%9A%E6%88%88",
+"icon": "img/hero/meleager-icon.webp",
+"art": "img/hero/meleager-art.webp"
+},
+"Melissa": {
+"zh": "暗黑修女梅丽莎",
+"src": "https://wiki.biligame.com/cq/%E6%9A%97%E9%BB%91%E4%BF%AE%E5%A5%B3%E6%A2%85%E4%B8%BD%E8%8E%8E",
+"icon": "img/hero/melissa-icon.webp",
+"art": "img/hero/melissa-art.webp"
+},
+"Mengqi": {
+"zh": "五虎大将军 孟起",
+"src": "https://wiki.biligame.com/cq/%E4%BA%94%E8%99%8E%E5%A4%A7%E5%B0%86%E5%86%9B%20%E5%AD%9F%E8%B5%B7",
+"icon": "img/hero/mengqi-icon.webp",
+"art": "img/hero/mengqi-art.webp"
+},
+"Meri": {
+"zh": "星之声 玛丽",
+"src": "https://wiki.biligame.com/cq/%E6%98%9F%E4%B9%8B%E5%A3%B0%20%E7%8E%9B%E4%B8%BD",
+"icon": "img/hero/meri-icon.webp",
+"art": "img/hero/meri-art.webp"
+},
+"Mew": {
+"zh": "猫咪大师喵",
+"src": "https://wiki.biligame.com/cq/%E7%8C%AB%E5%92%AA%E5%A4%A7%E5%B8%88%E5%96%B5",
+"icon": "img/hero/mew-icon.webp",
+"art": "img/hero/mew-art.webp"
+},
+"Miel": {
+"zh": "脉冲之箭米尔",
+"src": "https://wiki.biligame.com/cq/%E8%84%89%E5%86%B2%E4%B9%8B%E7%AE%AD%E7%B1%B3%E5%B0%94",
+"icon": "img/hero/miel-icon.webp",
+"art": "img/hero/miel-art.webp"
+},
+"Milady": {
+"zh": "荒野准则米莱狄",
+"src": "https://wiki.biligame.com/cq/%E8%8D%92%E9%87%8E%E5%87%86%E5%88%99%E7%B1%B3%E8%8E%B1%E7%8B%84",
+"icon": "img/hero/milady-icon.webp",
+"art": "img/hero/milady-art.webp"
+},
+"Millia Rage": {
+"zh": "米莉亚·蕾姬",
+"src": "https://wiki.biligame.com/cq/%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E8%95%BE%E5%A7%AC",
+"icon": "img/hero/millia-rage-icon.webp",
+"art": "img/hero/millia-rage-art.webp"
+},
+"Momotaro": {
+"zh": "百万富翁桃太郎",
+"src": "https://wiki.biligame.com/cq/%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%E6%A1%83%E5%A4%AA%E9%83%8E",
+"icon": "img/hero/momotaro-icon.webp",
+"art": "img/hero/momotaro-art.webp"
+},
+"Mondrian": {
+"zh": "状元李梦龙",
+"src": "https://wiki.biligame.com/cq/%E7%8A%B6%E5%85%83%E6%9D%8E%E6%A2%A6%E9%BE%99",
+"icon": "img/hero/mondrian-icon.webp",
+"art": "img/hero/mondrian-art.webp"
+},
+"Monk": {
+"zh": "毛姆",
+"src": "https://wiki.biligame.com/cq/%E6%AF%9B%E5%A7%86",
+"icon": "img/hero/monk-icon.webp",
+"art": "img/hero/monk-art.webp"
+},
+"Monte": {
+"zh": "蒙泰终极型",
+"src": "https://wiki.biligame.com/cq/%E8%92%99%E6%B3%B0%E7%BB%88%E6%9E%81%E5%9E%8B",
+"icon": "img/hero/monte-icon.webp",
+"art": "img/hero/monte-art.webp"
+},
+"Morgan": {
+"zh": "叛徒骑士摩根",
+"src": "https://wiki.biligame.com/cq/%E5%8F%9B%E5%BE%92%E9%AA%91%E5%A3%AB%E6%91%A9%E6%A0%B9",
+"icon": "img/hero/morgan-icon.webp",
+"art": "img/hero/morgan-art.webp"
+},
+"Mundeok": {
+"zh": "大莫离支文德",
+"src": "https://wiki.biligame.com/cq/%E5%A4%A7%E8%8E%AB%E7%A6%BB%E6%94%AF%E6%96%87%E5%BE%B7",
+"icon": "img/hero/mundeok-icon.webp",
+"art": "img/hero/mundeok-art.webp"
+},
+"Naofumi Iwatani": {
+"zh": "岩谷尚文",
+"src": "https://wiki.biligame.com/cq/%E5%B2%A9%E8%B0%B7%E5%B0%9A%E6%96%87",
+"icon": "img/hero/naofumi-iwatani-icon.webp",
+"art": "img/hero/naofumi-iwatani-art.webp"
+},
+"Nari": {
+"zh": "返老还童娜丽",
+"src": "https://wiki.biligame.com/cq/%E8%BF%94%E8%80%81%E8%BF%98%E7%AB%A5%E5%A8%9C%E4%B8%BD",
+"icon": "img/hero/nari-icon.webp",
+"art": "img/hero/nari-art.webp"
+},
+"Nazrune": {
+"zh": "自然的纳兹伦",
+"src": "https://wiki.biligame.com/cq/%E8%87%AA%E7%84%B6%E7%9A%84%E7%BA%B3%E5%85%B9%E4%BC%A6",
+"icon": "img/hero/nazrune-icon.webp",
+"art": "img/hero/nazrune-art.webp"
+},
+"Nebula": {
+"zh": "初次呼吸的星云",
+"src": "https://wiki.biligame.com/cq/%E5%88%9D%E6%AC%A1%E5%91%BC%E5%90%B8%E7%9A%84%E6%98%9F%E4%BA%91",
+"icon": "img/hero/nebula-icon.webp",
+"art": "img/hero/nebula-art.webp"
+},
+"Necron": {
+"zh": "死灵法师内克伦",
+"src": "https://wiki.biligame.com/cq/%E6%AD%BB%E7%81%B5%E6%B3%95%E5%B8%88%E5%86%85%E5%85%8B%E4%BC%A6",
+"icon": "img/hero/necron-icon.webp",
+"art": "img/hero/necron-art.webp"
+},
+"Nefer": {
+"zh": "渴求 涅菲尔",
+"src": "https://wiki.biligame.com/cq/%E6%B8%B4%E6%B1%82%20%E6%B6%85%E8%8F%B2%E5%B0%94",
+"icon": "img/hero/nefer-icon.webp",
+"art": "img/hero/nefer-art.webp"
+},
+"Nene": {
+"zh": "女猎头奈奈",
+"src": "https://wiki.biligame.com/cq/%E5%A5%B3%E7%8C%8E%E5%A4%B4%E5%A5%88%E5%A5%88",
+"icon": "img/hero/nene-icon.webp",
+"art": "img/hero/nene-art.webp"
+},
+"Neulsolgil": {
+"zh": "天下第一风流人物纳索吉",
+"src": "https://wiki.biligame.com/cq/%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%89%A9%E7%BA%B3%E7%B4%A2%E5%90%89",
+"icon": "img/hero/neulsolgil-icon.webp",
+"art": "img/hero/neulsolgil-art.webp"
+},
+"Nico": {
+"zh": "元气满满一晚上的妮可",
+"src": "https://wiki.biligame.com/cq/%E5%85%83%E6%B0%94%E6%BB%A1%E6%BB%A1%E4%B8%80%E6%99%9A%E4%B8%8A%E7%9A%84%E5%A6%AE%E5%8F%AF",
+"icon": "img/hero/nico-icon.webp",
+"art": "img/hero/nico-art.webp"
+},
+"Nicola": {
+"zh": "极速投递手尼古拉",
+"src": "https://wiki.biligame.com/cq/%E6%9E%81%E9%80%9F%E6%8A%95%E9%80%92%E6%89%8B%E5%B0%BC%E5%8F%A4%E6%8B%89",
+"icon": "img/hero/nicola-icon.webp",
+"art": "img/hero/nicola-art.webp"
+},
+"Nightingale": {
+"zh": "光之南丁格尔",
+"src": "https://wiki.biligame.com/cq/%E5%85%89%E4%B9%8B%E5%8D%97%E4%B8%81%E6%A0%BC%E5%B0%94",
+"icon": "img/hero/nightingale-icon.webp",
+"art": "img/hero/nightingale-art.webp"
+},
+"Niven": {
+"zh": "寒霜恶灵妮芬",
+"src": "https://wiki.biligame.com/cq/%E5%AF%92%E9%9C%9C%E6%81%B6%E7%81%B5%E5%A6%AE%E8%8A%AC",
+"icon": "img/hero/niven-icon.webp",
+"art": "img/hero/niven-art.webp"
+},
+"No. 9": {
+"zh": "噬魂射手九妹",
+"src": "https://wiki.biligame.com/cq/%E5%99%AC%E9%AD%82%E5%B0%84%E6%89%8B%E4%B9%9D%E5%A6%B9",
+"icon": "img/hero/no-9-icon.webp",
+"art": "img/hero/no-9-art.webp"
+},
+"Noel": {
+"zh": "圣都之守护者 诺埃尔",
+"src": "https://wiki.biligame.com/cq/%E5%9C%A3%E9%83%BD%E4%B9%8B%E5%AE%88%E6%8A%A4%E8%80%85%20%E8%AF%BA%E5%9F%83%E5%B0%94",
+"icon": "img/hero/noel-icon.webp",
+"art": "img/hero/noel-art.webp"
+},
+"Nora Valkyrie": {
+"zh": "诺拉·瓦尔基里",
+"src": "https://wiki.biligame.com/cq/%E8%AF%BA%E6%8B%89%C2%B7%E7%93%A6%E5%B0%94%E5%9F%BA%E9%87%8C",
+"icon": "img/hero/nora-valkyrie-icon.webp",
+"art": "img/hero/nora-valkyrie-art.webp"
+},
+"Nottingham": {
+"zh": "贯通正义诺丁汉",
+"src": "https://wiki.biligame.com/cq/%E8%B4%AF%E9%80%9A%E6%AD%A3%E4%B9%89%E8%AF%BA%E4%B8%81%E6%B1%89",
+"icon": "img/hero/nottingham-icon.webp",
+"art": "img/hero/nottingham-art.webp"
+},
+"Nurspy": {
+"zh": "急救特工护士",
+"src": "https://wiki.biligame.com/cq/%E6%80%A5%E6%95%91%E7%89%B9%E5%B7%A5%E6%8A%A4%E5%A3%AB",
+"icon": "img/hero/nurspy-icon.webp",
+"art": "img/hero/nurspy-art.webp"
+},
+"Nyanma": {
+"zh": "尼玛",
+"src": "https://wiki.biligame.com/cq/%E5%B0%BC%E7%8E%9B",
+"icon": "img/hero/nyanma-icon.webp",
+"art": "img/hero/nyanma-art.webp"
+},
+"Nyorori": {
+"zh": "罗里",
+"src": "https://wiki.biligame.com/cq/%E7%BD%97%E9%87%8C",
+"icon": "img/hero/nyorori-icon.webp",
+"art": "img/hero/nyorori-art.webp"
+},
+"Odin": {
+"zh": "暴风 奥丁",
+"src": "https://wiki.biligame.com/cq/%E6%9A%B4%E9%A3%8E%20%E5%A5%A5%E4%B8%81",
+"icon": "img/hero/odin-icon.webp",
+"art": "img/hero/odin-art.webp"
+},
+"Olberic": {
+"zh": "欧尔贝克·艾因斯伯格",
+"src": "https://wiki.biligame.com/cq/%E6%AC%A7%E5%B0%94%E8%B4%9D%E5%85%8B%C2%B7%E8%89%BE%E5%9B%A0%E6%96%AF%E4%BC%AF%E6%A0%BC",
+"icon": "img/hero/olberic-icon.webp",
+"art": "img/hero/olberic-art.webp"
+},
+"Olga": {
+"zh": "企鹅女皇 奥尔佳",
+"src": "https://wiki.biligame.com/cq/%E4%BC%81%E9%B9%85%E5%A5%B3%E7%9A%87%20%E5%A5%A5%E5%B0%94%E4%BD%B3",
+"icon": "img/hero/olga-icon.webp",
+"art": "img/hero/olga-art.webp"
+},
+"Ophilia": {
+"zh": "欧菲莉亚·克莱门特",
+"src": "https://wiki.biligame.com/cq/%E6%AC%A7%E8%8F%B2%E8%8E%89%E4%BA%9A%C2%B7%E5%85%8B%E8%8E%B1%E9%97%A8%E7%89%B9",
+"icon": "img/hero/ophilia-icon.webp",
+"art": "img/hero/ophilia-art.webp"
+},
+"Orfeo": {
+"zh": "诱惑之奥菲欧",
+"src": "https://wiki.biligame.com/cq/%E8%AF%B1%E6%83%91%E4%B9%8B%E5%A5%A5%E8%8F%B2%E6%AC%A7",
+"icon": "img/hero/orfeo-icon.webp",
+"art": "img/hero/orfeo-art.webp"
+},
+"Osiris": {
+"zh": "引导者 奥西里斯",
+"src": "https://wiki.biligame.com/cq/%E5%BC%95%E5%AF%BC%E8%80%85%20%E5%A5%A5%E8%A5%BF%E9%87%8C%E6%96%AF",
+"icon": "img/hero/osiris-icon.webp",
+"art": "img/hero/osiris-art.webp"
+},
+"Otis": {
+"zh": "隐居大佬奥蒂斯",
+"src": "https://wiki.biligame.com/cq/%E9%9A%90%E5%B1%85%E5%A4%A7%E4%BD%AC%E5%A5%A5%E8%92%82%E6%96%AF",
+"icon": "img/hero/otis-icon.webp",
+"art": "img/hero/otis-art.webp"
+},
+"Otter": {
+"zh": "森罗万象 海獭",
+"src": "https://wiki.biligame.com/cq/%E6%A3%AE%E7%BD%97%E4%B8%87%E8%B1%A1%20%E6%B5%B7%E7%8D%AD",
+"icon": "img/hero/otter-icon.webp",
+"art": "img/hero/otter-art.webp"
+},
+"Ozma": {
+"zh": "四天王奥兹玛",
+"src": "https://wiki.biligame.com/cq/%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%A5%A5%E5%85%B9%E7%8E%9B",
+"icon": "img/hero/ozma-icon.webp",
+"art": "img/hero/ozma-art.webp"
+},
+"Pakaracchi": {
+"zh": "帕兰",
+"src": "https://wiki.biligame.com/cq/%E5%B8%95%E5%85%B0",
+"icon": "img/hero/pakaracchi-icon.webp",
+"art": "img/hero/pakaracchi-art.webp"
+},
+"Panpan": {
+"zh": "伟大的父亲 潘潘",
+"src": "https://wiki.biligame.com/cq/%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%88%B6%E4%BA%B2%20%E6%BD%98%E6%BD%98",
+"icon": "img/hero/panpan-icon.webp",
+"art": "img/hero/panpan-art.webp"
+},
+"Pius": {
+"zh": "噬星者毕奥",
+"src": "https://wiki.biligame.com/cq/%E5%99%AC%E6%98%9F%E8%80%85%E6%AF%95%E5%A5%A5",
+"icon": "img/hero/pius-icon.webp",
+"art": "img/hero/pius-art.webp"
+},
+"Pochiro": {
+"zh": "波基郎",
+"src": "https://wiki.biligame.com/cq/%E6%B3%A2%E5%9F%BA%E9%83%8E",
+"icon": "img/hero/pochiro-icon.webp",
+"art": "img/hero/pochiro-art.webp"
+},
+"Priestess": {
+"zh": "女神官",
+"src": "https://wiki.biligame.com/cq/%E5%A5%B3%E7%A5%9E%E5%AE%98",
+"icon": "img/hero/priestess-icon.webp",
+"art": "img/hero/priestess-art.webp"
+},
+"Primrose": {
+"zh": "普丽姆萝洁·艾泽尔哈特",
+"src": "https://wiki.biligame.com/cq/%E6%99%AE%E4%B8%BD%E5%A7%86%E8%90%9D%E6%B4%81%C2%B7%E8%89%BE%E6%B3%BD%E5%B0%94%E5%93%88%E7%89%B9",
+"icon": "img/hero/primrose-icon.webp",
+"art": "img/hero/primrose-art.webp"
+},
+"Prydwen": {
+"zh": "宫廷魔法师普瑞文",
+"src": "https://wiki.biligame.com/cq/%E5%AE%AB%E5%BB%B7%E9%AD%94%E6%B3%95%E5%B8%88%E6%99%AE%E7%91%9E%E6%96%87",
+"icon": "img/hero/prydwen-icon.webp",
+"art": "img/hero/prydwen-art.webp"
+},
+"Pumpking": {
+"zh": "愤怒的南瓜之王",
+"src": "https://wiki.biligame.com/cq/%E6%84%A4%E6%80%92%E7%9A%84%E5%8D%97%E7%93%9C%E4%B9%8B%E7%8E%8B",
+"icon": "img/hero/pumpking-icon.webp",
+"art": "img/hero/pumpking-art.webp"
+},
+"Pumpqueen": {
+"zh": "魔女南瓜女王",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E5%A5%B3%E5%8D%97%E7%93%9C%E5%A5%B3%E7%8E%8B",
+"icon": "img/hero/pumpqueen-icon.webp",
+"art": "img/hero/pumpqueen-art.webp"
+},
+"Pyrrha Nikos": {
+"zh": "皮拉·尼可丝",
+"src": "https://wiki.biligame.com/cq/%E7%9A%AE%E6%8B%89%C2%B7%E5%B0%BC%E5%8F%AF%E4%B8%9D",
+"icon": "img/hero/pyrrha-nikos-icon.webp",
+"art": "img/hero/pyrrha-nikos-art.webp"
+},
+"R": {
+"zh": "阿尔-零号机",
+"src": "https://wiki.biligame.com/cq/%E9%98%BF%E5%B0%94-%E9%9B%B6%E5%8F%B7%E6%9C%BA",
+"icon": "img/hero/r-icon.webp",
+"art": "img/hero/r-art.webp"
+},
+"Rachel": {
+"zh": "夜之女王瑞秋",
+"src": "https://wiki.biligame.com/cq/%E5%A4%9C%E4%B9%8B%E5%A5%B3%E7%8E%8B%E7%91%9E%E7%A7%8B",
+"icon": "img/hero/rachel-icon.webp",
+"art": "img/hero/rachel-art.webp"
+},
+"Rael": {
+"zh": "蕊儿",
+"src": "https://wiki.biligame.com/cq/%E8%95%8A%E5%84%BF",
+"icon": "img/hero/rael-icon.webp",
+"art": "img/hero/rael-art.webp"
+},
+"Rahima": {
+"zh": "鹰之女儿拉喜玛",
+"src": "https://wiki.biligame.com/cq/%E9%B9%B0%E4%B9%8B%E5%A5%B3%E5%84%BF%E6%8B%89%E5%96%9C%E7%8E%9B",
+"icon": "img/hero/rahima-icon.webp",
+"art": "img/hero/rahima-art.webp"
+},
+"Ram": {
+"zh": "拉姆",
+"src": "https://wiki.biligame.com/cq/%E6%8B%89%E5%A7%86",
+"icon": "img/hero/ram-icon.webp",
+"art": "img/hero/ram-art.webp"
+},
+"Ramlethal": {
+"zh": "拉姆蕾萨尔·瓦伦蒂",
+"src": "https://wiki.biligame.com/cq/%E6%8B%89%E5%A7%86%E8%95%BE%E8%90%A8%E5%B0%94%C2%B7%E7%93%A6%E4%BC%A6%E8%92%82",
+"icon": "img/hero/ramlethal-icon.webp",
+"art": "img/hero/ramlethal-art.webp"
+},
+"Ran": {
+"zh": "夜乌鸦 澜",
+"src": "https://wiki.biligame.com/cq/%E5%A4%9C%E4%B9%8C%E9%B8%A6%20%E6%BE%9C",
+"icon": "img/hero/ran-icon.webp",
+"art": "img/hero/ran-art.webp"
+},
+"Randgrid": {
+"zh": "恐怖的 兰蒂格瑞丝",
+"src": "https://wiki.biligame.com/cq/%E6%81%90%E6%80%96%E7%9A%84%20%E5%85%B0%E8%92%82%E6%A0%BC%E7%91%9E%E4%B8%9D",
+"icon": "img/hero/randgrid-icon.webp",
+"art": "img/hero/randgrid-art.webp"
+},
+"Ranee": {
+"zh": "天上的神酒拉尼",
+"src": "https://wiki.biligame.com/cq/%E5%A4%A9%E4%B8%8A%E7%9A%84%E7%A5%9E%E9%85%92%E6%8B%89%E5%B0%BC",
+"icon": "img/hero/ranee-icon.webp",
+"art": "img/hero/ranee-art.webp"
+},
+"Ranno": {
+"zh": "上古原始 拉诺",
+"src": "https://wiki.biligame.com/cq/%E4%B8%8A%E5%8F%A4%E5%8E%9F%E5%A7%8B%20%E6%8B%89%E8%AF%BA",
+"icon": "img/hero/ranno-icon.webp",
+"art": "img/hero/ranno-art.webp"
+},
+"Raphtalia": {
+"zh": "拉芙塔莉雅",
+"src": "https://wiki.biligame.com/cq/%E6%8B%89%E8%8A%99%E5%A1%94%E8%8E%89%E9%9B%85",
+"icon": "img/hero/raphtalia-icon.webp",
+"art": "img/hero/raphtalia-art.webp"
+},
+"Raven": {
+"zh": "冰霜猎人 雷芬",
+"src": "https://wiki.biligame.com/cq/%E5%86%B0%E9%9C%9C%E7%8C%8E%E4%BA%BA%20%E9%9B%B7%E8%8A%AC",
+"icon": "img/hero/raven-icon.webp",
+"art": "img/hero/raven-art.webp"
+},
+"Raven Branwen": {
+"zh": "蕾文·布兰温",
+"src": "https://wiki.biligame.com/cq/%E8%95%BE%E6%96%87%C2%B7%E5%B8%83%E5%85%B0%E6%B8%A9",
+"icon": "img/hero/raven-branwen-icon.webp",
+"art": "img/hero/raven-branwen-art.webp"
+},
+"Rebecca": {
+"zh": "风华绝代织女",
+"src": "https://wiki.biligame.com/cq/%E9%A3%8E%E5%8D%8E%E7%BB%9D%E4%BB%A3%E7%BB%87%E5%A5%B3",
+"icon": "img/hero/rebecca-icon.webp",
+"art": "img/hero/rebecca-art.webp"
+},
+"Rem": {
+"zh": "雷姆",
+"src": "https://wiki.biligame.com/cq/%E9%9B%B7%E5%A7%86",
+"icon": "img/hero/rem-icon.webp",
+"art": "img/hero/rem-art.webp"
+},
+"Ricky": {
+"zh": "幸运星 里基",
+"src": "https://wiki.biligame.com/cq/%E5%B9%B8%E8%BF%90%E6%98%9F%20%E9%87%8C%E5%9F%BA",
+"icon": "img/hero/ricky-icon.webp",
+"art": "img/hero/ricky-art.webp"
+},
+"Ricotta": {
+"zh": "莉柯妲·贝尔戴因",
+"src": "https://wiki.biligame.com/cq/%E8%8E%89%E6%9F%AF%E5%A6%B2%C2%B7%E8%B4%9D%E5%B0%94%E6%88%B4%E5%9B%A0",
+"icon": "img/hero/ricotta-icon.webp",
+"art": "img/hero/ricotta-art.webp"
+},
+"Rie": {
+"zh": "庆典的化身莱伊",
+"src": "https://wiki.biligame.com/cq/%E5%BA%86%E5%85%B8%E7%9A%84%E5%8C%96%E8%BA%AB%E8%8E%B1%E4%BC%8A",
+"icon": "img/hero/rie-icon.webp",
+"art": "img/hero/rie-art.webp"
+},
+"Rishia Ivyred": {
+"zh": "莉西亚·爱维列特",
+"src": "https://wiki.biligame.com/cq/%E8%8E%89%E8%A5%BF%E4%BA%9A%C2%B7%E7%88%B1%E7%BB%B4%E5%88%97%E7%89%B9",
+"icon": "img/hero/rishia-ivyred-icon.webp",
+"art": "img/hero/rishia-ivyred-art.webp"
+},
+"Robin": {
+"zh": "密使罗宾汉",
+"src": "https://wiki.biligame.com/cq/%E5%AF%86%E4%BD%BF%E7%BD%97%E5%AE%BE%E6%B1%89",
+"icon": "img/hero/robin-icon.webp",
+"art": "img/hero/robin-art.webp"
+},
+"Rochefort": {
+"zh": "必胜的罗什福尔",
+"src": "https://wiki.biligame.com/cq/%E5%BF%85%E8%83%9C%E7%9A%84%E7%BD%97%E4%BB%80%E7%A6%8F%E5%B0%94",
+"icon": "img/hero/rochefort-icon.webp",
+"art": "img/hero/rochefort-art.webp"
+},
+"Roland": {
+"zh": "最初的帕拉丁罗兰",
+"src": "https://wiki.biligame.com/cq/%E6%9C%80%E5%88%9D%E7%9A%84%E5%B8%95%E6%8B%89%E4%B8%81%E7%BD%97%E5%85%B0",
+"icon": "img/hero/roland-icon.webp",
+"art": "img/hero/roland-art.webp"
+},
+"Roskva": {
+"zh": "圣域守护者 罗斯科娃",
+"src": "https://wiki.biligame.com/cq/%E5%9C%A3%E5%9F%9F%E5%AE%88%E6%8A%A4%E8%80%85%20%E7%BD%97%E6%96%AF%E7%A7%91%E5%A8%83",
+"icon": "img/hero/roskva-icon.webp",
+"art": "img/hero/roskva-art.webp"
+},
+"Ruby Rose": {
+"zh": "露比·罗丝",
+"src": "https://wiki.biligame.com/cq/%E9%9C%B2%E6%AF%94%C2%B7%E7%BD%97%E4%B8%9D",
+"icon": "img/hero/ruby-rose-icon.webp",
+"art": "img/hero/ruby-rose-art.webp"
+},
+"Rugal": {
+"zh": "欧米茄·卢卡尔",
+"src": "https://wiki.biligame.com/cq/%E6%AC%A7%E7%B1%B3%E8%8C%84%C2%B7%E5%8D%A2%E5%8D%A1%E5%B0%94",
+"icon": "img/hero/rugal-icon.webp",
+"art": "img/hero/rugal-art.webp"
+},
+"Sahad": {
+"zh": "萨哈德·诺德拉斯",
+"src": "https://wiki.biligame.com/cq/%E8%90%A8%E5%93%88%E5%BE%B7%C2%B7%E8%AF%BA%E5%BE%B7%E6%8B%89%E6%96%AF",
+"icon": "img/hero/sahad-icon.webp",
+"art": "img/hero/sahad-art.webp"
+},
+"Saiga": {
+"zh": "赤色弹丸孙市",
+"src": "https://wiki.biligame.com/cq/%E8%B5%A4%E8%89%B2%E5%BC%B9%E4%B8%B8%E5%AD%99%E5%B8%82",
+"icon": "img/hero/saiga-icon.webp",
+"art": "img/hero/saiga-art.webp"
+},
+"Sasquatch": {
+"zh": "冰封王座萨斯夸奇",
+"src": "https://wiki.biligame.com/cq/%E5%86%B0%E5%B0%81%E7%8E%8B%E5%BA%A7%E8%90%A8%E6%96%AF%E5%A4%B8%E5%A5%87",
+"icon": "img/hero/sasquatch-icon.webp",
+"art": "img/hero/sasquatch-art.webp"
+},
+"Scarlet": {
+"zh": "海军上将·斯嘉丽",
+"src": "https://wiki.biligame.com/cq/%E6%B5%B7%E5%86%9B%E4%B8%8A%E5%B0%86%C2%B7%E6%96%AF%E5%98%89%E4%B8%BD",
+"icon": "img/hero/scarlet-icon.webp",
+"art": "img/hero/scarlet-art.webp"
+},
+"Schierke": {
+"zh": "西凯尔",
+"src": "https://wiki.biligame.com/cq/%E8%A5%BF%E5%87%AF%E5%B0%94",
+"icon": "img/hero/schierke-icon.webp",
+"art": "img/hero/schierke-art.webp"
+},
+"Schild": {
+"zh": "踏空者希尔德",
+"src": "https://wiki.biligame.com/cq/%E8%B8%8F%E7%A9%BA%E8%80%85%E5%B8%8C%E5%B0%94%E5%BE%B7",
+"icon": "img/hero/schild-icon.webp",
+"art": "img/hero/schild-art.webp"
+},
+"Schula": {
+"zh": "铁女 修尔拉",
+"src": "https://wiki.biligame.com/cq/%E9%93%81%E5%A5%B3%20%E4%BF%AE%E5%B0%94%E6%8B%89",
+"icon": "img/hero/schula-icon.webp",
+"art": "img/hero/schula-art.webp"
+},
+"Seimei": {
+"zh": "阴阳师 晴明",
+"src": "https://wiki.biligame.com/cq/%E9%98%B4%E9%98%B3%E5%B8%88%20%E6%99%B4%E6%98%8E",
+"icon": "img/hero/seimei-icon.webp",
+"art": "img/hero/seimei-art.webp"
+},
+"Seiren": {
+"zh": "外交官·赛莲",
+"src": "https://wiki.biligame.com/cq/%E5%A4%96%E4%BA%A4%E5%AE%98%C2%B7%E8%B5%9B%E8%8E%B2",
+"icon": "img/hero/seiren-icon.webp",
+"art": "img/hero/seiren-art.webp"
+},
+"Sentinel": {
+"zh": "哨兵阿尔",
+"src": "https://wiki.biligame.com/cq/%E5%93%A8%E5%85%B5%E9%98%BF%E5%B0%94",
+"icon": "img/hero/sentinel-icon.webp",
+"art": "img/hero/sentinel-art.webp"
+},
+"Seo": {
+"zh": "感官觉醒的塞奥",
+"src": "https://wiki.biligame.com/cq/%E6%84%9F%E5%AE%98%E8%A7%89%E9%86%92%E7%9A%84%E5%A1%9E%E5%A5%A5",
+"icon": "img/hero/seo-icon.webp",
+"art": "img/hero/seo-art.webp"
+},
+"Serpico": {
+"zh": "塞尔彼高",
+"src": "https://wiki.biligame.com/cq/%E5%A1%9E%E5%B0%94%E5%BD%BC%E9%AB%98",
+"icon": "img/hero/serpico-icon.webp",
+"art": "img/hero/serpico-art.webp"
+},
+"Set": {
+"zh": "收割者 塞特",
+"src": "https://wiki.biligame.com/cq/%E6%94%B6%E5%89%B2%E8%80%85%20%E5%A1%9E%E7%89%B9",
+"icon": "img/hero/set-icon.webp",
+"art": "img/hero/set-art.webp"
+},
+"Sfera": {
+"zh": "羊之女王 斯佩拉",
+"src": "https://wiki.biligame.com/cq/%E7%BE%8A%E4%B9%8B%E5%A5%B3%E7%8E%8B%20%E6%96%AF%E4%BD%A9%E6%8B%89",
+"icon": "img/hero/sfera-icon.webp",
+"art": "img/hero/sfera-art.webp"
+},
+"Shasha": {
+"zh": "火之魔女莎莎",
+"src": "https://wiki.biligame.com/cq/%E7%81%AB%E4%B9%8B%E9%AD%94%E5%A5%B3%E8%8E%8E%E8%8E%8E",
+"icon": "img/hero/shasha-icon.webp",
+"art": "img/hero/shasha-art.webp"
+},
+"Shermie": {
+"zh": "荒狂电光夏尔美",
+"src": "https://wiki.biligame.com/cq/%E8%8D%92%E7%8B%82%E7%94%B5%E5%85%89%E5%A4%8F%E5%B0%94%E7%BE%8E",
+"icon": "img/hero/shermie-icon.webp",
+"art": "img/hero/shermie-art.webp"
+},
+"Shu Gwi": {
+"zh": "笔头生花西归",
+"src": "https://wiki.biligame.com/cq/%E7%AC%94%E5%A4%B4%E7%94%9F%E8%8A%B1%E8%A5%BF%E5%BD%92",
+"icon": "img/hero/shu-gwi-icon.webp",
+"art": "img/hero/shu-gwi-art.webp"
+},
+"Shub": {
+"zh": "深渊的仰慕者 舒布",
+"src": "https://wiki.biligame.com/cq/%E6%B7%B1%E6%B8%8A%E7%9A%84%E4%BB%B0%E6%85%95%E8%80%85%20%E8%88%92%E5%B8%83",
+"icon": "img/hero/shub-icon.webp",
+"art": "img/hero/shub-art.webp"
+},
+"Shuwen": {
+"zh": "拳王 西门",
+"src": "https://wiki.biligame.com/cq/%E6%8B%B3%E7%8E%8B%20%E8%A5%BF%E9%97%A8",
+"icon": "img/hero/shuwen-icon.webp",
+"art": "img/hero/shuwen-art.webp"
+},
+"Siegfried": {
+"zh": "龙骑士齐格弗里德",
+"src": "https://wiki.biligame.com/cq/%E9%BE%99%E9%AA%91%E5%A3%AB%E9%BD%90%E6%A0%BC%E5%BC%97%E9%87%8C%E5%BE%B7",
+"icon": "img/hero/siegfried-icon.webp",
+"art": "img/hero/siegfried-art.webp"
+},
+"Sien": {
+"zh": "暴走僵尸希恩",
+"src": "https://wiki.biligame.com/cq/%E6%9A%B4%E8%B5%B0%E5%83%B5%E5%B0%B8%E5%B8%8C%E6%81%A9",
+"icon": "img/hero/sien-icon.webp",
+"art": "img/hero/sien-art.webp"
+},
+"Sigruna": {
+"zh": "屠魔猎手溪谷莉娜",
+"src": "https://wiki.biligame.com/cq/%E5%B1%A0%E9%AD%94%E7%8C%8E%E6%89%8B%E6%BA%AA%E8%B0%B7%E8%8E%89%E5%A8%9C",
+"icon": "img/hero/sigruna-icon.webp",
+"art": "img/hero/sigruna-art.webp"
+},
+"Silver": {
+"zh": "扭蛋战队 思博尔",
+"src": "https://wiki.biligame.com/cq/%E6%89%AD%E8%9B%8B%E6%88%98%E9%98%9F%20%E6%80%9D%E5%8D%9A%E5%B0%94",
+"icon": "img/hero/silver-icon.webp",
+"art": "img/hero/silver-art.webp"
+},
+"Sim Hak-Gyu": {
+"zh": "乐极生悲 沈鹤圭",
+"src": "https://wiki.biligame.com/cq/%E4%B9%90%E6%9E%81%E7%94%9F%E6%82%B2%20%E6%B2%88%E9%B9%A4%E5%9C%AD",
+"icon": "img/hero/sim-hak-gyu-icon.webp",
+"art": "img/hero/sim-hak-gyu-art.webp"
+},
+"Sin Kiske": {
+"zh": "辛·奇斯库",
+"src": "https://wiki.biligame.com/cq/%E8%BE%9B%C2%B7%E5%A5%87%E6%96%AF%E5%BA%93",
+"icon": "img/hero/sin-kiske-icon.webp",
+"art": "img/hero/sin-kiske-art.webp"
+},
+"Skadi": {
+"zh": "比任何人都低贱的斯卡迪。",
+"src": "https://wiki.biligame.com/cq/%E6%AF%94%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E4%BD%8E%E8%B4%B1%E7%9A%84%E6%96%AF%E5%8D%A1%E8%BF%AA%E3%80%82",
+"icon": "img/hero/skadi-icon.webp",
+"art": "img/hero/skadi-art.webp"
+},
+"Skull Knight": {
+"zh": "骷髅骑士",
+"src": "https://wiki.biligame.com/cq/%E9%AA%B7%E9%AB%85%E9%AA%91%E5%A3%AB",
+"icon": "img/hero/skull-knight-icon.webp",
+"art": "img/hero/skull-knight-art.webp"
+},
+"Snorri": {
+"zh": "圣域的守护灵斯诺里",
+"src": "https://wiki.biligame.com/cq/%E5%9C%A3%E5%9F%9F%E7%9A%84%E5%AE%88%E6%8A%A4%E7%81%B5%E6%96%AF%E8%AF%BA%E9%87%8C",
+"icon": "img/hero/snorri-icon.webp",
+"art": "img/hero/snorri-art.webp"
+},
+"Sol Badguy": {
+"zh": "索尔·巴德凯",
+"src": "https://wiki.biligame.com/cq/%E7%B4%A2%E5%B0%94%C2%B7%E5%B7%B4%E5%BE%B7%E5%87%AF",
+"icon": "img/hero/sol-badguy-icon.webp",
+"art": "img/hero/sol-badguy-art.webp"
+},
+"Souffle": {
+"zh": "诗芙丽",
+"src": "https://wiki.biligame.com/cq/%E8%AF%97%E8%8A%99%E4%B8%BD",
+"icon": "img/hero/souffle-icon.webp",
+"art": "img/hero/souffle-art.webp"
+},
+"Spearman": {
+"zh": "枪使",
+"src": "https://wiki.biligame.com/cq/%E6%9E%AA%E4%BD%BF",
+"icon": "img/hero/spearman-icon.webp",
+"art": "img/hero/spearman-art.webp"
+},
+"Spiny": {
+"zh": "电子人斯佩妮",
+"src": "https://wiki.biligame.com/cq/%E7%94%B5%E5%AD%90%E4%BA%BA%E6%96%AF%E4%BD%A9%E5%A6%AE",
+"icon": "img/hero/spiny-icon.webp",
+"art": "img/hero/spiny-art.webp"
+},
+"Spyro": {
+"zh": "司令斯派洛",
+"src": "https://wiki.biligame.com/cq/%E5%8F%B8%E4%BB%A4%E6%96%AF%E6%B4%BE%E6%B4%9B",
+"icon": "img/hero/spyro-icon.webp",
+"art": "img/hero/spyro-art.webp"
+},
+"Stanya": {
+"zh": "粉碎者斯黛拉",
+"src": "https://wiki.biligame.com/cq/%E7%B2%89%E7%A2%8E%E8%80%85%E6%96%AF%E9%BB%9B%E6%8B%89",
+"icon": "img/hero/stanya-icon.webp",
+"art": "img/hero/stanya-art.webp"
+},
+"Stein": {
+"zh": "疯狂科学家斯坦因",
+"src": "https://wiki.biligame.com/cq/%E7%96%AF%E7%8B%82%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%96%AF%E5%9D%A6%E5%9B%A0",
+"icon": "img/hero/stein-icon.webp",
+"art": "img/hero/stein-art.webp"
+},
+"Susanoo": {
+"zh": "将军须佐能乎",
+"src": "https://wiki.biligame.com/cq/%E5%B0%86%E5%86%9B%E9%A1%BB%E4%BD%90%E8%83%BD%E4%B9%8E",
+"icon": "img/hero/susanoo-icon.webp",
+"art": "img/hero/susanoo-art.webp"
+},
+"Svenja": {
+"zh": "追击队长 斯维尼亚",
+"src": "https://wiki.biligame.com/cq/%E8%BF%BD%E5%87%BB%E9%98%9F%E9%95%BF%20%E6%96%AF%E7%BB%B4%E5%B0%BC%E4%BA%9A",
+"icon": "img/hero/svenja-icon.webp",
+"art": "img/hero/svenja-art.webp"
+},
+"Sword Maiden": {
+"zh": "剑之圣女",
+"src": "https://wiki.biligame.com/cq/%E5%89%91%E4%B9%8B%E5%9C%A3%E5%A5%B3",
+"icon": "img/hero/sword-maiden-icon.webp",
+"art": "img/hero/sword-maiden-art.webp"
+},
+"Sworden": {
+"zh": "捕盗大将卞剑秀",
+"src": "https://wiki.biligame.com/cq/%E6%8D%95%E7%9B%97%E5%A4%A7%E5%B0%86%E5%8D%9E%E5%89%91%E7%A7%80",
+"icon": "img/hero/sworden-icon.webp",
+"art": "img/hero/sworden-art.webp"
+},
+"Tang": {
+"zh": "神圣唐小慧",
+"src": "https://wiki.biligame.com/cq/%E7%A5%9E%E5%9C%A3%E5%94%90%E5%B0%8F%E6%85%A7",
+"icon": "img/hero/tang-icon.webp",
+"art": "img/hero/tang-art.webp"
+},
+"Tart": {
+"zh": "达特",
+"src": "https://wiki.biligame.com/cq/%E8%BE%BE%E7%89%B9",
+"icon": "img/hero/tart-icon.webp",
+"art": "img/hero/tart-art.webp"
+},
+"Teresa": {
+"zh": "夜魔女麻美",
+"src": "https://wiki.biligame.com/cq/%E5%A4%9C%E9%AD%94%E5%A5%B3%E9%BA%BB%E7%BE%8E",
+"icon": "img/hero/teresa-icon.webp",
+"art": "img/hero/teresa-art.webp"
+},
+"Terry": {
+"zh": "特瑞·博加德",
+"src": "https://wiki.biligame.com/cq/%E7%89%B9%E7%91%9E%C2%B7%E5%8D%9A%E5%8A%A0%E5%BE%B7",
+"icon": "img/hero/terry-icon.webp",
+"art": "img/hero/terry-art.webp"
+},
+"Tess": {
+"zh": "XO CREW泰斯",
+"src": "https://wiki.biligame.com/cq/XO%20CREW%E6%B3%B0%E6%96%AF",
+"icon": "img/hero/tess-icon.webp",
+"art": "img/hero/tess-art.webp"
+},
+"Thalia": {
+"zh": "彩虹泡泡塔莉娅",
+"src": "https://wiki.biligame.com/cq/%E5%BD%A9%E8%99%B9%E6%B3%A1%E6%B3%A1%E5%A1%94%E8%8E%89%E5%A8%85",
+"icon": "img/hero/thalia-icon.webp",
+"art": "img/hero/thalia-art.webp"
+},
+"Thehyss": {
+"zh": "光阴似箭的忒希斯",
+"src": "https://wiki.biligame.com/cq/%E5%85%89%E9%98%B4%E4%BC%BC%E7%AE%AD%E7%9A%84%E5%BF%92%E5%B8%8C%E6%96%AF",
+"icon": "img/hero/thehyss-icon.webp",
+"art": "img/hero/thehyss-art.webp"
+},
+"Therion": {
+"zh": "泰里翁",
+"src": "https://wiki.biligame.com/cq/%E6%B3%B0%E9%87%8C%E7%BF%81",
+"icon": "img/hero/therion-icon.webp",
+"art": "img/hero/therion-art.webp"
+},
+"Thor": {
+"zh": "雷神托尔",
+"src": "https://wiki.biligame.com/cq/%E9%9B%B7%E7%A5%9E%E6%89%98%E5%B0%94",
+"icon": "img/hero/thor-icon.webp",
+"art": "img/hero/thor-art.webp"
+},
+"Tia": {
+"zh": "武装女仆迪雅",
+"src": "https://wiki.biligame.com/cq/%E6%AD%A6%E8%A3%85%E5%A5%B3%E4%BB%86%E8%BF%AA%E9%9B%85",
+"icon": "img/hero/tia-icon.webp",
+"art": "img/hero/tia-art.webp"
+},
+"Tian Mo": {
+"zh": "顽劣小儿天魔",
+"src": "https://wiki.biligame.com/cq/%E9%A1%BD%E5%8A%A3%E5%B0%8F%E5%84%BF%E5%A4%A9%E9%AD%94",
+"icon": "img/hero/tian-mo-icon.webp",
+"art": "img/hero/tian-mo-art.webp"
+},
+"Tramontana": {
+"zh": "传奇配送员特拉蒙塔纳",
+"src": "https://wiki.biligame.com/cq/%E4%BC%A0%E5%A5%87%E9%85%8D%E9%80%81%E5%91%98%E7%89%B9%E6%8B%89%E8%92%99%E5%A1%94%E7%BA%B3",
+"icon": "img/hero/tramontana-icon.webp",
+"art": "img/hero/tramontana-art.webp"
+},
+"Tressa": {
+"zh": "特蕾莎·克罗佐恩",
+"src": "https://wiki.biligame.com/cq/%E7%89%B9%E8%95%BE%E8%8E%8E%C2%B7%E5%85%8B%E7%BD%97%E4%BD%90%E6%81%A9",
+"icon": "img/hero/tressa-icon.webp",
+"art": "img/hero/tressa-art.webp"
+},
+"Twillie": {
+"zh": "决战的特薇儿莉",
+"src": "https://wiki.biligame.com/cq/%E5%86%B3%E6%88%98%E7%9A%84%E7%89%B9%E8%96%87%E5%84%BF%E8%8E%89",
+"icon": "img/hero/twillie-icon.webp",
+"art": "img/hero/twillie-art.webp"
+},
+"Umrat": {
+"zh": "极致黑暗欧姆拉特",
+"src": "https://wiki.biligame.com/cq/%E6%9E%81%E8%87%B4%E9%BB%91%E6%9A%97%E6%AC%A7%E5%A7%86%E6%8B%89%E7%89%B9",
+"icon": "img/hero/umrat-icon.webp",
+"art": "img/hero/umrat-art.webp"
+},
+"Urako": {
+"zh": "爱憎妖怪 乌拉科",
+"src": "https://wiki.biligame.com/cq/%E7%88%B1%E6%86%8E%E5%A6%96%E6%80%AA%20%E4%B9%8C%E6%8B%89%E7%A7%91",
+"icon": "img/hero/urako-icon.webp",
+"art": "img/hero/urako-art.webp"
+},
+"Uriel": {
+"zh": "异端审判官乌列",
+"src": "https://wiki.biligame.com/cq/%E5%BC%82%E7%AB%AF%E5%AE%A1%E5%88%A4%E5%AE%98%E4%B9%8C%E5%88%97",
+"icon": "img/hero/uriel-icon.webp",
+"art": "img/hero/uriel-art.webp"
+},
+"Urii": {
+"zh": "乌里",
+"src": "https://wiki.biligame.com/cq/%E4%B9%8C%E9%87%8C",
+"icon": "img/hero/urii-icon.webp",
+"art": "img/hero/urii-art.webp"
+},
+"Uzimant": {
+"zh": "族长乌兹门特",
+"src": "https://wiki.biligame.com/cq/%E6%97%8F%E9%95%BF%E4%B9%8C%E5%85%B9%E9%97%A8%E7%89%B9",
+"icon": "img/hero/uzimant-icon.webp",
+"art": "img/hero/uzimant-art.webp"
+},
+"Uzume": {
+"zh": "话题制造者伍兹美",
+"src": "https://wiki.biligame.com/cq/%E8%AF%9D%E9%A2%98%E5%88%B6%E9%80%A0%E8%80%85%E4%BC%8D%E5%85%B9%E7%BE%8E",
+"icon": "img/hero/uzume-icon.webp",
+"art": "img/hero/uzume-art.webp"
+},
+"V": {
+"zh": "威-暴走型",
+"src": "https://wiki.biligame.com/cq/%E5%A8%81-%E6%9A%B4%E8%B5%B0%E5%9E%8B",
+"icon": "img/hero/v-icon.webp",
+"art": "img/hero/v-art.webp"
+},
+"Vane": {
+"zh": "黑暗骑士贝恩",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E6%9A%97%E9%AA%91%E5%A3%AB%E8%B4%9D%E6%81%A9",
+"icon": "img/hero/vane-icon.webp",
+"art": "img/hero/vane-art.webp"
+},
+"Vernil": {
+"zh": "圣域守护者 瓦日尼尔",
+"src": "https://wiki.biligame.com/cq/%E5%9C%A3%E5%9F%9F%E5%AE%88%E6%8A%A4%E8%80%85%20%E7%93%A6%E6%97%A5%E5%B0%BC%E5%B0%94",
+"icon": "img/hero/vernil-icon.webp",
+"art": "img/hero/vernil-art.webp"
+},
+"Vesper": {
+"zh": "水之魔女 贝斯派",
+"src": "https://wiki.biligame.com/cq/%E6%B0%B4%E4%B9%8B%E9%AD%94%E5%A5%B3%20%E8%B4%9D%E6%96%AF%E6%B4%BE",
+"icon": "img/hero/vesper-icon.webp",
+"art": "img/hero/vesper-art.webp"
+},
+"Victoria": {
+"zh": "约定之维多利亚",
+"src": "https://wiki.biligame.com/cq/%E7%BA%A6%E5%AE%9A%E4%B9%8B%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A",
+"icon": "img/hero/victoria-icon.webp",
+"art": "img/hero/victoria-art.webp"
+},
+"Vincent": {
+"zh": "审判者文森特",
+"src": "https://wiki.biligame.com/cq/%E5%AE%A1%E5%88%A4%E8%80%85%E6%96%87%E6%A3%AE%E7%89%B9",
+"icon": "img/hero/vincent-icon.webp",
+"art": "img/hero/vincent-art.webp"
+},
+"Viola": {
+"zh": "幽灵公主·贝欧琳",
+"src": "https://wiki.biligame.com/cq/%E5%B9%BD%E7%81%B5%E5%85%AC%E4%B8%BB%C2%B7%E8%B4%9D%E6%AC%A7%E7%90%B3",
+"icon": "img/hero/viola-icon.webp",
+"art": "img/hero/viola-art.webp"
+},
+"Violet": {
+"zh": "魔法傀儡师·贝萝特",
+"src": "https://wiki.biligame.com/cq/%E9%AD%94%E6%B3%95%E5%82%80%E5%84%A1%E5%B8%88%C2%B7%E8%B4%9D%E8%90%9D%E7%89%B9",
+"icon": "img/hero/violet-icon.webp",
+"art": "img/hero/violet-art.webp"
+},
+"Viper": {
+"zh": "最强佣兵斯内克",
+"src": "https://wiki.biligame.com/cq/%E6%9C%80%E5%BC%BA%E4%BD%A3%E5%85%B5%E6%96%AF%E5%86%85%E5%85%8B",
+"icon": "img/hero/viper-icon.webp",
+"art": "img/hero/viper-art.webp"
+},
+"Vivian": {
+"zh": "绝对魔王薇薇安",
+"src": "https://wiki.biligame.com/cq/%E7%BB%9D%E5%AF%B9%E9%AD%94%E7%8E%8B%E8%96%87%E8%96%87%E5%AE%89",
+"icon": "img/hero/vivian-icon.webp",
+"art": "img/hero/vivian-art.webp"
+},
+"Wang Dao": {
+"zh": "变脸大师 王道",
+"src": "https://wiki.biligame.com/cq/%E5%8F%98%E8%84%B8%E5%A4%A7%E5%B8%88%20%E7%8E%8B%E9%81%93",
+"icon": "img/hero/wang-dao-icon.webp",
+"art": "img/hero/wang-dao-art.webp"
+},
+"Weiss Schnee": {
+"zh": "魏丝·雪倪",
+"src": "https://wiki.biligame.com/cq/%E9%AD%8F%E4%B8%9D%C2%B7%E9%9B%AA%E5%80%AA",
+"icon": "img/hero/weiss-schnee-icon.webp",
+"art": "img/hero/weiss-schnee-art.webp"
+},
+"Wilhelm": {
+"zh": "黑暗驱逐者威廉",
+"src": "https://wiki.biligame.com/cq/%E9%BB%91%E6%9A%97%E9%A9%B1%E9%80%90%E8%80%85%E5%A8%81%E5%BB%89",
+"icon": "img/hero/wilhelm-icon.webp",
+"art": "img/hero/wilhelm-art.webp"
+},
+"Winston": {
+"zh": "变形师温斯顿",
+"src": "https://wiki.biligame.com/cq/%E5%8F%98%E5%BD%A2%E5%B8%88%E6%B8%A9%E6%96%AF%E9%A1%BF",
+"icon": "img/hero/winston-icon.webp",
+"art": "img/hero/winston-art.webp"
+},
+"Wolfgang": {
+"zh": "冰锤 沃尔夫冈",
+"src": "https://wiki.biligame.com/cq/%E5%86%B0%E9%94%A4%20%E6%B2%83%E5%B0%94%E5%A4%AB%E5%86%88",
+"icon": "img/hero/wolfgang-icon.webp",
+"art": "img/hero/wolfgang-art.webp"
+},
+"Wolfram": {
+"zh": "风之魔女乌尔弗兰姆",
+"src": "https://wiki.biligame.com/cq/%E9%A3%8E%E4%B9%8B%E9%AD%94%E5%A5%B3%E4%B9%8C%E5%B0%94%E5%BC%97%E5%85%B0%E5%A7%86",
+"icon": "img/hero/wolfram-icon.webp",
+"art": "img/hero/wolfram-art.webp"
+},
+"Woopa": {
+"zh": "万能的乌帕",
+"src": "https://wiki.biligame.com/cq/%E4%B8%87%E8%83%BD%E7%9A%84%E4%B9%8C%E5%B8%95",
+"icon": "img/hero/woopa-icon.webp",
+"art": "img/hero/woopa-art.webp"
+},
+"Yama": {
+"zh": "阎罗",
+"src": "https://wiki.biligame.com/cq/%E9%98%8E%E7%BD%97",
+"icon": "img/hero/yama-icon.webp",
+"art": "img/hero/yama-art.webp"
+},
+"Yang Xiaolong": {
+"zh": "阳小龙",
+"src": "https://wiki.biligame.com/cq/%E9%98%B3%E5%B0%8F%E9%BE%99",
+"icon": "img/hero/yang-xiaolong-icon.webp",
+"art": "img/hero/yang-xiaolong-art.webp"
+},
+"Yeowoodong": {
+"zh": "九尾狐阿狸",
+"src": "https://wiki.biligame.com/cq/%E4%B9%9D%E5%B0%BE%E7%8B%90%E9%98%BF%E7%8B%B8",
+"icon": "img/hero/yeowoodong-icon.webp",
+"art": "img/hero/yeowoodong-art.webp"
+},
+"Yichui": {
+"zh": "月亮花 伊吹",
+"src": "https://wiki.biligame.com/cq/%E6%9C%88%E4%BA%AE%E8%8A%B1%20%E4%BC%8A%E5%90%B9",
+"icon": "img/hero/yichui-icon.webp",
+"art": "img/hero/yichui-art.webp"
+},
+"Yuna": {
+"zh": "耀眼新星 尤娜",
+"src": "https://wiki.biligame.com/cq/%E8%80%80%E7%9C%BC%E6%96%B0%E6%98%9F%20%E5%B0%A4%E5%A8%9C",
+"icon": "img/hero/yuna-icon.webp",
+"art": "img/hero/yuna-art.webp"
+},
+"Yuria": {
+"zh": "涅斯军长官尤莉娅",
+"src": "https://wiki.biligame.com/cq/%E6%B6%85%E6%96%AF%E5%86%9B%E9%95%BF%E5%AE%98%E5%B0%A4%E8%8E%89%E5%A8%85",
+"icon": "img/hero/yuria-icon.webp",
+"art": "img/hero/yuria-art.webp"
+},
+"Zahard": {
+"zh": "特工 扎哈德",
+"src": "https://wiki.biligame.com/cq/%E7%89%B9%E5%B7%A5%20%E6%89%8E%E5%93%88%E5%BE%B7",
+"icon": "img/hero/zahard-icon.webp",
+"art": "img/hero/zahard-art.webp"
+},
+"Zato-1": {
+"zh": "扎特-1",
+"src": "https://wiki.biligame.com/cq/%E6%89%8E%E7%89%B9-1",
+"icon": "img/hero/zato-1-icon.webp",
+"art": "img/hero/zato-1-art.webp"
+},
+"Zeus": {
+"zh": "苍穹闪光宙斯",
+"src": "https://wiki.biligame.com/cq/%E8%8B%8D%E7%A9%B9%E9%97%AA%E5%85%89%E5%AE%99%E6%96%AF",
+"icon": "img/hero/zeus-icon.webp",
+"art": "img/hero/zeus-art.webp"
+},
+"Zilong": {
+"zh": "五虎大将军子龙",
+"src": "https://wiki.biligame.com/cq/%E4%BA%94%E8%99%8E%E5%A4%A7%E5%B0%86%E5%86%9B%E5%AD%90%E9%BE%99",
+"icon": "img/hero/zilong-icon.webp",
+"art": "img/hero/zilong-art.webp"
+},
+"Zodd": {
+"zh": "佐德",
+"src": "https://wiki.biligame.com/cq/%E4%BD%90%E5%BE%B7",
+"icon": "img/hero/zodd-icon.webp",
+"art": "img/hero/zodd-art.webp"
+},
+"Éfendére": {
+"zh": "干涸乐园里的艾芬德尔",
+"src": "https://wiki.biligame.com/cq/%E5%B9%B2%E6%B6%B8%E4%B9%90%E5%9B%AD%E9%87%8C%E7%9A%84%E8%89%BE%E8%8A%AC%E5%BE%B7%E5%B0%94",
+"icon": "img/hero/fend-re-icon.webp",
+"art": "img/hero/fend-re-art.webp"
+}
+}
