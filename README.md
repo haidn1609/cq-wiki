@@ -1,6 +1,8 @@
 # Crusaders Quest Wiki (Tiếng Việt)
 
-Mở `site/index.html` trực tiếp bằng trình duyệt (chạy offline, không cần server).
+Xem online: https://haidn1609.github.io/cq-wiki/ (GitHub Pages, tự deploy `site/` mỗi khi push lên `main` qua `.github/workflows/pages.yml`).
+
+Hoặc mở `site/index.html` trực tiếp bằng trình duyệt (chạy offline, không cần server).
 
 Nguồn: https://docs.google.com/spreadsheets/d/1CAAUx5Z0nPdjavGpYhFbAgO_4LdQ9GWBpGBx1Muv4gc
 
