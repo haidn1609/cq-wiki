@@ -142,6 +142,42 @@ const pages = {
     ${table(['Set', 'Cuối game', 'Giữa game', 'Đầu game', 'Số hero dùng'], D.sigilsets.map((s, i) => [esc(s.name), s.end.map(sgi).join('<br>'), s.mid.map(sgi).join('<br>'), s.early.map(sgi).join('<br>'),
       {v: s.used ? `<button type="button" class="cnt" data-set="${i}" title="Xem các hero dùng set này">${s.used}</button>` : '0', c: 'num'}]))}`,
 
+  // Dòng chỉ số nhẫn (Manacar / Kurenai) và phụ kiện (khuyên tai, vòng cổ) – nguồn BWiki
+  rings: () => {
+    const A = D.acc, R = A.ring;
+    const star = n => '★'.repeat(+n);
+    const mainT = rows => table(['Nhẫn', 'Sao', 'Dòng chính'], rows.map(r => [`${r.img ? `<img class="gi" src="${r.img}" alt="">` : ''}${esc(r.name)}`, {v: star(r.star), c: 'nowrap'}, `<b>${esc(r.stat)}</b>`]));
+    // Gom dòng phụ: mỗi dòng 1 hàng, mỗi mức sao 1 cột
+    const subT = rows => {
+      const stars = [...new Set(rows.map(r => r.star))].sort();
+      const key = r => r.stat.replace(/\s*\+\[.*$/, '').replace(/^Hồi sinh.*/, 'Hồi sinh');
+      const g = {};
+      rows.forEach(r => { (g[key(r)] ??= {group: r.group, v: {}}).v[r.star] = r.stat.match(/\[[^\]]*\]%?/)?.[0] || r.stat; });
+      return table(['Dòng phụ', 'Nhóm', ...stars.map(x => star(x))], Object.entries(g).map(([k, x]) => [`<b>${esc(k)}</b>`, esc(x.group), ...stars.map(st => esc(x.v[st] || '–'))]), false);
+    };
+    const lines = A.acc.lines;
+    const kinds = [...new Set(lines.map(l => l.kind))];
+    const fill = (d, lv) => esc(d.replace(/\{(\d)\}/g, (m, i) => lv[i] ?? '?'));
+    return `<h1>Dòng chỉ số nhẫn & phụ kiện</h1>
+    <p class="mute">Giá trị theo dạng [thấp nhất–cao nhất] khi tạo ra. Nguồn: BWiki – <a href="${D.acc.src.ring}" target="_blank" rel="noopener">Tổng quan nhẫn</a>, <a href="${D.acc.src.acc}" target="_blank" rel="noopener">Dòng phụ kiện</a>.</p>
+    <div class="chips toc"><a class="chip" href="javascript:void 0" data-jump="r1">Nhẫn Manacar</a><a class="chip" href="javascript:void 0" data-jump="r2">Nhẫn Kurenai</a><a class="chip" href="javascript:void 0" data-jump="r3">Khuyên tai & vòng cổ</a></div>
+    <h2 id="r1">Nhẫn Manacar <span class="mute">(魔力统治者)</span></h2>
+    <p>Lấy từ World Boss <b>Manacar</b>, nhiệm vụ tuần và hộp nhẫn sự kiện. Nhẫn 5★ trở lên mở đủ 3 dòng phụ, 4★ trở xuống chỉ 1–2 dòng. Dòng chính cố định khi nhận nhẫn (chỉ đổi được phẩm chất); dòng phụ ra ngẫu nhiên khi giám định/chuyển đổi.</p>
+    <h3>Dòng chính</h3>${mainT(R.manacar.main)}
+    <h3>Dòng phụ</h3>${subT(R.manacar.sub)}
+    <p class="mute">Ba dòng phụ cùng loại cộng lại (vd. 3× Apen = 372–513) có thể thay một dòng pen trên vũ khí linh hồn.</p>
+    <h2 id="r2">Nhẫn Kurenai <span class="mute">(红莲之力 – Legend of Primal Flames)</span></h2>
+    <p>Lấy từ màn cốt truyện ẩn <b>Legend of Primal Flames</b>; chỉ có 5★ và 6★. Dòng chính giống Manacar, nhưng dòng phụ là các dòng chỉ dùng ở Arena, dòng Story và dòng <b>Resu</b> (hồi sinh).</p>
+    <h3>Dòng chính</h3>${mainT(R.kurenai.main)}
+    <h3>Dòng phụ</h3>${subT(R.kurenai.sub)}
+    <p class="mute">Hồi sinh (Resu): hồi sinh 1 lần với lượng HP trên; sau khi hồi sinh miễn mọi sát thương 1,5s (5★) / 1,6s (6★), không dùng lại được.</p>
+    <h2 id="r3">Khuyên tai & vòng cổ (phụ kiện)</h2>
+    <p>${esc(A.acc.note)}</p>
+    <div class="filters"><select id="acck"><option value="">Mọi loại dòng</option>${kinds.map(k => `<option>${esc(k)}</option>`).join('')}</select>
+      <select id="accl">${A.acc.levels.map((l, i) => `<option value="${i}" ${i === 4 ? 'selected' : ''}>Cấp: ${esc(l)}</option>`).join('')}</select></div>
+    <div id="acct"></div>`;
+  },
+
   equip: () => {
     const fmt = (k, v) => typeof v === 'number' && v < 1 && !['HP', 'HAP', 'Arm', 'Res', 'APen', 'Rpen'].includes(k) ? `${(v * 100).toFixed(2).replace(/\.?0+$/, '')}%` : v;
     return `<h1>Tùy chọn trang bị</h1><p class="mute">Giá trị chỉ số của các tùy chọn vũ khí linh hồn (A = Tấn công, D = Phòng thủ, F = Chức năng), nhẫn/phụ và hiệu ứng phụ kiện.</p>
@@ -266,7 +302,19 @@ main.addEventListener('click', e => {
   const key = tr => { const t = tr.cells[i]?.textContent.trim() || ''; const n = parseFloat(t.replace(/,/g, '')); return isNaN(n) ? t.toLowerCase() : n; };
   [...tb.rows].sort((a, b) => { const x = key(a), y = key(b); return (typeof x === typeof y ? (x > y ? 1 : x < y ? -1 : 0) : typeof x === 'number' ? -1 : 1) * dir; }).forEach(r => tb.appendChild(r));
 });
+// Trang nhẫn/phụ kiện: bảng dòng phụ kiện lọc theo loại + đổi cấp; nút nhảy mục
+function accTable() {
+  const el = $('#acct'); if (!el) return;
+  const k = $('#acck').value, lv = +$('#accl').value;
+  const L = D.acc.acc.lines.filter(l => !k || l.kind === k);
+  const fill = (d, v) => esc(d.replace(/\{(\d)\}/g, (m, i) => v?.[i] ?? '?'));
+  el.innerHTML = table(['Dòng', 'Loại', `Hiệu ứng (cấp ${esc(D.acc.acc.levels[lv])})`, 'Theo 5 cấp'], L.map(l => [`<b>${esc(l.name)}</b>`, esc(l.kind), fill(l.desc, l.levels[lv]),
+    {v: l.levels.length ? l.levels.map(v => esc(v.filter(x => !/^(bản thân|cả đội)$/.test(x)).join(' / '))).join(' → ') : '', c: 'mute'}]), false);
+}
+main.addEventListener('click', e => { const j = e.target.closest('[data-jump]'); if (j) document.getElementById(j.dataset.jump)?.scrollIntoView({behavior: 'smooth'}); });
+
 main.addEventListener('change', e => {
+  if (e.target.id === 'acck' || e.target.id === 'accl') accTable();
   if (e.target.id === 'dc') $('#dt').innerHTML = dpsTable(D.dps.filter(d => !e.target.value || d.cls === e.target.value));
 });
 
@@ -274,6 +322,7 @@ function route() {
   const [, p = '', arg] = location.hash.split('/');
   const fn = pages[p] || pages[''];
   main.innerHTML = fn(arg && decodeURIComponent(arg));
+  accTable();
   document.querySelectorAll('#nav a').forEach(a => a.classList.toggle('on', a.getAttribute('href') === location.hash || (a.getAttribute('href') === '#/' && !p)));
   document.title = (main.querySelector('h1')?.textContent || 'CQ Wiki') + ' – Crusaders Quest Wiki';
   $('#nav').classList.remove('open');

@@ -28,3 +28,4 @@ Nguồn: [BWiki 克鲁赛德战记](https://wiki.biligame.com/cq/) (hero, sigil,
 - `build.py` gộp cả 2 đợt; thêm 9 hero mới chỉ có trên BWiki (Milady, Gordian, Anton, Hina, Lime, Rie, Evgenia, Tian Mo, Drago).
 - `raw2/my_ranks.json` – hạng + nhận xét tự xếp cho 11 hero chưa có trong tier list EN, dựa trên điểm BWiki (căn theo điểm BWiki trung bình của từng hạng EN: S≈9.3, A≈7.5, B≈6.2, C≈4.5, F≈3.6 – trung bình 2 điểm cao nhất). Hiển thị kèm dấu `*`.
 - `python -I -X utf8 scripts/sigils.py` – chi tiết 46 sigil + set (chỉ số, nơi rơi, mô tả, hiệu ứng set) từ BWiki (`raw2/bw_sigil_pages.json`, `raw2/bw_set_pages.json`), bản dịch ở `raw2/tr/sigil_out_manual.json` → `raw2/sigils.json`.
+- `python -I -X utf8 scripts/accessories.py` – dòng chỉ số nhẫn Manacar/Kurenai và 36 dòng phụ kiện (khuyên tai, vòng cổ) theo 5 cấp từ BWiki → `raw2/acc.json`; tên nhẫn EN ở `raw2/tr/ring_names.json` (dịch theo nghĩa), dòng phụ kiện dịch ở `raw2/tr/acc_vi.json`.

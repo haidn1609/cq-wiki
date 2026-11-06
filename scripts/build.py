@@ -248,6 +248,14 @@ for s in sigilsets:
                    for h in sorted(heroes.values(), key=lambda h: h['name'].lower()) for b in h.get('builds', []) if b['set'] == s['name']]
     s['used'] = len({x['name'] for x in s['heroes']})
 SIG = json.load(open('raw2/sigils.json', encoding='utf-8')) if os.path.exists('raw2/sigils.json') else {}
+# Dòng nhẫn + phụ kiện (scripts/accessories.py), gắn tên EN và icon cho nhẫn
+ACC = json.load(open('raw2/acc.json', encoding='utf-8')) if os.path.exists('raw2/acc.json') else {}
+if ACC:
+    RN = json.load(open('raw2/tr/ring_names.json', encoding='utf-8'))
+    RI = json.load(open('raw2/img_ring.json', encoding='utf-8'))
+    for k in ('manacar', 'kurenai'):
+        for r in ACC['ring'][k]['main']:
+            r['name'], r['img'] = RN.get(r['zh'], r['zh']), RI.get(r['zh'], '')
 
 # --- Ảnh (nguồn: BWiki biligame + CQ Fandom), sinh bởi scripts/images.py & các bước tải ảnh
 def load(p):
@@ -266,7 +274,7 @@ data = {
     'images': images,
     'classes': CLASSES, 'classNote': classnote, 'tiers': tiers, 'dps': dps, 'archive': archive,
     'glossary': glossary, 'announce': announce, 'grades': grades, 'contrib': contrib,
-    'sigilsets': sigilsets, 'equip': equip, 'sigils': SIG,
+    'sigilsets': sigilsets, 'equip': equip, 'sigils': SIG, 'acc': ACC,
     'grids': {**{k: grid(k) for k in ('Total War Guide', 'EP6 Challenge Guide', 'Challenge Stat', 'Change Log')},
               **{k: grid2(k) for k in ('General Glossary', 'SP Skills Glossary', 'Picking Heroes', 'Useful Promo/Legend Heroes',
                                        'Seasonal Schedule', 'Resources', 'CQ Maths 101', 'Ring Guide', 'Goddesses',
