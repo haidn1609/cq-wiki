@@ -242,6 +242,13 @@ for n, v in json.load(open('raw2/my_ranks.json', encoding='utf-8')).items():
     if n in heroes and not heroes[n].get('rank'):
         heroes[n].update(rank=v['rank'], note=v['note'], rankAuto=True)
 
+# Hero dùng từng set sigil (đếm lại từ build, kể cả build ALT.) – thay cột Usage của sheet vốn lệch 7 set
+for s in sigilsets:
+    s['heroes'] = [{'name': h['name'], 'alt': bool(b.get('alt'))}
+                   for h in sorted(heroes.values(), key=lambda h: h['name'].lower()) for b in h.get('builds', []) if b['set'] == s['name']]
+    s['used'] = len({x['name'] for x in s['heroes']})
+SIG = json.load(open('raw2/sigils.json', encoding='utf-8')) if os.path.exists('raw2/sigils.json') else {}
+
 # --- Ảnh (nguồn: BWiki biligame + CQ Fandom), sinh bởi scripts/images.py & các bước tải ảnh
 def load(p):
     return json.load(open(p, encoding='utf-8')) if os.path.exists(p) else {}
@@ -259,7 +266,7 @@ data = {
     'images': images,
     'classes': CLASSES, 'classNote': classnote, 'tiers': tiers, 'dps': dps, 'archive': archive,
     'glossary': glossary, 'announce': announce, 'grades': grades, 'contrib': contrib,
-    'sigilsets': sigilsets, 'equip': equip,
+    'sigilsets': sigilsets, 'equip': equip, 'sigils': SIG,
     'grids': {**{k: grid(k) for k in ('Total War Guide', 'EP6 Challenge Guide', 'Challenge Stat', 'Change Log')},
               **{k: grid2(k) for k in ('General Glossary', 'SP Skills Glossary', 'Picking Heroes', 'Useful Promo/Legend Heroes',
                                        'Seasonal Schedule', 'Resources', 'CQ Maths 101', 'Ring Guide', 'Goddesses',

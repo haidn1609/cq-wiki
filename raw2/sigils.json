@@ -1,0 +1,980 @@
+{
+ "All-Seeing Eye": {
+  "zh": "洞天之眼",
+  "desc": "Tác phẩm thủ công chứa quyền năng của nữ thần phán xét Alerat. Nó nhìn thấu thật giả của vạn vật và dùng đạo đức tuyệt đối của thần để kết tội. Nhưng một con mắt đến hít thở cũng bị phán có tội thì để làm gì? Thế là giữa việc dùng quyền năng và nhắm con mắt này lại, Alerat dứt khoát chọn vế sau.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Rpen +1750, CC +11%",
+  "drop": [],
+  "set": {
+   "name": "Ánh nhìn bùng nổ tàn phá",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Mana-Sealing Eyepatch",
+    "All-Seeing Eye"
+   ],
+   "bonus": "Rpen +1600, Atk +750",
+   "full": "Rpen +4500, Atk +1750, CC +11%"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E6%B4%9E%E5%A4%A9%E4%B9%8B%E7%9C%BC"
+ },
+ "Assassination List": {
+  "zh": "暗杀名单",
+  "desc": "Danh sách ám sát do Robin Hood – đoàn trưởng nhóm Táo Xanh tiết lộ. Vì là cơ mật tối cao nên được viết bằng mật mã cao cấp, thoạt nhìn chẳng khác gì hóa đơn mua thực phẩm: Khoai tây x1, hành tây x2, cà rốt x1, thịt heo 200g… Ơ? Tối nay ăn cà ri à?",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Apen +2000",
+  "drop": [],
+  "set": {
+   "name": "Bằng chứng kẻ đạo đức giả (rực rỡ)",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Hero's Arrow",
+    "Assassination List"
+   ],
+   "bonus": "Apen +1200, Atk +1750",
+   "full": "Apen +4500, Atk +1750, Acc +16"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E6%9A%97%E6%9D%80%E5%90%8D%E5%8D%95"
+ },
+ "Banoub's Will": {
+  "zh": "瓦奴芙的意志",
+  "desc": "\"Dù không thể đọc được gì từ nét mặt của Banoub, chúng tôi vẫn run rẩy vì sợ hãi.\" – 'Isis'",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "1",
+  "stats": "Atk +500",
+  "drop": [
+   "Camilla Banoub, Hộp ảo mộng, Hộp ảo mộng cao cấp, Hộp niêm phong Kanu"
+  ],
+  "set": {
+   "name": "Lễ rửa tội của Banoub (rực rỡ)",
+   "star": "1",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Banoub's Will",
+    "Crude Ring"
+   ],
+   "bonus": "Mỗi 1 giây hồi 2000 HP cho đồng đội (hiệu ứng không cộng dồn)",
+   "full": "Atk +1000, DR +3%, mỗi 1 giây hồi 2000 HP cho đồng đội (hiệu ứng không cộng dồn)"
+  },
+  "price": "2000",
+  "src": "https://wiki.biligame.com/cq/%E7%93%A6%E5%A5%B4%E8%8A%99%E7%9A%84%E6%84%8F%E5%BF%97"
+ },
+ "Black Tiger Bead": {
+  "zh": "黑虎领主",
+  "desc": "Bảo châu chứa tinh hoa Hắc Ảnh – Hổ Kiếm mà B. Sworden luyện được. Nghe nói chỉ cần nắm chặt bảo châu trong tay rồi nhắm mắt là nghe được giọng B. Sworden đọc bản án – trị mất ngủ cực hiệu quả!",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Res +1500, Eva +12",
+  "drop": [
+   "Bộ khoái Đại tướng B. Sworden, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Sạc dự phòng SP di động (Res) (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Eternal Primal Fire",
+    "Black Tiger Bead"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 SP",
+   "full": "Res +3000, HP tối đa +40000, Eva +12, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E9%BB%91%E8%99%8E%E9%A2%86%E4%B8%BB"
+ },
+ "Blue Dragon Orb": {
+  "zh": "青龙宝珠",
+  "desc": "Bảo châu huyền thoại mà Thanh Long xuất hiện ở hoàng thất nước Trần đã tiến cống hoàng đế, có công dụng tỉnh táo minh mẫn.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Rpen +1750",
+  "drop": [
+   "Ngũ Hổ Đại Tướng Quan Ngân Bình, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Bảo vật của rồng (rực rỡ)",
+   "star": "5",
+   "grade": "Hiếm (Rare)",
+   "pieces": [
+    "Orb of Yama",
+    "Blue Dragon Orb"
+   ],
+   "bonus": "Rpen +1100, Atk +1500",
+   "full": "Rpen +4000, Atk +1500, Acc +14"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E9%9D%92%E9%BE%99%E5%AE%9D%E7%8F%A0"
+ },
+ "Book of Empire Swordsmanship": {
+  "zh": "帝国实战剑术教材",
+  "desc": "Giáo trình kiếm thuật đế quốc biên soạn từ kinh nghiệm thực chiến dày dặn của Victoria trên chiến trường. Đã lược bớt những phần màu mè vô dụng của kiếm thuật đế quốc cơ bản.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Apen +1150, Atk +1000",
+  "drop": [
+   "C19H Phán xét cuối cùng"
+  ],
+  "set": {
+   "name": "Ánh nhìn chính trực tàn phá",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Book of Empire Swordsmanship",
+    "Core of Danan"
+   ],
+   "bonus": "Apen +1600, Atk +750",
+   "full": "Apen +4500, Atk +1750, CC +11%"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E5%B8%9D%E5%9B%BD%E5%AE%9E%E6%88%98%E5%89%91%E6%9C%AF%E6%95%99%E6%9D%90"
+ },
+ "Broken Wing": {
+  "zh": "破碎之翼",
+  "desc": "Đôi cánh vỡ của thú đá hộ vệ Tectus. Được làm từ đá phù du nhập từ vùng hoang dã nên dù buông tay, nó vẫn lơ lửng trên không một lúc.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Res +1750, HP +45000",
+  "drop": [],
+  "set": {
+   "name": "Bộ sạc năng lượng di động 2",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Broken Wing",
+    "Captain's Token - Cobalt"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 năng lượng (SP)",
+   "full": "Res +3500, HP tối đa +45000, Eva +14, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E7%A0%B4%E7%A2%8E%E4%B9%8B%E7%BF%BC"
+ },
+ "Captain's Token - Central": {
+  "zh": "团长信物-中央",
+  "desc": "Tín vật của đoàn trưởng \"Central Knights\" Grancia. Trông giản dị nhưng thực ra vô giá – tín vật riêng của đoàn trưởng gánh trọng trách bảo vệ hoàng thành. Cầm tín vật này được giảm 20% khi dùng các tiện ích trong hoàng thành như quán ăn, quán cà phê, tiệm sách/đĩa nhạc, lò rèn.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Rpen +2000",
+  "drop": [],
+  "set": {
+   "name": "Bằng chứng người hộ vệ (rực rỡ)",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Wings of Salvation",
+    "Captain's Token - Central"
+   ],
+   "bonus": "Rpen +1200, Atk +1750",
+   "full": "Rpen +4500, Atk +1750, Acc +16"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E5%9B%A2%E9%95%BF%E4%BF%A1%E7%89%A9-%E4%B8%AD%E5%A4%AE"
+ },
+ "Captain's Token - Cobalt": {
+  "zh": "团长信物-铁血",
+  "desc": "Tín vật của đoàn trưởng \"Iron Blood Knights\" Grancia. Làm từ chất liệu nặng khác thường – trên đời không vật gì xứng với uy quyền của nó. Cầm tín vật này được giảm 10% khi dùng các tiện ích trong hoàng thành như quán ăn, quán cà phê, tiệm sách/đĩa nhạc, lò rèn.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Res +1750, Eva +14",
+  "drop": [],
+  "set": {
+   "name": "Bộ sạc năng lượng di động 2",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Broken Wing",
+    "Captain's Token - Cobalt"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 năng lượng (SP)",
+   "full": "Res +3500, HP tối đa +45000, Eva +14, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E5%9B%A2%E9%95%BF%E4%BF%A1%E7%89%A9-%E9%93%81%E8%A1%80"
+ },
+ "Captain's Token - Steel": {
+  "zh": "团长信物-钢铁",
+  "desc": "Tín vật của đoàn trưởng \"Steel Knights\" Grancia. Làm hoàn toàn bằng thép tốt để lúc nguy cấp có thể nung chảy rèn thành lưỡi kiếm. Cầm tín vật này được giảm 10% khi dùng các tiện ích trong hoàng thành như quán ăn, quán cà phê, tiệm sách/đĩa nhạc, lò rèn.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Arm +1750, Eva +14",
+  "drop": [],
+  "set": {
+   "name": "Bộ sạc năng lượng di động",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Laporte's Mane",
+    "Captain's Token - Steel"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 năng lượng (SP)",
+   "full": "Arm +3500, HP tối đa +45000, Eva +14, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E5%9B%A2%E9%95%BF%E4%BF%A1%E7%89%A9-%E9%92%A2%E9%93%81"
+ },
+ "Castle Gate Fragment": {
+  "zh": "城门碎片",
+  "desc": "Tàn tích cổng hoàng thành. Nhìn hình dạng dễ đoán nó bị phá nát bởi một sức mạnh cực lớn, nhưng xem kỹ chất liệu thì thấy công trình của binh dịch Grancia có dấu hiệu ăn bớt vật liệu.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Rpen +1750, HP +65000",
+  "drop": [],
+  "set": null,
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E5%9F%8E%E9%97%A8%E7%A2%8E%E7%89%87"
+ },
+ "Chantico's Dragon Scale": {
+  "zh": "赞迪科的龙鳞",
+  "desc": "Vảy rồng bao bọc cơ thể Chantico, tỏa ánh đỏ nguy hiểm. Nghe nói vết thương do nó cứa sẽ không bao giờ lành. Có lẽ đây là vảy Chantico đã lột ra.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Apen +1150, Acc +14",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Bóng rồng (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Chantico's Dragon Scale",
+    "Red Dragon's Beard"
+   ],
+   "bonus": "Apen +1100, Atk +1500",
+   "full": "Apen +4000, Atk +1500, Acc +14"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E8%B5%9E%E8%BF%AA%E7%A7%91%E7%9A%84%E9%BE%99%E9%B3%9E"
+ },
+ "Core of Danan": {
+  "zh": "灾祸之核",
+  "desc": "Tượng trưng cho lõi của \"Kiếm pha lê – Lưỡi kiếm linh hồn\" của dũng sĩ huyền thoại Aure. Bị nghiền nát từ thời viễn cổ, dù đã mất chức năng của một thanh kiếm nhưng nó vẫn có tác dụng cổ vũ sĩ khí.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Apen +1750, CC +11%",
+  "drop": [
+   "C18H Sân điện trang nghiêm"
+  ],
+  "set": {
+   "name": "Ánh nhìn chính trực tàn phá",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Book of Empire Swordsmanship",
+    "Core of Danan"
+   ],
+   "bonus": "Apen +1600, Atk +750",
+   "full": "Apen +4500, Atk +1750, CC +11%"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E7%81%BE%E7%A5%B8%E4%B9%8B%E6%A0%B8"
+ },
+ "Crude Ring": {
+  "zh": "粗劣的戒指",
+  "desc": "Chiếc nhẫn làm thô sơ, hình như là quà của ai đó.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "1",
+  "stats": "Atk +500, DR +3%",
+  "drop": [
+   "Afnir Thuần khiết, Bảo vật rực rỡ của Thụ Tinh Quốc, Hộp sigil Thụ Tinh Quốc"
+  ],
+  "set": {
+   "name": "Lễ rửa tội của Banoub (rực rỡ)",
+   "star": "1",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Banoub's Will",
+    "Crude Ring"
+   ],
+   "bonus": "Mỗi 1 giây hồi 2000 HP cho đồng đội (hiệu ứng không cộng dồn)",
+   "full": "Atk +1000, DR +3%, mỗi 1 giây hồi 2000 HP cho đồng đội (hiệu ứng không cộng dồn)"
+  },
+  "price": "2000",
+  "src": "https://wiki.biligame.com/cq/%E7%B2%97%E5%8A%A3%E7%9A%84%E6%88%92%E6%8C%87"
+ },
+ "Decadent Song": {
+  "zh": "靡靡之乐",
+  "desc": "Khúc ca mất nước do một nhạc sĩ vô danh nước Trần sáng tác từ rất lâu, không chỉ làm nhụt ý chí người nghe mà còn khiến họ mất hết tinh thần chiến đấu.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "DR +13%, HP +55000",
+  "drop": [
+   "Đát Kỷ, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": null,
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E9%9D%A1%E9%9D%A1%E4%B9%8B%E4%B9%90"
+ },
+ "Djer's Conceit": {
+  "zh": "哲尔之刺",
+  "desc": "\"Gai của Djer phát sáng, khiến mọi thứ trước mặt nó biến mất.\" – 'Lorelei'",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "1",
+  "stats": "Atk +500, Acc +5%",
+  "drop": [
+   "Camilla Banoub, Hộp ảo mộng, Hộp ảo mộng cao cấp, Hộp niêm phong Kanu"
+  ],
+  "set": {
+   "name": "Quyền năng của Banoub (rực rỡ)",
+   "star": "1",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Djer's Conceit",
+    "格力斯的火"
+   ],
+   "bonus": "Rpen +1000, CD +25%",
+   "full": "Atk +500, Rpen +1500, CD +25%, Acc +5%"
+  },
+  "price": "2000",
+  "src": "https://wiki.biligame.com/cq/%E5%93%B2%E5%B0%94%E4%B9%8B%E5%88%BA"
+ },
+ "Emperor's Seal": {
+  "zh": "皇帝之玺",
+  "desc": "Kim tỷ thể hiện hoàng quyền của Đế quốc Grancia. Toàn thân khắc hoa văn vàng, vừa chống làm giả vừa mang ma pháp để bảo vệ các văn kiện được hoàng đế phê chuẩn.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "DR +16%, HP +65000",
+  "drop": [
+   "C19H Phán xét cuối cùng"
+  ],
+  "set": null,
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E7%9A%87%E5%B8%9D%E4%B9%8B%E7%8E%BA"
+ },
+ "Emperor's Tracks": {
+  "zh": "帝王足迹",
+  "desc": "Dấu chân mà hoàng đế Alexander với sức mạnh phi thường để lại trên mặt đất. Binh sĩ nhìn dấu chân của bậc đế vương xung phong đi đầu mà lòng tràn đầy dũng khí và trung thành.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Res +1000, DR +16%",
+  "drop": [],
+  "set": {
+   "name": "Ý chí cụ thể hóa (rực rỡ)",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Emperor's Tracks",
+    "Mana Core"
+   ],
+   "bonus": "Res +1000, CR +30%",
+   "full": "Res +4000, CR +30%, DR +16%"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E5%B8%9D%E7%8E%8B%E8%B6%B3%E8%BF%B9"
+ },
+ "Eternal Primal Fire": {
+  "zh": "永恒的太初之火",
+  "desc": "Đóa hoa kết từ lửa, xuất hiện trong thần thoại sáng thế của cả tộc Woopa lẫn bộ lạc Rắn Lông Vũ. Tương truyền thuở loài người còn chưa biết dùng lửa, nữ thần Herseira đã hái đóa hoa này trao cho họ.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Res +1500, HP +40000",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Sạc dự phòng SP di động (Res) (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Eternal Primal Fire",
+    "Black Tiger Bead"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 SP",
+   "full": "Res +3000, HP tối đa +40000, Eva +12, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E6%B0%B8%E6%81%92%E7%9A%84%E5%A4%AA%E5%88%9D%E4%B9%8B%E7%81%AB"
+ },
+ "Flow Velocity Controller": {
+  "zh": "流速控制器",
+  "desc": "Ma thạch dùng để điều khiển việc cung cấp ma lực cho Afnir.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "1",
+  "stats": "Atk +500, CR +3%",
+  "drop": [
+   "Afnir Thuần khiết, Bảo vật rực rỡ của Thụ Tinh Quốc, Hộp sigil Thụ Tinh Quốc"
+  ],
+  "set": {
+   "name": "Phúc lành của Narmer (rực rỡ)",
+   "star": "1",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "哲尔的外壳",
+    "Flow Velocity Controller"
+   ],
+   "bonus": "Arm và Res của đồng đội +300 (hiệu ứng không cộng dồn)",
+   "full": "HP tối đa +20000, Eva +5%, Atk +500, CR +3%, Arm và Res của đồng đội +300 (hiệu ứng không cộng dồn)"
+  },
+  "price": "2000",
+  "src": "https://wiki.biligame.com/cq/%E6%B5%81%E9%80%9F%E6%8E%A7%E5%88%B6%E5%99%A8"
+ },
+ "Golden Armor Fragment": {
+  "zh": "黄金甲碎片",
+  "desc": "Mảnh vỡ rơi ra từ bộ giáp của Chantico. Vì bị ngọn lửa của Chantico thiêu đốt suốt thời gian dài nên dù đã thành mảnh vụn vẫn chưa nguội. Cẩn thận, cầm bằng tay là tay cháy thành than ngay.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Rpen +1050, Atk +1000",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Vàng của bầu trời (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Golden Armor Fragment",
+    "Golden Experience"
+   ],
+   "bonus": "Rpen +1450, Atk +500",
+   "full": "Rpen +4000, Atk +1500, CC +9%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E9%BB%84%E9%87%91%E7%94%B2%E7%A2%8E%E7%89%87"
+ },
+ "Golden Experience": {
+  "zh": "黄金体验",
+  "desc": "Kết tinh sức mạnh của Karlard-Gullveig chân thực. Nó có sức mạnh bẻ cong vận mệnh của người sở hữu, dẫn dắt họ tới cảnh giới \"chân thực\" mà họ vô thức mong muốn.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Rpen +1500, CC +9%",
+  "drop": [
+   "Karlard-Gullveig quyến rũ, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Vàng của bầu trời (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Golden Armor Fragment",
+    "Golden Experience"
+   ],
+   "bonus": "Rpen +1450, Atk +500",
+   "full": "Rpen +4000, Atk +1500, CC +9%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E9%BB%84%E9%87%91%E4%BD%93%E9%AA%8C"
+ },
+ "Golden Skin of Lava Bug": {
+  "zh": "熔岩虫的黄金表皮",
+  "desc": "Lớp da vàng hình thành khi Lava Bug lột xác dưới nhiệt độ cao. Rơi khỏi người Lava Bug đến giờ vẫn còn hơi nóng và tỏa sáng. Dù giá trị liên thành, số người tận mắt thấy mà còn sống sót đếm trên đầu ngón tay.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Arm +1500, HP +40000",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Sạc dự phòng SP di động (Arm) (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Golden Skin of Lava Bug",
+    "Ochu Bell"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 SP",
+   "full": "Arm +3000, Eva +12, HP tối đa +40000, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E7%86%94%E5%B2%A9%E8%99%AB%E7%9A%84%E9%BB%84%E9%87%91%E8%A1%A8%E7%9A%AE"
+ },
+ "Hero's Arrow": {
+  "zh": "完好的英雄之箭",
+  "desc": "Mũi tên do Linna, thành viên đoàn dũng sĩ Corona bắn ra. Thân tên còn nguyên vẹn, như thể hiện tấm lòng sắt đá mà dịu dàng không muốn làm ai bị thương của cô.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Apen +1300, Acc +16",
+  "drop": [],
+  "set": {
+   "name": "Bằng chứng kẻ đạo đức giả (rực rỡ)",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Hero's Arrow",
+    "Assassination List"
+   ],
+   "bonus": "Apen +1200, Atk +1750",
+   "full": "Apen +4500, Atk +1750, Acc +16"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E5%AE%8C%E5%A5%BD%E7%9A%84%E8%8B%B1%E9%9B%84%E4%B9%8B%E7%AE%AD"
+ },
+ "Human Play Mask": {
+  "zh": "欺诈面具",
+  "desc": "Bạch Hổ yêu thú xuất hiện ở ranh giới giữa cõi sống và cõi chết, thoạt nhìn trông như người. Giới đào sâm truyền tai nhau: nếu trong núi sâu gặp người mặt đỏ cầu cứu thì chắc chắn đó là Bạch Hổ yêu thú, tuyệt đối đừng đi theo.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Atk +900, HP +55000",
+  "drop": [
+   "Bạch Hổ yêu thú, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": null,
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E6%AC%BA%E8%AF%88%E9%9D%A2%E5%85%B7"
+ },
+ "Laporte's Mane": {
+  "zh": "拉波特的鬃毛",
+  "desc": "Bờm của thú hộ vệ Laporte. Bộ lông cứng thoạt nhìn có vẻ lạnh lùng nhưng thực ra rất ấm áp, dễ chịu.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Arm +1750, HP +45000",
+  "drop": [],
+  "set": {
+   "name": "Bộ sạc năng lượng di động",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Laporte's Mane",
+    "Captain's Token - Steel"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 năng lượng (SP)",
+   "full": "Arm +3500, HP tối đa +45000, Eva +14, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E6%8B%89%E6%B3%A2%E7%89%B9%E7%9A%84%E9%AC%83%E6%AF%9B"
+ },
+ "Lion Relic": {
+  "zh": "狮纹",
+  "desc": "Hoa văn dành cho bậc thầy của \"Sứ đoàn\" Nữ Thần giáo. Trong Sứ đoàn quy tụ anh tài, người có được hoa văn này vốn đã ít, sau trận chiến Thánh đô lại càng đếm trên đầu ngón tay.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "HP +70000",
+  "drop": [],
+  "set": null,
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E7%8B%AE%E7%BA%B9"
+ },
+ "Mana Core": {
+  "zh": "魔法动力核心",
+  "desc": "Lõi động lực của thú đá hộ vệ Tectus, do thị trấn Lễ Hội nhận thầu chế tạo. Dù lợi nhuận một lần không mấy khả quan, nhưng để đảm bảo quyền tự chủ cho thị trấn Lễ Hội, họ vẫn cống nạp miễn phí.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Res +2000",
+  "drop": [],
+  "set": {
+   "name": "Ý chí cụ thể hóa (rực rỡ)",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Emperor's Tracks",
+    "Mana Core"
+   ],
+   "bonus": "Res +1000, CR +30%",
+   "full": "Res +4000, CR +30%, DR +16%"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E9%AD%94%E6%B3%95%E5%8A%A8%E5%8A%9B%E6%A0%B8%E5%BF%83"
+ },
+ "Mana-Sealing Eyepatch": {
+  "zh": "魔法封印眼罩",
+  "desc": "Bịt mắt Prydwen đeo. Khi đeo nó, cô mới miễn cưỡng kìm nén được ma lực sắp bộc phát, và cảnh báo mọi người đừng tháo ra nếu không muốn hủy diệt Herseira. Thế nhưng chuyện cô nói chẳng hề xảy ra, chỉ để lại trên mặt Prydwen vệt hằn mờ hình bịt mắt.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Rpen +1150, Atk +1000",
+  "drop": [],
+  "set": {
+   "name": "Ánh nhìn bùng nổ tàn phá",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Mana-Sealing Eyepatch",
+    "All-Seeing Eye"
+   ],
+   "bonus": "Rpen +1600, Atk +750",
+   "full": "Rpen +4500, Atk +1750, CC +11%"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E9%AD%94%E6%B3%95%E5%B0%81%E5%8D%B0%E7%9C%BC%E7%BD%A9"
+ },
+ "Ochu Bell": {
+  "zh": "五丑牛钟",
+  "desc": "Chiếc chuông dùng để sai khiến con bò của đội trưởng hộ vệ – Ngũ Sửu Ngưu. Nghe nói mỗi khi Giáp Quỷ vung búa lớn, theo tiếng chuông, động tác của Ngũ Sửu Ngưu biến hóa khôn lường.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Arm +1500, Eva +12",
+  "drop": [
+   "Đội trưởng hộ vệ Giáp Quỷ, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Sạc dự phòng SP di động (Arm) (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Golden Skin of Lava Bug",
+    "Ochu Bell"
+   ],
+   "bonus": "Mỗi 3 giây hồi 10 SP",
+   "full": "Arm +3000, Eva +12, HP tối đa +40000, mỗi 3 giây hồi 10 năng lượng (SP)"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E4%BA%94%E4%B8%91%E7%89%9B%E9%92%9F"
+ },
+ "Ominous Core": {
+  "zh": "四凶之核",
+  "desc": "Bảo châu ngưng tụ sức mạnh của Cùng Kỳ – một trong Tứ Hung, tỏa ra khí tức bất tường mà đầy mê hoặc. Tương truyền nếu rơi vào tay kẻ ác, nó sẽ ban cho hắn sức mạnh thực hiện điều tà ác.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Apen +1500, CC +9%",
+  "drop": [
+   "Cùng Kỳ, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Trái tim bầu trời (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Tezquatlipoca's Heart",
+    "Ominous Core"
+   ],
+   "bonus": "Apen +1450, Atk +500",
+   "full": "Apen +4000, Atk +1500, CC +9%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E5%9B%9B%E5%87%B6%E4%B9%8B%E6%A0%B8"
+ },
+ "Orb of Yama": {
+  "zh": "阎王的宝石",
+  "desc": "Bảo thạch của Diêm Vương chứa sức mạnh Hồng Liên. Nghe nói ai nhìn thấy ánh đỏ thần bí nó phát ra sẽ thấy ký ức quá khứ hiện lên như đèn kéo quân.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Rpen +1150, Acc +14",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Bảo vật của rồng (rực rỡ)",
+   "star": "5",
+   "grade": "Hiếm (Rare)",
+   "pieces": [
+    "Orb of Yama",
+    "Blue Dragon Orb"
+   ],
+   "bonus": "Rpen +1100, Atk +1500",
+   "full": "Rpen +4000, Atk +1500, Acc +14"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E9%98%8E%E7%8E%8B%E7%9A%84%E5%AE%9D%E7%9F%B3"
+ },
+ "Practice Apple": {
+  "zh": "用于练习的苹果",
+  "desc": "Quả táo mẫu dùng trong trò xếp táo truyền thống của nhóm Táo Xanh. Toàn thân phủ một lớp sáp đặc chế, bắn không trúng chính giữa là mũi tên trượt ngay.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Apen +2500",
+  "drop": [],
+  "set": null,
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E7%94%A8%E4%BA%8E%E7%BB%83%E4%B9%A0%E7%9A%84%E8%8B%B9%E6%9E%9C"
+ },
+ "Purified Malice Crystal": {
+  "zh": "经过净化的毒气结晶",
+  "desc": "Kết tinh khí độc đã được thanh tẩy bởi sức mạnh của nữ thần. Tỏa ra thánh lực gây sát thương lớn hơn lên kẻ sa ngã.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Apen +1750, HP +65000",
+  "drop": [],
+  "set": null,
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E7%BB%8F%E8%BF%87%E5%87%80%E5%8C%96%E7%9A%84%E6%AF%92%E6%B0%94%E7%BB%93%E6%99%B6"
+ },
+ "Quetzalapanecayotl": {
+  "zh": "阿兹特克的羽饰",
+  "desc": "Món trang sức đội đầu tìm thấy ở nơi tổ chức lễ hội người chết. Nghe nói vừa đội lên sẽ nghe trong đầu những tạp âm hỗn loạn gây choáng váng. Nếu vượt qua được, sẽ nghe rõ lời khải thị của một ai đó.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Res +1000, DR +14%",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Đồ trang trí Địa Phủ (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Quetzalapanecayotl",
+    "Safflower Red"
+   ],
+   "bonus": "Res +1000, CR +25%",
+   "full": "Res +3750, CR +25%, DR +14%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E9%98%BF%E5%85%B9%E7%89%B9%E5%85%8B%E7%9A%84%E7%BE%BD%E9%A5%B0"
+ },
+ "Red Dragon's Beard": {
+  "zh": "赤龙之须",
+  "desc": "Chùm tua huyền thoại mà Xích Long xuất hiện ở hoàng thất nước Trần đã tiến cống hoàng đế. Nhưng nghe đâu hoa cát cánh của Đông Minh còn nổi tiếng hơn.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Apen +1750",
+  "drop": [
+   "Ngũ Hổ Đại Tướng Trương Bào, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Bóng rồng (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Chantico's Dragon Scale",
+    "Red Dragon's Beard"
+   ],
+   "bonus": "Apen +1100, Atk +1500",
+   "full": "Apen +4000, Atk +1500, Acc +14"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E8%B5%A4%E9%BE%99%E4%B9%8B%E9%A1%BB"
+ },
+ "Safflower Red": {
+  "zh": "红花胭脂",
+  "desc": "Mỹ phẩm cao cấp nước Trần, lên màu đậm và bền màu, còn giúp tôn lên nét quyến rũ của người dùng.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Res +1750",
+  "drop": [
+   "Đạo sĩ, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Đồ trang trí Địa Phủ (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Quetzalapanecayotl",
+    "Safflower Red"
+   ],
+   "bonus": "Res +1000, CR +25%",
+   "full": "Res +3750, CR +25%, DR +14%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E7%BA%A2%E8%8A%B1%E8%83%AD%E8%84%82"
+ },
+ "Sharp Fang": {
+  "zh": "锋利的獠牙",
+  "desc": "Chiếc nanh sắc của thú hộ vệ Laporte. Áo giáp dày cứng cỡ nào cũng bị nó đâm thủng dễ dàng – nhưng nhìn hình dạng thì hình như vẫn chỉ là răng sữa. Mau lớn nhé, tương lai đầy hứa hẹn đấy.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Arm +2000",
+  "drop": [],
+  "set": {
+   "name": "Ý chí thành hình (rực rỡ)",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "逝者遗物（符文）",
+    "Sharp Fang"
+   ],
+   "bonus": "Arm +1000, CR +30%",
+   "full": "Arm +4000, CR +30%, DR +16%"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E9%94%8B%E5%88%A9%E7%9A%84%E7%8D%A0%E7%89%99"
+ },
+ "Spirit's Bear Gallbladder": {
+  "zh": "神灵之胆",
+  "desc": "Mật gấu của thần gấu nâu vùng biên cương. Xét về dược hiệu thì chẳng khác gì mật gấu thường.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Arm +1750",
+  "drop": [
+   "Thú Quỷ, Kho báu hoàng gia, Hộp sigil Vương quốc phía Đông"
+  ],
+  "set": {
+   "name": "Thần Địa Phủ (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Sun Tablet Fragment",
+    "Spirit's Bear Gallbladder"
+   ],
+   "bonus": "Arm +1000, CR +25%",
+   "full": "Arm +3750, CR +25%, DR +14%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E7%A5%9E%E7%81%B5%E4%B9%8B%E8%83%86"
+ },
+ "Sun Tablet Fragment": {
+  "zh": "太阳石板块",
+  "desc": "Mảnh phiến đá khắc ghi chép của nền văn minh cổ. Chữ đã thất truyền nên khó đọc, nhưng người ta đoán nội dung là cấm thuật.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Arm +1000, DR +14%",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Thần Địa Phủ (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Sun Tablet Fragment",
+    "Spirit's Bear Gallbladder"
+   ],
+   "bonus": "Arm +1000, CR +25%",
+   "full": "Arm +3750, CR +25%, DR +14%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E5%A4%AA%E9%98%B3%E7%9F%B3%E6%9D%BF%E5%9D%97"
+ },
+ "Tezquatlipoca's Heart": {
+  "zh": "特斯卡特利波卡的心脏",
+  "desc": "Chiếc bình đá tìm thấy ở trung tâm núi lửa Thái Sơ. Bên trong chảy dòng dung nham đỏ chưa đông. Sắc đỏ đập như mạch, tựa một trái tim thật.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "5",
+  "stats": "Apen +1050, Atk +1000",
+  "drop": [
+   "Sera, Tô tem phai màu, Tô tem cổ đại, Tô tem nguyên thủy"
+  ],
+  "set": {
+   "name": "Trái tim bầu trời (rực rỡ)",
+   "star": "5",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Tezquatlipoca's Heart",
+    "Ominous Core"
+   ],
+   "bonus": "Apen +1450, Atk +500",
+   "full": "Apen +4000, Atk +1500, CC +9%"
+  },
+  "price": "6000",
+  "src": "https://wiki.biligame.com/cq/%E7%89%B9%E6%96%AF%E5%8D%A1%E7%89%B9%E5%88%A9%E6%B3%A2%E5%8D%A1%E7%9A%84%E5%BF%83%E8%84%8F"
+ },
+ "Violet Rose": {
+  "zh": "紫霞仙子玫瑰",
+  "desc": "Kiệt tác của một nữ kỵ sĩ Steel Knights mê làm vườn. Đóa hồng lai này lấy cảm hứng từ mái tóc tuyệt đẹp của đoàn trưởng Joan. Vì được lai tạo hoàn toàn thủ công, không nhờ chút ma pháp nào, nên càng thêm quý giá.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Rpen +2500",
+  "drop": [],
+  "set": null,
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E7%B4%AB%E9%9C%9E%E4%BB%99%E5%AD%90%E7%8E%AB%E7%91%B0"
+ },
+ "Warm Heart": {
+  "zh": "温暖之心",
+  "desc": "Khí vận hóa thành từ lời cầu nguyện của Thánh Mẫu Maria. Ban bình an cho tín đồ Nữ Thần giáo, gieo hạt giống bất an cho kẻ dị giáo. Nghe nói thỉnh thoảng nó còn xuất hiện làm hàng bán ở buổi cầu nguyện ngày Chủ nhật.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Atk +1000, HP +65000",
+  "drop": [
+   "C17H Bức tường đá & Cổng chính"
+  ],
+  "set": null,
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E6%B8%A9%E6%9A%96%E4%B9%8B%E5%BF%83"
+ },
+ "Wings of Salvation": {
+  "zh": "救赎之翼",
+  "desc": "Một phần tượng nữ thần mà Thánh Mẫu Maria cầu nguyện. Chứa đựng thánh lực, chỉ cần mang theo là có thể chống lại tà khí.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "6",
+  "stats": "Rpen +1300, Acc +16",
+  "drop": [],
+  "set": {
+   "name": "Bằng chứng người hộ vệ (rực rỡ)",
+   "star": "6",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "Wings of Salvation",
+    "Captain's Token - Central"
+   ],
+   "bonus": "Rpen +1200, Atk +1750",
+   "full": "Rpen +4500, Atk +1750, Acc +16"
+  },
+  "price": "7000",
+  "src": "https://wiki.biligame.com/cq/%E6%95%91%E8%B5%8E%E4%B9%8B%E7%BF%BC"
+ },
+ "ST055 - Anti-Gravity Generator": {
+  "zh": "ST055 - 反重力装置",
+  "desc": "Ma đạo binh khí tạo ra trường trọng lực, mô phỏng đặc tính của một mê cung nào đó ở Herseira. Nó giảm tải cho khớp của robot chiến đấu, giúp thực hiện những động tác vốn không thể làm được.",
+  "type": "Set",
+  "grade": "Sử thi (Epic)",
+  "star": "3",
+  "stats": "Rpen +850, Atk +750",
+  "drop": [
+   "Robot chiến đấu NS000, Hộp tiếp tế vật phẩm, Hộp tiếp tế vật phẩm cao cấp, Hàng hóa Sở quy hoạch thành phố đáy biển"
+  ],
+  "set": {
+   "name": "Động cơ phản trọng lực (rực rỡ)",
+   "star": "3",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "ST055 - Anti-Gravity Generator",
+    "Lightning Stone"
+   ],
+   "bonus": "Khi bản thân dùng 3 chain, hất tung toàn bộ kẻ địch. (Hồi chiêu: 7 giây)",
+   "full": "Rpen +1850, Atk +750, CC +5%, khi bản thân dùng 3 chain, hất tung toàn bộ kẻ địch (hồi chiêu: 7 giây)"
+  },
+  "price": "4000",
+  "src": "https://wiki.biligame.com/cq/ST055%20-%20%E5%8F%8D%E9%87%8D%E5%8A%9B%E8%A3%85%E7%BD%AE"
+ },
+ "Lightning Stone": {
+  "zh": "闪电结晶",
+  "desc": "Viên đá chứa sấm sét được tìm thấy khắp nơi ở Nosgarde. Tương truyền có đứa trẻ sinh ra đã mang viên đá này trong người.",
+  "type": "Đơn lẻ",
+  "grade": "Sử thi (Epic)",
+  "star": "3",
+  "stats": "Rpen +1000, CC +5%",
+  "drop": [
+   "Rigrief, Bảo vật Nosgarde, Hộp sigil Nosgarde"
+  ],
+  "set": {
+   "name": "Động cơ phản trọng lực (rực rỡ)",
+   "star": "3",
+   "grade": "Sử thi (Epic)",
+   "pieces": [
+    "ST055 - Anti-Gravity Generator",
+    "Lightning Stone"
+   ],
+   "bonus": "Khi bản thân dùng 3 chain, hất tung toàn bộ kẻ địch. (Hồi chiêu: 7 giây)",
+   "full": "Rpen +1850, Atk +750, CC +5%, khi bản thân dùng 3 chain, hất tung toàn bộ kẻ địch (hồi chiêu: 7 giây)"
+  },
+  "price": "4000",
+  "src": "https://wiki.biligame.com/cq/%E9%97%AA%E7%94%B5%E7%BB%93%E6%99%B6"
+ }
+}

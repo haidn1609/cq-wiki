@@ -82,3 +82,18 @@ sup.auto{color:#c0392b;font-weight:700;margin-left:1px}
 main .tbl-wrap{display:flow-root}
 main h3{clear:none}
 .chip.auto{border-style:dashed;border-color:#c0392b}
+/* Sigil bấm được + popup */
+button.sg,button.cnt{font:inherit;color:var(--link);background:none;border:0;padding:0;cursor:pointer;text-align:left}
+button.sg:hover,button.cnt:hover{text-decoration:underline}
+button.cnt{font-weight:700;padding:1px 8px;border:1px solid var(--line);border-radius:12px;background:#f3f6fb}
+button.chip.cnt{font-weight:400}
+dialog#pop{max-width:min(640px,94vw);max-height:86vh;overflow:auto;border:1px solid var(--line);border-radius:8px;padding:18px 22px;box-shadow:0 10px 40px #0005}
+dialog#pop::backdrop{background:#0006}
+dialog#pop h2{margin-top:0;border:0}
+dialog#pop .x{position:sticky;top:0;float:right;font-size:22px;line-height:1;background:none;border:0;cursor:pointer;color:var(--mute)}
+.sghead{display:flex;gap:12px;align-items:center;margin-bottom:8px}
+.sghead img{width:48px;height:48px;image-rendering:pixelated}
+.sghead h2{margin:0;font-size:20px}
+table.kv{width:100%}
+table.kv th{width:32%;white-space:nowrap}
+.lore{font-style:italic;color:var(--mute);border-left:3px solid var(--line);padding-left:10px}

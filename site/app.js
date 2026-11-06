@@ -10,7 +10,9 @@ const IMG = D.images || {skill: {}, sigil: {}, src: {}};
 const hic = (n, cl = 'hi') => H[n]?.img?.icon ? `<img class="${cl}" src="${H[n].img.icon}" alt="" loading="lazy">` : '';
 const hli = n => H[n] ? `<a class="hl" href="${href(n)}">${hic(n)}${esc(n)}</a>` : esc(n);
 const ski = s => `${IMG.skill[s] ? `<img class="si" src="${IMG.skill[s]}" alt="" loading="lazy">` : ''}${esc(s)}`;
-const sgi = s => `${IMG.sigil[s] ? `<img class="gi" src="${IMG.sigil[s]}" alt="" loading="lazy">` : ''}${esc(s)}`;
+const sgi0 = s => `${IMG.sigil[s] ? `<img class="gi" src="${IMG.sigil[s]}" alt="" loading="lazy">` : ''}${esc(s)}`;
+// Sigil có dữ liệu chi tiết -> nút bấm mở popup; sigil chung kiểu "Atk / ☆☆☆☆☆" thì chỉ là chữ
+const sgi = s => D.sigils?.[s] ? `<button type="button" class="sg" data-sigil="${esc(s)}">${sgi0(s)}</button>` : sgi0(s);
 const sigs = a => a.map(sgi).join(' + ');
 const rich = s => esc(s).replace(/\*\*(.+?)\*\*/g, '<b>$1</b>').replace(/\[\[([^\]]+)\]\]/g, (m, n) => H[n] ? hli(n) : `<b>${n}</b>`);
 const rtxt = s => `<div class="pre">${rich(s)}</div>`;
@@ -136,8 +138,9 @@ const pages = {
     <div class="filters"><select id="dc"><option value="">Mọi class</option>${D.classes.map(x => `<option>${x}</option>`).join('')}</select></div>
     <div id="dt">${dpsTable(D.dps)}</div>`,
 
-  sigils: () => `<h1>Set sigil</h1><p class="mute">Các bộ sigil được dùng trong phần build hero, theo từng giai đoạn. “Số hero dùng” = số hero được khuyên dùng set này.</p>
-    ${table(['Set', 'Cuối game', 'Giữa game', 'Đầu game', 'Số hero dùng'], D.sigilsets.map(s => [esc(s.name), s.end.map(sgi).join('<br>'), s.mid.map(sgi).join('<br>'), s.early.map(sgi).join('<br>'), num(s.used)]))}`,
+  sigils: () => `<h1>Set sigil</h1><p class="mute">Các bộ sigil được dùng trong phần build hero, theo từng giai đoạn. Bấm vào tên sigil để xem chi tiết (chỉ số, set, nơi rơi); bấm vào “Số hero dùng” để xem danh sách hero.</p>
+    ${table(['Set', 'Cuối game', 'Giữa game', 'Đầu game', 'Số hero dùng'], D.sigilsets.map((s, i) => [esc(s.name), s.end.map(sgi).join('<br>'), s.mid.map(sgi).join('<br>'), s.early.map(sgi).join('<br>'),
+      {v: s.used ? `<button type="button" class="cnt" data-set="${i}" title="Xem các hero dùng set này">${s.used}</button>` : '0', c: 'num'}]))}`,
 
   equip: () => {
     const fmt = (k, v) => typeof v === 'number' && v < 1 && !['HP', 'HAP', 'Arm', 'Res', 'APen', 'Rpen'].includes(k) ? `${(v * 100).toFixed(2).replace(/\.?0+$/, '')}%` : v;
@@ -212,6 +215,48 @@ function dpsTable(list) {
     list.map(d => [`${hli(d.name)}${d.icon ? ` <img class="ic" src="${d.icon}" alt="" title="Biểu tượng loại sát thương">` : ''}`, cls(d.cls), num(d.reg), num(d.regHit), num(d.champ), num(d.champHit), num(d.inf), num(d.infHit),
       txt(d.bpm), txt(d.cond), num(d.scale.join(' / ')), esc(d.pen), txt([d.note, ...d.tips].filter(Boolean).join('\n'))]));
 }
+
+// Popup (dùng <dialog> gốc của trình duyệt): chi tiết sigil & danh sách hero dùng set
+const dlg = document.createElement('dialog');
+dlg.id = 'pop';
+document.body.appendChild(dlg);
+dlg.addEventListener('click', e => { if (e.target === dlg || e.target.closest('.x') || e.target.closest('a')) dlg.close(); });
+function pop(html) { dlg.innerHTML = `<button type="button" class="x" aria-label="Đóng">×</button>${html}`; dlg.showModal(); }
+
+function sigilPop(n) {
+  const g = D.sigils[n], st = g.set;
+  const usedBy = D.sigilsets.filter(s => [...s.end, ...s.mid, ...s.early].includes(n));
+  return `<div class="sghead">${IMG.sigil[n] ? `<img src="${IMG.sigil[n]}" alt="">` : ''}<div><h2>${esc(n)}</h2>
+      <div class="mute">${'★'.repeat(+g.star || 0)} · ${esc(g.grade)} · ${esc(g.type)}</div></div></div>
+    <table class="kv">
+      <tr><th>Chỉ số</th><td><b>${esc(g.stats)}</b></td></tr>
+      ${g.drop.length ? `<tr><th>Nơi rơi</th><td>${g.drop.map(esc).join('<br>')}</td></tr>` : ''}
+      ${g.price ? `<tr><th>Giá bán</th><td>${esc(g.price)} vàng</td></tr>` : ''}
+    </table>
+    ${st ? `<h3>Set: ${esc(st.name)}</h3><table class="kv">
+      <tr><th>Gồm</th><td>${st.pieces.map(p => p === n ? `<b>${sgi0(p)}</b>` : (D.sigils[p] ? `<button type="button" class="sg" data-sigil="${esc(p)}">${sgi0(p)}</button>` : esc(p))).join(' + ')}</td></tr>
+      <tr><th>Hiệu ứng set</th><td>${esc(st.bonus)}</td></tr>
+      <tr><th>Đủ bộ (cả 2 món)</th><td><b>${esc(st.full)}</b></td></tr></table>` : '<p class="mute">Sigil này không thuộc set nào.</p>'}
+    ${usedBy.length ? `<h3>Có trong các set build</h3><div class="chips">${usedBy.map(s => `<button type="button" class="chip cnt" data-set="${D.sigilsets.indexOf(s)}">${esc(s.name)} (${s.used} hero)</button>`).join('')}</div>` : ''}
+    ${g.desc ? `<p class="lore">${esc(g.desc)}</p>` : ''}
+    <p class="mute">Nguồn: <a href="${g.src}" target="_blank" rel="noopener">BWiki – ${esc(g.zh)}</a></p>`;
+}
+
+function setPop(i) {
+  const s = D.sigilsets[i];
+  const main = s.heroes.filter(x => !x.alt), alt = s.heroes.filter(x => x.alt && !main.some(m => m.name === x.name));
+  const list = a => `<div class="chips">${a.map(x => `<a class="chip hl" href="${href(x.name)}">${hic(x.name)}${esc(x.name)}${H[x.name]?.rank ? ` ${rk(H[x.name].rank)}` : ''}</a>`).join('')}</div>`;
+  return `<h2>${esc(s.name)}</h2><p class="mute">${s.used} hero dùng set này (theo tier list cộng đồng EN).</p>
+    <table class="kv"><tr><th>Cuối game</th><td>${sigs(s.end)}</td></tr><tr><th>Giữa game</th><td>${sigs(s.mid)}</td></tr><tr><th>Đầu game</th><td>${sigs(s.early)}</td></tr></table>
+    ${main.length ? `<h3>Build chính (${main.length})</h3>${list(main)}` : ''}
+    ${alt.length ? `<h3>Build thay thế – ALT. (${alt.length})</h3>${list(alt)}` : ''}`;
+}
+
+document.addEventListener('click', e => {
+  const sg = e.target.closest('button.sg'), ct = e.target.closest('button.cnt');
+  if (sg) pop(sigilPop(sg.dataset.sigil));
+  else if (ct) pop(setPop(+ct.dataset.set));
+});
 
 // Sắp xếp bảng khi bấm tiêu đề
 main.addEventListener('click', e => {
